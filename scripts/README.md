@@ -136,6 +136,8 @@ plot_peptide_sequence(
 )
 ```
 
-<img src="plot_structure.png" alt="plot_structure example" width="300">
+<p align="center">
+  <img src="plot_structure.png" alt="plot_structure example" width="500">
+</p>
 
 For advanced usage, see `figures/Fig3/fig3_c.ipynb`

@@ -11,8 +11,6 @@ for fig in Fig*/figure*; do
 done
 
 git init
-git add *
-git commit -m "init commit"
-git branch -M main
-git remote add origin https://github.com/JuseTiZ/RDHGs_mutation_analysis.git
-git push -u origin main
+git add -A
+git commit -m "update"
+git push
