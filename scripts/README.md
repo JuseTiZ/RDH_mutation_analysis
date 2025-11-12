@@ -7,6 +7,14 @@ This directory contains essential scripts used to generate, process, and analyze
 
 If you encounter any issues while running these scripts or have questions beyond the scope of the provided documentation, please reach out via **[e-mail](mailto:jiangzj6@mail2.sysu.edu.cn)** or open an **[issue on GitHub](https://github.com/JuseTiZ/RDHGs_mutation_analysis/issues)**.
 
+- [associate\_run.py](#associate_runpy)
+- [calculate\_1-3-mer\_mt.py](#calculate_1-3-mer_mtpy)
+- [calcu\_transcript\_feature.py](#calcu_transcript_featurepy)
+- [demography\_perturb\_opt.py](#demography_perturb_optpy)
+- [DFE\_cache.py](#dfe_cachepy)
+- [get\_4dsite.py](#get_4dsitepy)
+- [plot\_structure.py](#plot_structurepy)
+
 ### associate_run.py
 
 This script performs genetic association analysis for both binary and continuous traits based on a given DataFrame (e.g., UK Biobank-derived datasets). It supports logistic regression for binary phenotypes and ordinary least squares (OLS) regression for quantitative traits. It was inspired by and partially references the [PheTK framework](https://github.com/nhgritctran/PheTK).
