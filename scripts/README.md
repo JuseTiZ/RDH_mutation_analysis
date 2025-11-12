@@ -8,7 +8,41 @@ If you countered problems while using these scripts or doubts outside these prov
 
 ### associate_run.py
 
+This script performs genetic association analysis for both binary and continuous traits based on a given DataFrame (e.g., UK Biobank-derived datasets). It supports logistic regression for binary phenotypes and ordinary least squares (OLS) regression for quantitative traits. It was inspired by and partially references the [PheTK framework](https://github.com/nhgritctran/PheTK).
 
+**Example usage:**
+
+```
+# For binary traits
+python association_run.py \
+    -i ukb.RDH_burden.white_british_no_relationship.csv \
+    --covariates age age_square sex pc1 pc2 pc3 pc4 pc5 pc6 pc7 pc8 pc9 pc10 \
+    --var_of_interest missense pLoF synonymous \
+    -p "DD" "Child DD" "Adult DD" "have child" "Mental Health" "F70-89" "F80-89" "spontaneous" "infertility" "Male infertility" "Female infertility" \
+    --sex None None None None None None None 1 None 0 1 \
+    -o ukb.RDH_burden.WBnR.aggregate_mutation_association.binary.tsv
+# For continuous traits
+python association_run.py \
+    -i ukb.RDH_burden.white_british_no_relationship.csv \
+    --covariates age age_square sex pc1 pc2 pc3 pc4 pc5 pc6 pc7 pc8 pc9 pc10 \
+    --var_of_interest missense pLoF synonymous \
+    -p "Fluid intelligence" "Reaction time" "Time taken on pairs matching test" "Numeric memory" "Reaction time (IN)" "Numeric memory (IN)" "Number of live births" "Number of children fathered" \
+    --sex None None None None None None 1 0 \
+    --OLS \
+    -o ukb.RDH_burden.WBnR.aggregate_mutation_association.continu.tsv
+```
+
+**Parameters:**
+
+- `-i`: Input CSV file containing phenotype, covariates, and variant carrying status.
+- `--covariates`: Covariate columns used to control confounding factors.
+- `--var_of_interest`: Variables (e.g., burden counts) to be tested for association.
+- `-p`: Phenotypes (traits) to be analyzed.
+- `--sex`: *Optional* restriction per phenotype. None for both sexes. The numeric meaning must match your dataset’s sex encoding scheme.
+- `-o`: Output TSV file for storing results.
+- `--OLS`: Use linear regression for continuous traits.
+
+For complete parameter details, run: `python association_run.py -h`
 
 ### calculate_1-3-mer_mt.py
 
@@ -81,7 +115,7 @@ If a genomic position is four-fold degenerate in one transcript but not in anoth
 **Example usage:**
 
 ```
-python scripts/utils/get_4dsite.py \
+python get_4dsite.py \
     --gtffile gencode.v44.basic.annotation.Ensembl_canonical.autosomes.gtf \
     --genome hg38.fa \
     --valid_pc gencode.v44.pc_translations.fa.gz \
@@ -116,17 +150,18 @@ from plot_structure import plot_peptide_sequence
 import matplotlib.pyplot as plt
 import numpy as np
 
-sequence = "MARTKQTARKSTAGGKAPRKQLATKAARKS"
+sequence = "MARTKQTARKSDAGGKAPRKQLATKAARKS"
 annotations = [
     {"label": "Helix 1", "range": (5, 12), "style": "helix", "color": "red"},
     {"label": "Motif A", "range": (20, 25), "style": "brace", "color": "blue"},
 ]
 
+np.random.seed(42)
 values = np.random.rand(len(sequence))
 
 plt.figure(figsize=(5, 2))
 
-plot_peptide_sequence(
+fig, _, _ = plot_peptide_sequence(
     seq=sequence,
     seq_label="test",
     annotations=annotations,
@@ -134,6 +169,8 @@ plot_peptide_sequence(
     bar_label="value",
     height_ratios=[6, 1],
 )
+
+fig.savefig("plot_structure.png", dpi=300, bbox_inches="tight")
 ```
 
 <p align="center">
