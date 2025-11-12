@@ -1,10 +1,11 @@
 ## Overview
 
-This directory includes ensential scripts that used to generate or process data.
+This directory contains essential scripts used to generate, process, and analyze data for this project. Each script is documented individually with example commands and parameter explanations.
 
-File paths in example usages were provided just for reference, please modify the path to the files in your filesystem.
+> **Note:**
+> Example file paths provided in the usage examples are **for reference only**. Please adjust them according to your own filesystem structure.
 
-If you countered problems while using these scripts or doubts outside these provided scripts, please contact via e-mail jiangzj6@mail2.sysu.edu.cn or open issue on https://github.com/JuseTiZ/RDHGs_mutation_analysis/issues.
+If you encounter any issues while running these scripts or have questions beyond the scope of the provided documentation, please reach out via **[e-mail](mailto:jiangzj6@mail2.sysu.edu.cn)** or open an **[issue on GitHub](https://github.com/JuseTiZ/RDHGs_mutation_analysis/issues)**.
 
 ### associate_run.py
 
@@ -106,6 +107,59 @@ python calcu_transcript_feature.py \
 
 For complete parameter details, run: `python calcu_transcript_feature.py -h`
 
+### demography_perturb_opt.py
+
+This script performs one-dimensional demographic inference using the [δaδi](https://github.com/RyanGutenkunst/dadi) (dadi) framework. It fits a three-phase demographic model consisting of an initial bottleneck, recovery phase, and recent exponential growth to synonymous SNP data from population genetic samples.
+
+**Example usage:**
+
+1. **Use VCF Input**
+```
+python demography_perturb_opt.py \
+    -v hg38.1kg_superanc_EUR.unrelated_493indivi.gencodeV44ensemblCano_CDS.synonymous_snv.vcf.gz \
+    --popinfo 1KGenome.unrelated.EUR.txt \
+    -s 42 --popid EUR --ns 900 --fold_fs \
+    -o result/1kg_unrelated_EUR/1KGenome.unrelated.EUR
+```
+
+2. **Use Pre-computed dadi Data Dictionary**
+```
+python demography_perturb_opt.py \
+    --data_dict result/gnomad_nfe/gnomadv4.all_snv.only_nfe.synonymous.bpkl \
+    -s 42 --popid NFE --ns 2000 --fold_fs \
+    -o result/gnomad_nfe/gnomadv4.nfe
+```
+
+3. **Parallel Optimization with SLURM**
+```
+#!/bin/bash
+#SBATCH -J gnomad1ddemo
+#SBATCH -w node80
+#SBATCH --array=1-100%48
+#SBATCH --ntasks=1
+#SBATCH -o logs/gnomad1ddemo_%A_%a.out
+#SBATCH -e logs/gnomad1ddemo_%A_%a.err
+
+seed=${SLURM_ARRAY_TASK_ID}
+python demography_perturb_opt.py \
+    --data_dict result/gnomad_nfe/gnomadv4.all_snv.only_nfe.synonymous.bpkl \
+    -s $seed --popid NFE --ns 2000 --fold_fs \
+    -o result/gnomad_nfe/gnomadv4.nfe
+```
+
+**Parameters:**
+
+- `-v`: Input VCF file containing synonymous SNVs and genotype information for demographic inference.
+- `--popinfo`: Population information file for individuals. Format follows dadi’s population info file structure.
+- `--data_dict`: Pre-computed dadi data dictionary file (`.bpkl`). If provided, this takes priority over `--vcf`.
+- `-s`: Random seed for perturbing initial parameters.
+- `--popid`: Population ID. Used to define the sample for 1D SFS.
+- `--ns`: Projected sample size for the SFS.
+- `--fold_fs`: Fold the SFS (set for unpolarized data). If not set, SFS is unfolded (polarized).
+- `-o`: Output prefix for intermediate and result files.
+
+For complete parameter details, run: `python demography_perturb_opt.py -h`
+
 ### get_4dsite.py
 
 This script identifies four-fold degenerate (4D) sites based on a given GTF annotation and genome FASTA file.
@@ -135,7 +189,7 @@ For complete parameter details, run: `python get_4dsite.py -h`
 
 ### plot_structure.py
 
-This script provides a set of visualization utilities for protein structure and sequence annotation, integrating both secondary structure parsing (via DSSP and mmCIF files) and highly customizable peptide/sequence plotting using Matplotlib.
+This script provides a set of visualization utilities for protein structure and sequence annotation, integrating both secondary structure parsing (via DSSP and mmCIF files) and highly customizable peptide/sequence plotting using Matplotlib. It was inspired by and partially references the [seqplot](https://github.com/intbio/seqplot).
 
 | Main function                      | Purpose                                                                                                                      |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
