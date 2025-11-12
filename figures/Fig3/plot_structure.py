@@ -1,1 +1,0 @@
-/public4/home/jiangzj/github/RDHGs_mutation_analysis/scripts/plot_structure.py
