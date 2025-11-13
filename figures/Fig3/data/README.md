@@ -2,15 +2,15 @@
 
 If you have any questions, please feel free to contact me via **[e-mail](mailto:jiangzj6@mail2.sysu.edu.cn)** or open an **[issue on GitHub](https://github.com/JuseTiZ/RDHGs_mutation_analysis/issues)**.
 
-- [1. `Bagert_histone_mut.benchmark.tsv`](#1-bagert_histone_mutbenchmarktsv)
-- [2. `cRDH.MSA_MTR.obs_RGC.pred_MuRaL.csv`](#2-crdhmsa_mtrobs_rgcpred_muralcsv)
-- [3. `cRDH.PTM.intra_interaction.summary.pkl`](#3-crdhptmintra_interactionsummarypkl)
-- [4. `cRDH.secondary_structure_anno.json`](#4-crdhsecondary_structure_annojson)
-- [5. `gene.variant_record.gnomad_RGCME.csv`](#5-genevariant_recordgnomad_rgcmecsv)
+  - [`Bagert_histone_mut.benchmark.tsv`](#bagert_histone_mutbenchmarktsv)
+  - [`cRDH.MSA_MTR.obs_RGC.pred_MuRaL.csv`](#crdhmsa_mtrobs_rgcpred_muralcsv)
+  - [`cRDH.PTM.intra_interaction.summary.pkl`](#crdhptmintra_interactionsummarypkl)
+  - [`cRDH.secondary_structure_anno.json`](#crdhsecondary_structure_annojson)
+  - [`gene.variant_record.gnomad_RGCME.csv`](#genevariant_recordgnomad_rgcmecsv)
 
-## 1. `Bagert_histone_mut.benchmark.tsv`
+## `Bagert_histone_mut.benchmark.tsv`
 
-This file corresponds to **Supplementary Table 2**. It serves as a benchmark dataset linking every possible missense substitution in cRDHGs to experimentally measured phenotypic effects.
+This file corresponds to **Supplementary Table 2**. It serves as a benchmark dataset linking missense substitutions in cRDHGs to experimentally measured phenotypic effects.
 
 ### How this file was generated
 
@@ -19,7 +19,7 @@ A reproducible workflow follows the methods described in the original paper. Bri
 1. **Enumerate all possible SNVs** across cRDHG coding sequences to produce a comprehensive VCF.
 2. **Annotate functional consequence** using **ANNOVAR**.
 3. For each missense SNV, **compute functional scores** (REVEL, AlphaMissense, MSA-MTR, MPC, ProSST, ESM-1v, etc.) using either VEP plugins or in-house Python parsing.
-4. **Retrieve quantitative phenotypic effects** (growth defect scores) from
+4. **Retrieve quantitative phenotypic effects** from
    *Bagert et al., Nat. Chem. Biol., 2021*
    DOI: [https://doi.org/10.1038/s41589-021-00738-1](https://doi.org/10.1038/s41589-021-00738-1)
 5. For each amino acid substitution, **average metric values across all SNVs** that can generate that amino-acid change (unnecessary for some metrics).
@@ -67,9 +67,7 @@ A reproducible workflow follows the methods described in the original paper. Bri
 * **ESM-1v functional prediction**
   Pipeline from: [https://github.com/ntranoslab/esm-variants](https://github.com/ntranoslab/esm-variants)
 
----
-
-## 2. `cRDH.MSA_MTR.obs_RGC.pred_MuRaL.csv`
+## `cRDH.MSA_MTR.obs_RGC.pred_MuRaL.csv`
 
 This file reports **MSA-MTR** values for every position across cRDHGs. It corresponds to **Supplementary Table 4**.
 
@@ -80,9 +78,7 @@ Values are derived from:
 
 A detailed description of the generation workflow can be found in the methods section of the manuscript.
 
----
-
-## 3. `cRDH.PTM.intra_interaction.summary.pkl`
+## `cRDH.PTM.intra_interaction.summary.pkl`
 
 This file contains **post-translational modification (PTM)** annotations and **intra-nucleosome interaction** profiles for each cRDH family.
 
@@ -146,9 +142,7 @@ Values include:
   AlphaFold Server
   [https://alphafoldserver.com/](https://alphafoldserver.com/)
 
----
-
-## 4. `cRDH.secondary_structure_anno.json`
+## `cRDH.secondary_structure_anno.json`
 
 This JSON file provides **secondary structure annotations** for cRDH.
 
@@ -157,15 +151,9 @@ This JSON file provides **secondary structure annotations** for cRDH.
 
 ### Reproducing these annotations
 
-The secondary structure was parsed from the **7PFV nucleosome structure**.
+The secondary structure was parsed from the **7PFV nucleosome structure**. You can regenerate the annotation using `get_structure()` in `scripts/plot_structure.py`. The function identifies helix/sheet regions and returns their residue intervals.
 
-You can regenerate the annotation using `get_structure()` in `scripts/plot_structure.py`.
-
-The function identifies helix/sheet regions and returns their residue intervals.
-
----
-
-## 5. `gene.variant_record.gnomad_RGCME.csv`
+## `gene.variant_record.gnomad_RGCME.csv`
 
 This table summarizes **gene-level variant count** across gnomAD and RGC-ME, stratified by functional consequence and AF bins.
 
