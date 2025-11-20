@@ -172,7 +172,10 @@ def main():
                         mt_three_mer = mt_three_mer.reverse_complement()
 
                     if 'N' not in mt_three_mer:
-                        three_mer_variant_info[f'{mt_three_mer}>{mt_three_mer[0]}{alt}{mt_three_mer[-1]}'][add_item] += 1
+                        if mt_three_mer in three_mer_list:
+                            three_mer_variant_info[f'{mt_three_mer}>{mt_three_mer[0]}{alt}{mt_three_mer[-1]}'][add_item] += 1
+                        else:
+                            print(f'Unexpected 3-mer {mt_three_mer} in {chr}:{pos+1}, skip.')
                     else:
                         print(f'N found in {chr}:{pos+1} 3-mer {mt_three_mer}, skip.')
 

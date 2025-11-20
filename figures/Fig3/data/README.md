@@ -10,7 +10,7 @@ If you have any questions, please feel free to contact me via **[e-mail](mailto:
 
 ## `Bagert_histone_mut.benchmark.tsv`
 
-This file corresponds to **Supplementary Table 2**. It serves as a benchmark dataset linking missense substitutions in cRDHGs to experimentally measured phenotypic effects.
+This file corresponds to **Supplementary Table 2**. It serves as a benchmark dataset linking missense substitutions in cRDHs to experimentally measured phenotypic effects.
 
 ### How this file was generated
 
@@ -69,7 +69,7 @@ A reproducible workflow follows the methods described in the original paper. Bri
 
 ## `cRDH.MSA_MTR.obs_RGC.pred_MuRaL.csv`
 
-This file reports **MSA-MTR** values for every position across cRDHGs. It corresponds to **Supplementary Table 4**.
+This file reports **MSA-MTR** values for every position across cRDHs. It corresponds to **Supplementary Table 4**.
 
 Values are derived from:
 
@@ -153,6 +153,8 @@ This JSON file provides **secondary structure annotations** for cRDH.
 
 The secondary structure was parsed from the **7PFV nucleosome structure**. You can regenerate the annotation using `get_structure()` in `scripts/plot_structure.py`. The function identifies helix/sheet regions and returns their residue intervals.
 
+The positions of the patches and tail domains were referenced from [Nacev et al.](https://doi.org/10.1038/s41586-019-1038-1) and [Armeev et al.](https://doi.org/10.1038/s41467-021-22636-9).
+
 ## `gene.variant_record.gnomad_RGCME.csv`
 
 This table summarizes **gene-level variant count** across gnomAD and RGC-ME, stratified by functional consequence and AF bins.
@@ -164,7 +166,7 @@ This table summarizes **gene-level variant count** across gnomAD and RGC-ME, str
 | `gene`                             | Gene name                                                                |
 | `[dataset]_[consequence]_[AF bin]` | Count of variants in each combination |
 | `non_nsite`, `mis_nsite`, `ssite`  | Predicted mutation-rate sums from MuRaL                                  |
-| `is_cRDHGs`                        | Boolean indicating whether the gene belongs to the cRDHG family          |
+| `is_cRDHGs`                        | Boolean indicating whether the gene belongs to the cRDH family          |
 
 ### How to generate
 
