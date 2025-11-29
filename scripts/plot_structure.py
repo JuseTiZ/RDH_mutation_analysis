@@ -182,16 +182,66 @@ def add_annotations(ax_seq, annotations, per_amino_acid_width):
             ax_seq.add_patch(patch)
 
         elif style == 'helix':
-            num_turns = width * 4 
-            x_values = np.linspace(start_pos, start_pos + width_scaled, int(width * 100))
-            y_offset = -0.3 - y_offset_more
-            amplitude = 0.1 
-            y_values = amplitude * np.sin(2 * np.pi * num_turns * (x_values - start_pos) / width_scaled) + y_offset
-            ax_seq.plot(x_values, y_values, color=style_color, linewidth=0.5)
+            n_res = max(int(width), 1)
+
+            x_start = start_pos
+            x_step = width_scaled / n_res
+            hx_step = x_step / 2.0
+
+            helix_height = per_amino_acid_width * 2.5
+            y_center = -0.5 - y_offset_more
+            y_curl   = y_center - helix_height * 0.4
+            ellipse_height = helix_height * 1.2
+            ellipse_width  = ellipse_height * 0.2
+            y_ellipse = y_center + ellipse_height / 2.0
+
+            Path = mpath.Path
+            lead_path = patches.PathPatch(
+                Path(
+                    [(x_start - hx_step, y_center),
+                    (x_start,           y_curl),
+                    (x_start + hx_step, y_center)],
+                    [Path.MOVETO, Path.CURVE3, Path.CURVE3]
+                ),
+                fc="none",
+                edgecolor=style_color,
+                linewidth=0.5,
+                zorder=3,
+            )
+            ax_seq.add_patch(lead_path)
+
+            for i in range(n_res):
+                x_pos = x_start + i * x_step
+                ell = patches.Ellipse(
+                    (x_pos + hx_step, y_ellipse),
+                    ellipse_width,
+                    ellipse_height,
+                    linewidth=0.5,
+                    edgecolor=style_color,
+                    facecolor="none",
+                    zorder=3,
+                )
+                ax_seq.add_patch(ell)
+                curve_path = patches.PathPatch(
+                    Path(
+                        [(x_pos + hx_step,          y_center),
+                        (x_pos + x_step,           y_curl),
+                        (x_pos + hx_step + x_step, y_center)],
+                        [Path.MOVETO, Path.CURVE3, Path.CURVE3]
+                    ),
+                    fc="none",
+                    edgecolor=style_color,
+                    linewidth=0.5,
+                    zorder=3,
+                )
+                ax_seq.add_patch(curve_path)
+            # Adjust for label
+            y_offset_more += 0.2
 
         # Add annotation text below
         ax_seq.text(start_pos + width_scaled / 2 + text_offset_scaled, -0.55 - y_offset_more, label,
                     ha='center', va='top')
+        
     max_y_offset = max(y_offset_more_lst) if y_offset_more_lst else 0
     return max_y_offset
 

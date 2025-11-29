@@ -154,19 +154,21 @@ def main():
         if len(cds_sequence) % 3 != 0:
             continue
 
+        # Translate the CDS sequence to protein sequence
+        try:
+            protein_sequence = cds_sequence.translate(table=codon_table)
+        except Exception as e:
+            # If translation fails, skip this transcript
+            print(f"Error translating {transcript_id}: {e}")
+            continue
+
         # Save protein sequence if needed
         if args.output_pep:
-            try:
-                protein_sequence = cds_sequence.translate(table=codon_table)
-                transcript_id_pep_dict[transcript_id] = str(protein_sequence)
-                transcript_id_cds_dict[transcript_id] = cds_sequence
-            except Exception as e:
-                print(f"Error translating {transcript_id}: {e}")
-                continue
+            transcript_id_pep_dict[transcript_id] = str(protein_sequence)
+            transcript_id_cds_dict[transcript_id] = cds_sequence
 
         # Valid if translated sequence match with annotation
         if args.valid_pc is not None:
-            protein_sequence = cds_sequence.translate(table=codon_table)
             protein_sequence = protein_sequence.replace('*', '') # For Sec
             if transcript_id in pc_fasta:
                 ref_pc_seq = pc_fasta[transcript_id].seq

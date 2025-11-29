@@ -1,31 +1,4 @@
 gene group,species,region,mutation,density
-RIHGs,human,transcript,C>A&G>T,0.03496255364140276
-RIHGs,human,transcript,C>A&G>T(CpG),0.08211702843703868
-RIHGs,human,transcript,C>G&G>C,0.042728436728742596
-RIHGs,human,transcript,C>G&G>C(CpG),0.08849194259377213
-RIHGs,human,transcript,C>T&G>A,0.12675805683908098
-RIHGs,human,transcript,C>T&G>A(CpG),0.8209591478715162
-RIHGs,human,transcript,T>A&A>T,0.01942694014410803
-RIHGs,human,transcript,T>C&A>G,0.08917038857592527
-RIHGs,human,transcript,T>G&A>C,0.025664853989833376
-Expressed genes,human,transcript,C>A&G>T,0.04242534540070627
-Expressed genes,human,transcript,C>A&G>T(CpG),0.09603644109784139
-Expressed genes,human,transcript,C>G&G>C,0.04569601356713603
-Expressed genes,human,transcript,C>G&G>C(CpG),0.0817820266989122
-Expressed genes,human,transcript,C>T&G>A,0.12872158239738588
-Expressed genes,human,transcript,C>T&G>A(CpG),1.4327825557638902
-Expressed genes,human,transcript,T>A&A>T,0.022568531909585157
-Expressed genes,human,transcript,T>C&A>G,0.09467432068749541
-Expressed genes,human,transcript,T>G&A>C,0.026477134037318256
-Unexpressed genes,human,transcript,C>A&G>T,0.046339198767828646
-Unexpressed genes,human,transcript,C>A&G>T(CpG),0.10849366949359389
-Unexpressed genes,human,transcript,C>G&G>C,0.04326568756457007
-Unexpressed genes,human,transcript,C>G&G>C(CpG),0.08553301010748789
-Unexpressed genes,human,transcript,C>T&G>A,0.13112427325336629
-Unexpressed genes,human,transcript,C>T&G>A(CpG),1.3363631980060648
-Unexpressed genes,human,transcript,T>A&A>T,0.02344011451438493
-Unexpressed genes,human,transcript,T>C&A>G,0.09239076953700412
-Unexpressed genes,human,transcript,T>G&A>C,0.025676913261658607
 RDHGs,human,transcript,C>A&G>T,0.06137470928329416
 RDHGs,human,transcript,C>A&G>T(CpG),0.08458059203813977
 RDHGs,human,transcript,C>G&G>C,0.10400553709630035
@@ -35,15 +8,42 @@ RDHGs,human,transcript,C>T&G>A(CpG),0.3579173253701651
 RDHGs,human,transcript,T>A&A>T,0.03920681272625154
 RDHGs,human,transcript,T>C&A>G,0.17697914852769345
 RDHGs,human,transcript,T>G&A>C,0.05029494897757427
-RIHGs,human,4dsite,C>A&G>T,0.02337608216335545
-RIHGs,human,4dsite,C>A&G>T(CpG),0.061594151985088226
-RIHGs,human,4dsite,C>G&G>C,0.03964580406741697
-RIHGs,human,4dsite,C>G&G>C(CpG),0.09637551179405947
-RIHGs,human,4dsite,C>T&G>A,0.11868332215133964
-RIHGs,human,4dsite,C>T&G>A(CpG),0.589008397094898
-RIHGs,human,4dsite,T>A&A>T,0.020726387351420333
-RIHGs,human,4dsite,T>C&A>G,0.07539303339065306
-RIHGs,human,4dsite,T>G&A>C,0.006207108526523221
+Unexpressed genes,human,transcript,C>A&G>T,0.046339198767828646
+Unexpressed genes,human,transcript,C>A&G>T(CpG),0.10849366949359389
+Unexpressed genes,human,transcript,C>G&G>C,0.04326568756457007
+Unexpressed genes,human,transcript,C>G&G>C(CpG),0.08553301010748789
+Unexpressed genes,human,transcript,C>T&G>A,0.13112427325336629
+Unexpressed genes,human,transcript,C>T&G>A(CpG),1.3363631980060648
+Unexpressed genes,human,transcript,T>A&A>T,0.02344011451438493
+Unexpressed genes,human,transcript,T>C&A>G,0.09239076953700412
+Unexpressed genes,human,transcript,T>G&A>C,0.025676913261658607
+Expressed genes,human,transcript,C>A&G>T,0.04242534540070627
+Expressed genes,human,transcript,C>A&G>T(CpG),0.09603644109784139
+Expressed genes,human,transcript,C>G&G>C,0.04569601356713603
+Expressed genes,human,transcript,C>G&G>C(CpG),0.0817820266989122
+Expressed genes,human,transcript,C>T&G>A,0.12872158239738588
+Expressed genes,human,transcript,C>T&G>A(CpG),1.4327825557638902
+Expressed genes,human,transcript,T>A&A>T,0.022568531909585157
+Expressed genes,human,transcript,T>C&A>G,0.09467432068749541
+Expressed genes,human,transcript,T>G&A>C,0.026477134037318256
+RIHGs,human,transcript,C>A&G>T,0.03496255364140276
+RIHGs,human,transcript,C>A&G>T(CpG),0.08211702843703868
+RIHGs,human,transcript,C>G&G>C,0.042728436728742596
+RIHGs,human,transcript,C>G&G>C(CpG),0.08849194259377213
+RIHGs,human,transcript,C>T&G>A,0.12675805683908098
+RIHGs,human,transcript,C>T&G>A(CpG),0.8209591478715162
+RIHGs,human,transcript,T>A&A>T,0.01942694014410803
+RIHGs,human,transcript,T>C&A>G,0.08917038857592527
+RIHGs,human,transcript,T>G&A>C,0.025664853989833376
+RDHGs,human,4dsite,C>A&G>T,0.05244398421261012
+RDHGs,human,4dsite,C>A&G>T(CpG),0.11745635734179877
+RDHGs,human,4dsite,C>G&G>C,0.08536376895331003
+RDHGs,human,4dsite,C>G&G>C(CpG),0.14601020438395929
+RDHGs,human,4dsite,C>T&G>A,0.2903367816473545
+RDHGs,human,4dsite,C>T&G>A(CpG),0.48800665693975176
+RDHGs,human,4dsite,T>A&A>T,0.029739515803422035
+RDHGs,human,4dsite,T>C&A>G,0.13111026701269596
+RDHGs,human,4dsite,T>G&A>C,0.06610550330799285
 Expressed genes,human,4dsite,C>A&G>T,0.025293083713098283
 Expressed genes,human,4dsite,C>A&G>T(CpG),0.07753994741920085
 Expressed genes,human,4dsite,C>G&G>C,0.03138372217910928
@@ -62,12 +62,48 @@ Unexpressed genes,human,4dsite,C>T&G>A(CpG),0.7373330497648678
 Unexpressed genes,human,4dsite,T>A&A>T,0.01607796773132315
 Unexpressed genes,human,4dsite,T>C&A>G,0.0633488945764239
 Unexpressed genes,human,4dsite,T>G&A>C,0.018116237133573184
-RDHGs,human,4dsite,C>A&G>T,0.05244398421261012
-RDHGs,human,4dsite,C>A&G>T(CpG),0.11745635734179877
-RDHGs,human,4dsite,C>G&G>C,0.08536376895331003
-RDHGs,human,4dsite,C>G&G>C(CpG),0.14601020438395929
-RDHGs,human,4dsite,C>T&G>A,0.2903367816473545
-RDHGs,human,4dsite,C>T&G>A(CpG),0.48800665693975176
-RDHGs,human,4dsite,T>A&A>T,0.029739515803422035
-RDHGs,human,4dsite,T>C&A>G,0.13111026701269596
-RDHGs,human,4dsite,T>G&A>C,0.06610550330799285
+RIHGs,human,4dsite,C>A&G>T,0.02337608216335545
+RIHGs,human,4dsite,C>A&G>T(CpG),0.061594151985088226
+RIHGs,human,4dsite,C>G&G>C,0.03964580406741697
+RIHGs,human,4dsite,C>G&G>C(CpG),0.09637551179405947
+RIHGs,human,4dsite,C>T&G>A,0.11868332215133964
+RIHGs,human,4dsite,C>T&G>A(CpG),0.589008397094898
+RIHGs,human,4dsite,T>A&A>T,0.020726387351420333
+RIHGs,human,4dsite,T>C&A>G,0.07539303339065306
+RIHGs,human,4dsite,T>G&A>C,0.006207108526523221
+RDHGs,human,UTR,C>A&G>T,0.1410571134030543
+RDHGs,human,UTR,C>A&G>T(CpG),0.2594599985749946
+RDHGs,human,UTR,C>G&G>C,0.2379965599729026
+RDHGs,human,UTR,C>G&G>C(CpG),0.31681151513797917
+RDHGs,human,UTR,C>T&G>A,0.7239952380178045
+RDHGs,human,UTR,C>T&G>A(CpG),0.9624595051639475
+RDHGs,human,UTR,T>A&A>T,0.09423715172060501
+RDHGs,human,UTR,T>C&A>G,0.38333938449219995
+RDHGs,human,UTR,T>G&A>C,0.10415458849739777
+Unexpressed genes,human,UTR,C>A&G>T,0.044050733538232884
+Unexpressed genes,human,UTR,C>A&G>T(CpG),0.1256683174666324
+Unexpressed genes,human,UTR,C>G&G>C,0.046960255469400226
+Unexpressed genes,human,UTR,C>G&G>C(CpG),0.1178123445727967
+Unexpressed genes,human,UTR,C>T&G>A,0.13322369958067157
+Unexpressed genes,human,UTR,C>T&G>A(CpG),0.606485130584537
+Unexpressed genes,human,UTR,T>A&A>T,0.024191029178376858
+Unexpressed genes,human,UTR,T>C&A>G,0.096063743055704
+Unexpressed genes,human,UTR,T>G&A>C,0.026501539783575865
+Expressed genes,human,UTR,C>A&G>T,0.04662556275413747
+Expressed genes,human,UTR,C>A&G>T(CpG),0.11834016743102597
+Expressed genes,human,UTR,C>G&G>C,0.06690339977178306
+Expressed genes,human,UTR,C>G&G>C(CpG),0.1274528897334899
+Expressed genes,human,UTR,C>T&G>A,0.1642789476266047
+Expressed genes,human,UTR,C>T&G>A(CpG),0.34035066427981225
+Expressed genes,human,UTR,T>A&A>T,0.02855018781802728
+Expressed genes,human,UTR,T>C&A>G,0.11262039811258412
+Expressed genes,human,UTR,T>G&A>C,0.03698195621903673
+RIHGs,human,UTR,C>A&G>T,0.05622698653240932
+RIHGs,human,UTR,C>A&G>T(CpG),0.1176347714222717
+RIHGs,human,UTR,C>G&G>C,0.0886381878360749
+RIHGs,human,UTR,C>G&G>C(CpG),0.1540367761728825
+RIHGs,human,UTR,C>T&G>A,0.1932294616363826
+RIHGs,human,UTR,C>T&G>A(CpG),0.5023101122535658
+RIHGs,human,UTR,T>A&A>T,0.04523812990955557
+RIHGs,human,UTR,T>C&A>G,0.15275573679242285
+RIHGs,human,UTR,T>G&A>C,0.07074256007216345
