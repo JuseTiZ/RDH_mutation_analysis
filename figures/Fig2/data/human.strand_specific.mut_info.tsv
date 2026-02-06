@@ -1,0 +1,2305 @@
+gene group	species	region	mutation	mutation total num	total site	total mask
+RDHGs	human	transcript	AAA>ATA	19	681	1
+RDHGs	human	transcript	AAA>ACA	38	681	2
+RDHGs	human	transcript	AAA>AGA	89	681	6
+RDHGs	human	transcript	AAT>ATT	7	187	0
+RDHGs	human	transcript	AAT>ACT	8	187	0
+RDHGs	human	transcript	AAT>AGT	53	187	9
+RDHGs	human	transcript	AAC>ATC	12	389	1
+RDHGs	human	transcript	AAC>ACC	23	389	4
+RDHGs	human	transcript	AAC>AGC	89	389	15
+RDHGs	human	transcript	AAG>ATG	24	1214	0
+RDHGs	human	transcript	AAG>ACG	53	1214	3
+RDHGs	human	transcript	AAG>AGG	179	1214	22
+RDHGs	human	transcript	ATA>AAA	7	105	1
+RDHGs	human	transcript	ATA>ACA	19	105	5
+RDHGs	human	transcript	ATA>AGA	2	105	0
+RDHGs	human	transcript	ATT>AAT	9	257	0
+RDHGs	human	transcript	ATT>ACT	47	257	6
+RDHGs	human	transcript	ATT>AGT	8	257	0
+RDHGs	human	transcript	ATC>AAC	21	390	1
+RDHGs	human	transcript	ATC>ACC	41	390	4
+RDHGs	human	transcript	ATC>AGC	12	390	0
+RDHGs	human	transcript	ATG>AAG	11	255	1
+RDHGs	human	transcript	ATG>ACG	71	255	8
+RDHGs	human	transcript	ATG>AGG	16	255	0
+RDHGs	human	transcript	ACA>AAA	16	373	2
+RDHGs	human	transcript	ACA>ATA	106	373	24
+RDHGs	human	transcript	ACA>AGA	50	373	3
+RDHGs	human	transcript	ACT>AAT	14	333	1
+RDHGs	human	transcript	ACT>ATT	101	333	19
+RDHGs	human	transcript	ACT>AGT	47	333	4
+RDHGs	human	transcript	ACC>AAC	32	543	1
+RDHGs	human	transcript	ACC>ATC	148	543	25
+RDHGs	human	transcript	ACC>AGC	35	543	4
+RDHGs	human	transcript	ACG>AAG	19	314	1
+RDHGs	human	transcript	ACG>ATG	94	314	17
+RDHGs	human	transcript	ACG>AGG	18	314	1
+RDHGs	human	transcript	AGA>AAA	188	628	25
+RDHGs	human	transcript	AGA>ATA	34	628	0
+RDHGs	human	transcript	AGA>ACA	56	628	5
+RDHGs	human	transcript	AGT>AAT	87	341	17
+RDHGs	human	transcript	AGT>ATT	11	341	4
+RDHGs	human	transcript	AGT>ACT	37	341	2
+RDHGs	human	transcript	AGC>AAC	232	782	30
+RDHGs	human	transcript	AGC>ATC	56	782	2
+RDHGs	human	transcript	AGC>ACC	84	782	5
+RDHGs	human	transcript	AGG>AAG	233	752	34
+RDHGs	human	transcript	AGG>ATG	31	752	2
+RDHGs	human	transcript	AGG>ACG	49	752	0
+RDHGs	human	transcript	TAA>TTA	10	370	1
+RDHGs	human	transcript	TAA>TCA	12	370	1
+RDHGs	human	transcript	TAA>TGA	52	370	3
+RDHGs	human	transcript	TAT>TTT	8	204	4
+RDHGs	human	transcript	TAT>TCT	15	204	0
+RDHGs	human	transcript	TAT>TGT	55	204	9
+RDHGs	human	transcript	TAC>TTC	7	322	2
+RDHGs	human	transcript	TAC>TCC	9	322	3
+RDHGs	human	transcript	TAC>TGC	73	322	9
+RDHGs	human	transcript	TAG>TTG	9	123	0
+RDHGs	human	transcript	TAG>TCG	6	123	1
+RDHGs	human	transcript	TAG>TGG	28	123	2
+RDHGs	human	transcript	TTA>TAA	8	271	2
+RDHGs	human	transcript	TTA>TCA	37	271	3
+RDHGs	human	transcript	TTA>TGA	12	271	0
+RDHGs	human	transcript	TTT>TAT	19	567	4
+RDHGs	human	transcript	TTT>TCT	75	567	3
+RDHGs	human	transcript	TTT>TGT	33	567	2
+RDHGs	human	transcript	TTC>TAC	23	488	3
+RDHGs	human	transcript	TTC>TCC	50	488	5
+RDHGs	human	transcript	TTC>TGC	21	488	2
+RDHGs	human	transcript	TTG>TAG	10	286	0
+RDHGs	human	transcript	TTG>TCG	42	286	4
+RDHGs	human	transcript	TTG>TGG	14	286	1
+RDHGs	human	transcript	TCA>TAA	38	468	1
+RDHGs	human	transcript	TCA>TTA	145	468	16
+RDHGs	human	transcript	TCA>TGA	51	468	5
+RDHGs	human	transcript	TCT>TAT	35	480	1
+RDHGs	human	transcript	TCT>TTT	175	480	30
+RDHGs	human	transcript	TCT>TGT	90	480	5
+RDHGs	human	transcript	TCC>TAC	45	554	7
+RDHGs	human	transcript	TCC>TTC	171	554	15
+RDHGs	human	transcript	TCC>TGC	65	554	5
+RDHGs	human	transcript	TCG>TAG	27	321	2
+RDHGs	human	transcript	TCG>TTG	104	321	13
+RDHGs	human	transcript	TCG>TGG	27	321	4
+RDHGs	human	transcript	TGA>TAA	60	338	7
+RDHGs	human	transcript	TGA>TTA	17	338	2
+RDHGs	human	transcript	TGA>TCA	26	338	11
+RDHGs	human	transcript	TGT>TAT	96	370	7
+RDHGs	human	transcript	TGT>TTT	19	370	2
+RDHGs	human	transcript	TGT>TCT	35	370	2
+RDHGs	human	transcript	TGC>TAC	143	537	12
+RDHGs	human	transcript	TGC>TTC	51	537	8
+RDHGs	human	transcript	TGC>TCC	45	537	9
+RDHGs	human	transcript	TGG>TAG	122	531	11
+RDHGs	human	transcript	TGG>TTG	45	531	3
+RDHGs	human	transcript	TGG>TCG	41	531	5
+RDHGs	human	transcript	CAA>CTA	26	915	3
+RDHGs	human	transcript	CAA>CCA	63	915	5
+RDHGs	human	transcript	CAA>CGA	72	915	5
+RDHGs	human	transcript	CAT>CTT	29	439	3
+RDHGs	human	transcript	CAT>CCT	32	439	2
+RDHGs	human	transcript	CAT>CGT	88	439	18
+RDHGs	human	transcript	CAC>CTC	14	498	1
+RDHGs	human	transcript	CAC>CCC	35	498	6
+RDHGs	human	transcript	CAC>CGC	68	498	8
+RDHGs	human	transcript	CAG>CTG	25	559	4
+RDHGs	human	transcript	CAG>CCG	27	559	7
+RDHGs	human	transcript	CAG>CGG	89	559	11
+RDHGs	human	transcript	CTA>CAA	17	374	4
+RDHGs	human	transcript	CTA>CCA	54	374	8
+RDHGs	human	transcript	CTA>CGA	13	374	1
+RDHGs	human	transcript	CTT>CAT	14	484	2
+RDHGs	human	transcript	CTT>CCT	51	484	4
+RDHGs	human	transcript	CTT>CGT	19	484	2
+RDHGs	human	transcript	CTC>CAC	27	555	2
+RDHGs	human	transcript	CTC>CCC	59	555	1
+RDHGs	human	transcript	CTC>CGC	24	555	7
+RDHGs	human	transcript	CTG>CAG	28	701	1
+RDHGs	human	transcript	CTG>CCG	100	701	11
+RDHGs	human	transcript	CTG>CGG	38	701	5
+RDHGs	human	transcript	CCA>CAA	33	862	4
+RDHGs	human	transcript	CCA>CTA	300	862	42
+RDHGs	human	transcript	CCA>CGA	58	862	8
+RDHGs	human	transcript	CCT>CAT	18	440	2
+RDHGs	human	transcript	CCT>CTT	164	440	21
+RDHGs	human	transcript	CCT>CGT	42	440	6
+RDHGs	human	transcript	CCC>CAC	23	486	3
+RDHGs	human	transcript	CCC>CTC	169	486	13
+RDHGs	human	transcript	CCC>CGC	49	486	4
+RDHGs	human	transcript	CCG>CAG	64	671	10
+RDHGs	human	transcript	CCG>CTG	239	671	42
+RDHGs	human	transcript	CCG>CGG	114	671	12
+RDHGs	human	transcript	CGA>CAA	66	337	6
+RDHGs	human	transcript	CGA>CTA	27	337	4
+RDHGs	human	transcript	CGA>CCA	32	337	3
+RDHGs	human	transcript	CGT>CAT	90	374	8
+RDHGs	human	transcript	CGT>CTT	27	374	6
+RDHGs	human	transcript	CGT>CCT	32	374	4
+RDHGs	human	transcript	CGC>CAC	208	858	15
+RDHGs	human	transcript	CGC>CTC	83	858	5
+RDHGs	human	transcript	CGC>CCC	61	858	8
+RDHGs	human	transcript	CGG>CAG	144	508	15
+RDHGs	human	transcript	CGG>CTG	49	508	6
+RDHGs	human	transcript	CGG>CCG	47	508	11
+RDHGs	human	transcript	GAA>GTA	11	514	0
+RDHGs	human	transcript	GAA>GCA	30	514	1
+RDHGs	human	transcript	GAA>GGA	62	514	3
+RDHGs	human	transcript	GAT>GTT	13	183	2
+RDHGs	human	transcript	GAT>GCT	5	183	1
+RDHGs	human	transcript	GAT>GGT	38	183	4
+RDHGs	human	transcript	GAC>GTC	10	385	1
+RDHGs	human	transcript	GAC>GCC	10	385	1
+RDHGs	human	transcript	GAC>GGC	37	385	7
+RDHGs	human	transcript	GAG>GTG	15	612	2
+RDHGs	human	transcript	GAG>GCG	19	612	0
+RDHGs	human	transcript	GAG>GGG	42	612	8
+RDHGs	human	transcript	GTA>GAA	17	263	0
+RDHGs	human	transcript	GTA>GCA	47	263	4
+RDHGs	human	transcript	GTA>GGA	11	263	0
+RDHGs	human	transcript	GTT>GAT	9	305	4
+RDHGs	human	transcript	GTT>GCT	48	305	11
+RDHGs	human	transcript	GTT>GGT	19	305	1
+RDHGs	human	transcript	GTC>GAC	16	387	1
+RDHGs	human	transcript	GTC>GCC	33	387	7
+RDHGs	human	transcript	GTC>GGC	18	387	2
+RDHGs	human	transcript	GTG>GAG	13	524	5
+RDHGs	human	transcript	GTG>GCG	52	524	9
+RDHGs	human	transcript	GTG>GGG	41	524	4
+RDHGs	human	transcript	GCA>GAA	33	679	0
+RDHGs	human	transcript	GCA>GTA	201	679	26
+RDHGs	human	transcript	GCA>GGA	37	679	5
+RDHGs	human	transcript	GCT>GAT	31	862	3
+RDHGs	human	transcript	GCT>GTT	302	862	46
+RDHGs	human	transcript	GCT>GGT	106	862	8
+RDHGs	human	transcript	GCC>GAC	36	875	1
+RDHGs	human	transcript	GCC>GTC	251	875	21
+RDHGs	human	transcript	GCC>GGC	54	875	6
+RDHGs	human	transcript	GCG>GAG	39	766	9
+RDHGs	human	transcript	GCG>GTG	250	766	48
+RDHGs	human	transcript	GCG>GGG	65	766	7
+RDHGs	human	transcript	GGA>GAA	67	391	6
+RDHGs	human	transcript	GGA>GTA	26	391	4
+RDHGs	human	transcript	GGA>GCA	31	391	4
+RDHGs	human	transcript	GGT>GAT	79	395	6
+RDHGs	human	transcript	GGT>GTT	46	395	5
+RDHGs	human	transcript	GGT>GCT	41	395	4
+RDHGs	human	transcript	GGC>GAC	192	1006	18
+RDHGs	human	transcript	GGC>GTC	81	1006	4
+RDHGs	human	transcript	GGC>GCC	65	1006	10
+RDHGs	human	transcript	GGG>GAG	118	458	4
+RDHGs	human	transcript	GGG>GTG	24	458	4
+RDHGs	human	transcript	GGG>GCG	37	458	3
+Unexpressed genes	human	transcript	AAA>ATA	30479	1890732	5027
+Unexpressed genes	human	transcript	AAA>ACA	53023	1890732	8395
+Unexpressed genes	human	transcript	AAA>AGA	96748	1890732	14076
+Unexpressed genes	human	transcript	AAT>ATT	29998	1273027	5711
+Unexpressed genes	human	transcript	AAT>ACT	27914	1273027	3778
+Unexpressed genes	human	transcript	AAT>AGT	154893	1273027	21718
+Unexpressed genes	human	transcript	AAC>ATC	17211	757328	3675
+Unexpressed genes	human	transcript	AAC>ACC	17158	757328	4690
+Unexpressed genes	human	transcript	AAC>AGC	70902	757328	9537
+Unexpressed genes	human	transcript	AAG>ATG	17640	1090435	2762
+Unexpressed genes	human	transcript	AAG>ACG	29634	1090435	3554
+Unexpressed genes	human	transcript	AAG>AGG	74195	1090435	10842
+Unexpressed genes	human	transcript	ATA>AAA	28635	1023087	7239
+Unexpressed genes	human	transcript	ATA>ACA	157789	1023087	22101
+Unexpressed genes	human	transcript	ATA>AGA	19931	1023087	3354
+Unexpressed genes	human	transcript	ATT>AAT	29647	1337934	5421
+Unexpressed genes	human	transcript	ATT>ACT	146672	1337934	20022
+Unexpressed genes	human	transcript	ATT>AGT	29747	1337934	3904
+Unexpressed genes	human	transcript	ATC>AAC	34651	744000	5669
+Unexpressed genes	human	transcript	ATC>ACC	60700	744000	8906
+Unexpressed genes	human	transcript	ATC>AGC	14190	744000	2126
+Unexpressed genes	human	transcript	ATG>AAG	40565	1022997	6326
+Unexpressed genes	human	transcript	ATG>ACG	167091	1022997	23349
+Unexpressed genes	human	transcript	ATG>AGG	35523	1022997	6353
+Unexpressed genes	human	transcript	ACA>AAA	47141	1060708	12636
+Unexpressed genes	human	transcript	ACA>ATA	155088	1060708	21373
+Unexpressed genes	human	transcript	ACA>AGA	42392	1060708	5665
+Unexpressed genes	human	transcript	ACT>AAT	31416	887003	5421
+Unexpressed genes	human	transcript	ACT>ATT	113163	887003	15885
+Unexpressed genes	human	transcript	ACT>AGT	46264	887003	5557
+Unexpressed genes	human	transcript	ACC>AAC	61341	688806	8381
+Unexpressed genes	human	transcript	ACC>ATC	104932	688806	14512
+Unexpressed genes	human	transcript	ACC>AGC	28886	688806	3652
+Unexpressed genes	human	transcript	ACG>AAG	15044	150146	2567
+Unexpressed genes	human	transcript	ACG>ATG	89861	150146	38352
+Unexpressed genes	human	transcript	ACG>AGG	11581	150146	1866
+Unexpressed genes	human	transcript	AGA>AAA	107033	1228331	20946
+Unexpressed genes	human	transcript	AGA>ATA	51195	1228331	9717
+Unexpressed genes	human	transcript	AGA>ACA	69139	1228331	8572
+Unexpressed genes	human	transcript	AGT>AAT	118701	917909	16531
+Unexpressed genes	human	transcript	AGT>ATT	34531	917909	6060
+Unexpressed genes	human	transcript	AGT>ACT	45174	917909	5385
+Unexpressed genes	human	transcript	AGC>AAC	102053	833830	14489
+Unexpressed genes	human	transcript	AGC>ATC	30319	833830	4000
+Unexpressed genes	human	transcript	AGC>ACC	31226	833830	4048
+Unexpressed genes	human	transcript	AGG>AAG	139778	1091381	19599
+Unexpressed genes	human	transcript	AGG>ATG	32340	1091381	4426
+Unexpressed genes	human	transcript	AGG>ACG	47637	1091381	5452
+Unexpressed genes	human	transcript	TAA>TTA	24035	1054448	5620
+Unexpressed genes	human	transcript	TAA>TCA	24188	1054448	3106
+Unexpressed genes	human	transcript	TAA>TGA	75429	1054448	9518
+Unexpressed genes	human	transcript	TAT>TTT	33179	1073077	8947
+Unexpressed genes	human	transcript	TAT>TCT	22245	1073077	3724
+Unexpressed genes	human	transcript	TAT>TGT	190223	1073077	26576
+Unexpressed genes	human	transcript	TAC>TTC	12431	603833	2941
+Unexpressed genes	human	transcript	TAC>TCC	11088	603833	2609
+Unexpressed genes	human	transcript	TAC>TGC	65174	603833	8649
+Unexpressed genes	human	transcript	TAG>TTG	13475	716261	3044
+Unexpressed genes	human	transcript	TAG>TCG	14240	716261	1718
+Unexpressed genes	human	transcript	TAG>TGG	63972	716261	8888
+Unexpressed genes	human	transcript	TTA>TAA	24982	1103974	5555
+Unexpressed genes	human	transcript	TTA>TCA	73393	1103974	9153
+Unexpressed genes	human	transcript	TTA>TGA	25340	1103974	3297
+Unexpressed genes	human	transcript	TTT>TAT	34043	2143963	5636
+Unexpressed genes	human	transcript	TTT>TCT	100862	2143963	14751
+Unexpressed genes	human	transcript	TTT>TGT	60167	2143963	9415
+Unexpressed genes	human	transcript	TTC>TAC	18252	1131458	2282
+Unexpressed genes	human	transcript	TTC>TCC	55356	1131458	8412
+Unexpressed genes	human	transcript	TTC>TGC	23832	1131458	3040
+Unexpressed genes	human	transcript	TTG>TAG	17665	1097497	2287
+Unexpressed genes	human	transcript	TTG>TCG	67601	1097497	10090
+Unexpressed genes	human	transcript	TTG>TGG	35888	1097497	5419
+Unexpressed genes	human	transcript	TCA>TAA	35394	1101527	8486
+Unexpressed genes	human	transcript	TCA>TTA	108559	1101527	15164
+Unexpressed genes	human	transcript	TCA>TGA	40117	1101527	4774
+Unexpressed genes	human	transcript	TCT>TAT	53922	1296993	10038
+Unexpressed genes	human	transcript	TCT>TTT	115630	1296993	23726
+Unexpressed genes	human	transcript	TCT>TGT	79175	1296993	9838
+Unexpressed genes	human	transcript	TCC>TAC	41456	949901	5346
+Unexpressed genes	human	transcript	TCC>TTC	114849	949901	16981
+Unexpressed genes	human	transcript	TCC>TGC	42793	949901	5026
+Unexpressed genes	human	transcript	TCG>TAG	11231	141774	1620
+Unexpressed genes	human	transcript	TCG>TTG	85680	141774	24707
+Unexpressed genes	human	transcript	TCG>TGG	12245	141774	2062
+Unexpressed genes	human	transcript	TGA>TAA	104748	1117431	14269
+Unexpressed genes	human	transcript	TGA>TTA	37009	1117431	8996
+Unexpressed genes	human	transcript	TGA>TCA	38343	1117431	4559
+Unexpressed genes	human	transcript	TGT>TAT	172579	1173721	23930
+Unexpressed genes	human	transcript	TGT>TTT	55434	1173721	14849
+Unexpressed genes	human	transcript	TGT>TCT	46822	1173721	6350
+Unexpressed genes	human	transcript	TGC>TAC	94802	876339	13045
+Unexpressed genes	human	transcript	TGC>TTC	50171	876339	8979
+Unexpressed genes	human	transcript	TGC>TCC	24552	876339	3323
+Unexpressed genes	human	transcript	TGG>TAG	123606	1147372	16828
+Unexpressed genes	human	transcript	TGG>TTG	40636	1147372	7665
+Unexpressed genes	human	transcript	TGG>TCG	34289	1147372	4246
+Unexpressed genes	human	transcript	CAA>CTA	15529	995734	2064
+Unexpressed genes	human	transcript	CAA>CCA	32474	995734	5050
+Unexpressed genes	human	transcript	CAA>CGA	66336	995734	9991
+Unexpressed genes	human	transcript	CAT>CTT	42462	1023343	6883
+Unexpressed genes	human	transcript	CAT>CCT	37252	1023343	6523
+Unexpressed genes	human	transcript	CAT>CGT	187307	1023343	26074
+Unexpressed genes	human	transcript	CAC>CTC	21466	865004	4946
+Unexpressed genes	human	transcript	CAC>CCC	29100	865004	10795
+Unexpressed genes	human	transcript	CAC>CGC	74380	865004	12559
+Unexpressed genes	human	transcript	CAG>CTG	25188	1225350	4077
+Unexpressed genes	human	transcript	CAG>CCG	36860	1225350	5571
+Unexpressed genes	human	transcript	CAG>CGG	110536	1225350	16957
+Unexpressed genes	human	transcript	CTA>CAA	12704	699440	2749
+Unexpressed genes	human	transcript	CTA>CCA	57369	699440	8098
+Unexpressed genes	human	transcript	CTA>CGA	13482	699440	1672
+Unexpressed genes	human	transcript	CTT>CAT	19184	1160473	2889
+Unexpressed genes	human	transcript	CTT>CCT	74480	1160473	10712
+Unexpressed genes	human	transcript	CTT>CGT	32292	1160473	3954
+Unexpressed genes	human	transcript	CTC>CAC	20432	1037790	6007
+Unexpressed genes	human	transcript	CTC>CCC	57752	1037790	11823
+Unexpressed genes	human	transcript	CTC>CGC	23394	1037790	3118
+Unexpressed genes	human	transcript	CTG>CAG	26030	1262346	3959
+Unexpressed genes	human	transcript	CTG>CCG	104204	1262346	15853
+Unexpressed genes	human	transcript	CTG>CGG	36228	1262346	5359
+Unexpressed genes	human	transcript	CCA>CAA	38096	1104188	7019
+Unexpressed genes	human	transcript	CCA>CTA	121985	1104188	17028
+Unexpressed genes	human	transcript	CCA>CGA	33933	1104188	4224
+Unexpressed genes	human	transcript	CCT>CAT	32564	1113607	4540
+Unexpressed genes	human	transcript	CCT>CTT	145179	1113607	20493
+Unexpressed genes	human	transcript	CCT>CGT	53096	1113607	6193
+Unexpressed genes	human	transcript	CCC>CAC	40962	858785	6286
+Unexpressed genes	human	transcript	CCC>CTC	115856	858785	16648
+Unexpressed genes	human	transcript	CCC>CGC	44573	858785	6153
+Unexpressed genes	human	transcript	CCG>CAG	15056	189904	2509
+Unexpressed genes	human	transcript	CCG>CTG	111166	189904	38537
+Unexpressed genes	human	transcript	CCG>CGG	18118	189904	2610
+Unexpressed genes	human	transcript	CGA>CAA	82694	137767	23443
+Unexpressed genes	human	transcript	CGA>CTA	11312	137767	1578
+Unexpressed genes	human	transcript	CGA>CCA	11655	137767	1899
+Unexpressed genes	human	transcript	CGT>CAT	93451	156742	40660
+Unexpressed genes	human	transcript	CGT>CTT	16530	156742	2673
+Unexpressed genes	human	transcript	CGT>CCT	12388	156742	1999
+Unexpressed genes	human	transcript	CGC>CAC	88074	163313	31149
+Unexpressed genes	human	transcript	CGC>CTC	23680	163313	3381
+Unexpressed genes	human	transcript	CGC>CCC	10177	163313	2254
+Unexpressed genes	human	transcript	CGG>CAG	108617	187380	37345
+Unexpressed genes	human	transcript	CGG>CTG	15474	187380	2625
+Unexpressed genes	human	transcript	CGG>CCG	17651	187380	2500
+Unexpressed genes	human	transcript	GAA>GTA	17366	1070134	2223
+Unexpressed genes	human	transcript	GAA>GCA	22107	1070134	2903
+Unexpressed genes	human	transcript	GAA>GGA	53247	1070134	8061
+Unexpressed genes	human	transcript	GAT>GTT	38831	759342	6556
+Unexpressed genes	human	transcript	GAT>GCT	14726	759342	2162
+Unexpressed genes	human	transcript	GAT>GGT	68907	759342	9856
+Unexpressed genes	human	transcript	GAC>GTC	18198	560101	3443
+Unexpressed genes	human	transcript	GAC>GCC	10629	560101	3264
+Unexpressed genes	human	transcript	GAC>GGC	41941	560101	6200
+Unexpressed genes	human	transcript	GAG>GTG	20545	1037667	6477
+Unexpressed genes	human	transcript	GAG>GCG	23028	1037667	3150
+Unexpressed genes	human	transcript	GAG>GGG	58428	1037667	11823
+Unexpressed genes	human	transcript	GTA>GAA	11974	621151	2519
+Unexpressed genes	human	transcript	GTA>GCA	59639	621151	7755
+Unexpressed genes	human	transcript	GTA>GGA	11125	621151	2567
+Unexpressed genes	human	transcript	GTT>GAT	18210	833961	3472
+Unexpressed genes	human	transcript	GTT>GCT	68599	833961	9284
+Unexpressed genes	human	transcript	GTT>GGT	18731	833961	5188
+Unexpressed genes	human	transcript	GTC>GAC	18187	577005	3074
+Unexpressed genes	human	transcript	GTC>GCC	39980	577005	6112
+Unexpressed genes	human	transcript	GTC>GGC	11418	577005	3267
+Unexpressed genes	human	transcript	GTG>GAG	22169	931795	4376
+Unexpressed genes	human	transcript	GTG>GCG	73024	931795	12307
+Unexpressed genes	human	transcript	GTG>GGG	29858	931795	10817
+Unexpressed genes	human	transcript	GCA>GAA	45999	842937	7872
+Unexpressed genes	human	transcript	GCA>GTA	91731	842937	12505
+Unexpressed genes	human	transcript	GCA>GGA	23673	842937	3088
+Unexpressed genes	human	transcript	GCT>GAT	29810	864726	3836
+Unexpressed genes	human	transcript	GCT>GTT	101341	864726	14288
+Unexpressed genes	human	transcript	GCT>GGT	33505	864726	4300
+Unexpressed genes	human	transcript	GCC>GAC	49242	769076	5992
+Unexpressed genes	human	transcript	GCC>GTC	101590	769076	13706
+Unexpressed genes	human	transcript	GCC>GGC	29506	769076	3801
+Unexpressed genes	human	transcript	GCG>GAG	21798	163251	3323
+Unexpressed genes	human	transcript	GCG>GTG	88788	163251	31323
+Unexpressed genes	human	transcript	GCG>GGG	10425	163251	2240
+Unexpressed genes	human	transcript	GGA>GAA	111573	943393	16381
+Unexpressed genes	human	transcript	GGA>GTA	41658	943393	5353
+Unexpressed genes	human	transcript	GGA>GCA	39844	943393	4717
+Unexpressed genes	human	transcript	GGT>GAT	111567	716334	15242
+Unexpressed genes	human	transcript	GGT>GTT	66060	716334	9231
+Unexpressed genes	human	transcript	GGT>GCT	30078	716334	3775
+Unexpressed genes	human	transcript	GGC>GAC	104298	766595	14379
+Unexpressed genes	human	transcript	GGC>GTC	52090	766595	6273
+Unexpressed genes	human	transcript	GGC>GCC	29370	766595	3790
+Unexpressed genes	human	transcript	GGG>GAG	117888	872196	16699
+Unexpressed genes	human	transcript	GGG>GTG	42072	872196	6420
+Unexpressed genes	human	transcript	GGG>GCG	42620	872196	5734
+Expressed genes	human	transcript	AAA>ATA	531219	33180255	86921
+Expressed genes	human	transcript	AAA>ACA	954553	33180255	138158
+Expressed genes	human	transcript	AAA>AGA	1979013	33180255	264291
+Expressed genes	human	transcript	AAT>ATT	559704	22741671	110624
+Expressed genes	human	transcript	AAT>ACT	505353	22741671	62590
+Expressed genes	human	transcript	AAT>AGT	3297073	22741671	474355
+Expressed genes	human	transcript	AAC>ATC	289048	12756214	67279
+Expressed genes	human	transcript	AAC>ACC	303004	12756214	77883
+Expressed genes	human	transcript	AAC>AGC	1357330	12756214	178394
+Expressed genes	human	transcript	AAG>ATG	283640	18572546	43412
+Expressed genes	human	transcript	AAG>ACG	502741	18572546	57485
+Expressed genes	human	transcript	AAG>AGG	1443037	18572546	187001
+Expressed genes	human	transcript	ATA>AAA	432258	18773821	114606
+Expressed genes	human	transcript	ATA>ACA	2384595	18773821	317951
+Expressed genes	human	transcript	ATA>AGA	358042	18773821	53950
+Expressed genes	human	transcript	ATT>AAT	498369	25159849	90550
+Expressed genes	human	transcript	ATT>ACT	2392741	25159849	307028
+Expressed genes	human	transcript	ATT>AGT	577001	25159849	70856
+Expressed genes	human	transcript	ATC>AAC	450097	12505746	76939
+Expressed genes	human	transcript	ATC>ACC	884352	12505746	120712
+Expressed genes	human	transcript	ATC>AGC	233284	12505746	31713
+Expressed genes	human	transcript	ATG>AAG	583399	17961746	89760
+Expressed genes	human	transcript	ATG>ACG	2486406	17961746	339099
+Expressed genes	human	transcript	ATG>AGG	554969	17961746	94395
+Expressed genes	human	transcript	ACA>AAA	653469	17568984	201237
+Expressed genes	human	transcript	ACA>ATA	2542316	17568984	332160
+Expressed genes	human	transcript	ACA>AGA	732758	17568984	89216
+Expressed genes	human	transcript	ACT>AAT	450207	15502564	85952
+Expressed genes	human	transcript	ACT>ATT	1891080	15502564	256058
+Expressed genes	human	transcript	ACT>AGT	933625	15502564	105582
+Expressed genes	human	transcript	ACC>AAC	832300	11327954	112268
+Expressed genes	human	transcript	ACC>ATC	1662650	11327954	211438
+Expressed genes	human	transcript	ACC>AGC	506591	11327954	60334
+Expressed genes	human	transcript	ACG>AAG	203550	2574595	35806
+Expressed genes	human	transcript	ACG>ATG	1614357	2574595	620350
+Expressed genes	human	transcript	ACG>AGG	184484	2574595	28198
+Expressed genes	human	transcript	AGA>AAA	1653874	20869366	324218
+Expressed genes	human	transcript	AGA>ATA	853736	20869366	166678
+Expressed genes	human	transcript	AGA>ACA	1092310	20869366	127374
+Expressed genes	human	transcript	AGT>AAT	2215841	17195376	303366
+Expressed genes	human	transcript	AGT>ATT	638959	17195376	117987
+Expressed genes	human	transcript	AGT>ACT	799738	17195376	89913
+Expressed genes	human	transcript	AGC>AAC	1762947	14189865	242181
+Expressed genes	human	transcript	AGC>ATC	496040	14189865	64196
+Expressed genes	human	transcript	AGC>ACC	532071	14189865	65132
+Expressed genes	human	transcript	AGG>AAG	2123694	18179763	286623
+Expressed genes	human	transcript	AGG>ATG	482575	18179763	67584
+Expressed genes	human	transcript	AGG>ACG	751684	18179763	81600
+Expressed genes	human	transcript	TAA>TTA	468137	19645852	114081
+Expressed genes	human	transcript	TAA>TCA	477261	19645852	57536
+Expressed genes	human	transcript	TAA>TGA	1629242	19645852	191225
+Expressed genes	human	transcript	TAT>TTT	691996	20169056	191702
+Expressed genes	human	transcript	TAT>TCT	436304	20169056	65315
+Expressed genes	human	transcript	TAT>TGT	4336752	20169056	615831
+Expressed genes	human	transcript	TAC>TTC	243222	10926199	61053
+Expressed genes	human	transcript	TAC>TCC	224347	10926199	47159
+Expressed genes	human	transcript	TAC>TGC	1367791	10926199	172669
+Expressed genes	human	transcript	TAG>TTG	251215	13590891	61830
+Expressed genes	human	transcript	TAG>TCG	285624	13590891	33515
+Expressed genes	human	transcript	TAG>TGG	1384417	13590891	179282
+Expressed genes	human	transcript	TTA>TAA	499675	21546724	107974
+Expressed genes	human	transcript	TTA>TCA	1313770	21546724	155849
+Expressed genes	human	transcript	TTA>TGA	549528	21546724	64730
+Expressed genes	human	transcript	TTT>TAT	662503	42770611	107404
+Expressed genes	human	transcript	TTT>TCT	1848448	42770611	259198
+Expressed genes	human	transcript	TTT>TGT	1292090	42770611	195761
+Expressed genes	human	transcript	TTC>TAC	321218	20031091	39109
+Expressed genes	human	transcript	TTC>TCC	918716	20031091	134644
+Expressed genes	human	transcript	TTC>TGC	464035	20031091	57443
+Expressed genes	human	transcript	TTG>TAG	335295	20933186	40891
+Expressed genes	human	transcript	TTG>TCG	1170309	20933186	171731
+Expressed genes	human	transcript	TTG>TGG	702550	20933186	99218
+Expressed genes	human	transcript	TCA>TAA	587988	18843504	147263
+Expressed genes	human	transcript	TCA>TTA	2022265	18843504	269501
+Expressed genes	human	transcript	TCA>TGA	836523	18843504	93936
+Expressed genes	human	transcript	TCT>TAT	899534	22651956	174434
+Expressed genes	human	transcript	TCT>TTT	2151598	22651956	452208
+Expressed genes	human	transcript	TCT>TGT	1695261	22651956	201207
+Expressed genes	human	transcript	TCC>TAC	651208	15522788	82010
+Expressed genes	human	transcript	TCC>TTC	1953295	15522788	283897
+Expressed genes	human	transcript	TCC>TGC	842138	15522788	94877
+Expressed genes	human	transcript	TCG>TAG	172769	2520166	25744
+Expressed genes	human	transcript	TCG>TTG	1577326	2520166	453514
+Expressed genes	human	transcript	TCG>TGG	237436	2520166	36063
+Expressed genes	human	transcript	TGA>TAA	1695018	19954730	225046
+Expressed genes	human	transcript	TGA>TTA	639907	19954730	170896
+Expressed genes	human	transcript	TGA>TCA	681616	19954730	77477
+Expressed genes	human	transcript	TGT>TAT	3358911	22353741	447752
+Expressed genes	human	transcript	TGT>TTT	1101298	22353741	314820
+Expressed genes	human	transcript	TGT>TCT	897006	22353741	114402
+Expressed genes	human	transcript	TGC>TAC	1649173	15259061	219674
+Expressed genes	human	transcript	TGC>TTC	828873	15259061	156846
+Expressed genes	human	transcript	TGC>TCC	436933	15259061	56193
+Expressed genes	human	transcript	TGG>TAG	2025620	19946288	267765
+Expressed genes	human	transcript	TGG>TTG	624203	19946288	132140
+Expressed genes	human	transcript	TGG>TCG	579462	19946288	69583
+Expressed genes	human	transcript	CAA>CTA	238765	15920337	32799
+Expressed genes	human	transcript	CAA>CCA	539673	15920337	77285
+Expressed genes	human	transcript	CAA>CGA	1203160	15920337	169530
+Expressed genes	human	transcript	CAT>CTT	756881	17793120	127716
+Expressed genes	human	transcript	CAT>CCT	681323	17793120	110892
+Expressed genes	human	transcript	CAT>CGT	3930093	17793120	527478
+Expressed genes	human	transcript	CAC>CTC	350178	14028260	83480
+Expressed genes	human	transcript	CAC>CCC	494652	14028260	175996
+Expressed genes	human	transcript	CAC>CGC	1405749	14028260	224644
+Expressed genes	human	transcript	CAG>CTG	410925	20701366	67271
+Expressed genes	human	transcript	CAG>CCG	645308	20701366	92204
+Expressed genes	human	transcript	CAG>CGG	2144402	20701366	308668
+Expressed genes	human	transcript	CTA>CAA	208508	12015970	43374
+Expressed genes	human	transcript	CTA>CCA	894169	12015970	117554
+Expressed genes	human	transcript	CTA>CGA	236196	12015970	28045
+Expressed genes	human	transcript	CTT>CAT	353071	21102457	48112
+Expressed genes	human	transcript	CTT>CCT	1252305	21102457	166994
+Expressed genes	human	transcript	CTT>CGT	669471	21102457	74680
+Expressed genes	human	transcript	CTC>CAC	322039	17029755	98880
+Expressed genes	human	transcript	CTC>CCC	954509	17029755	176609
+Expressed genes	human	transcript	CTC>CGC	404473	17029755	51571
+Expressed genes	human	transcript	CTG>CAG	419508	21726792	59940
+Expressed genes	human	transcript	CTG>CCG	1629017	21726792	245927
+Expressed genes	human	transcript	CTG>CGG	603365	21726792	86100
+Expressed genes	human	transcript	CCA>CAA	509981	17789763	99140
+Expressed genes	human	transcript	CCA>CTA	2075725	17789763	270903
+Expressed genes	human	transcript	CCA>CGA	595828	17789763	70322
+Expressed genes	human	transcript	CCT>CAT	481210	18770586	66051
+Expressed genes	human	transcript	CCT>CTT	2462624	18770586	331462
+Expressed genes	human	transcript	CCT>CGT	1095740	18770586	119359
+Expressed genes	human	transcript	CCC>CAC	603107	13589125	90720
+Expressed genes	human	transcript	CCC>CTC	1833737	13589125	249783
+Expressed genes	human	transcript	CCC>CGC	800872	13589125	106191
+Expressed genes	human	transcript	CCG>CAG	219096	3247207	35509
+Expressed genes	human	transcript	CCG>CTG	1977953	3247207	684082
+Expressed genes	human	transcript	CCG>CGG	302028	3247207	41581
+Expressed genes	human	transcript	CGA>CAA	1429513	2351478	381180
+Expressed genes	human	transcript	CGA>CTA	190953	2351478	27662
+Expressed genes	human	transcript	CGA>CCA	183819	2351478	29606
+Expressed genes	human	transcript	CGT>CAT	1835977	2951255	713273
+Expressed genes	human	transcript	CGT>CTT	316990	2951255	51034
+Expressed genes	human	transcript	CGT>CCT	235893	2951255	36812
+Expressed genes	human	transcript	CGC>CAC	1549286	2716339	515634
+Expressed genes	human	transcript	CGC>CTC	391205	2716339	57689
+Expressed genes	human	transcript	CGC>CCC	159480	2716339	34403
+Expressed genes	human	transcript	CGG>CAG	1883311	3181197	596630
+Expressed genes	human	transcript	CGG>CTG	249387	3181197	41230
+Expressed genes	human	transcript	CGG>CCG	262735	3181197	37395
+Expressed genes	human	transcript	GAA>GTA	305064	18500925	40799
+Expressed genes	human	transcript	GAA>GCA	385641	18500925	46514
+Expressed genes	human	transcript	GAA>GGA	958156	18500925	129822
+Expressed genes	human	transcript	GAT>GTT	765095	13695033	130637
+Expressed genes	human	transcript	GAT>GCT	267372	13695033	36386
+Expressed genes	human	transcript	GAT>GGT	1453365	13695033	192740
+Expressed genes	human	transcript	GAC>GTC	299389	9250632	59242
+Expressed genes	human	transcript	GAC>GCC	173044	9250632	52702
+Expressed genes	human	transcript	GAC>GGC	727866	9250632	105394
+Expressed genes	human	transcript	GAG>GTG	351027	17529529	120179
+Expressed genes	human	transcript	GAG>GCG	400080	17529529	50694
+Expressed genes	human	transcript	GAG>GGG	973363	17529529	195964
+Expressed genes	human	transcript	GTA>GAA	196795	12001529	40759
+Expressed genes	human	transcript	GTA>GCA	918559	12001529	113663
+Expressed genes	human	transcript	GTA>GGA	212048	12001529	43163
+Expressed genes	human	transcript	GTT>GAT	304968	16248017	55622
+Expressed genes	human	transcript	GTT>GCT	1051232	16248017	131014
+Expressed genes	human	transcript	GTT>GGT	374526	16248017	92272
+Expressed genes	human	transcript	GTC>GAC	265552	9981130	44997
+Expressed genes	human	transcript	GTC>GCC	578620	9981130	84616
+Expressed genes	human	transcript	GTC>GGC	212643	9981130	55512
+Expressed genes	human	transcript	GTG>GAG	335003	16897092	66063
+Expressed genes	human	transcript	GTG>GCG	1137212	16897092	190795
+Expressed genes	human	transcript	GTG>GGG	507246	16897092	174332
+Expressed genes	human	transcript	GCA>GAA	576231	14244644	110041
+Expressed genes	human	transcript	GCA>GTA	1611731	14244644	205564
+Expressed genes	human	transcript	GCA>GGA	430300	14244644	53159
+Expressed genes	human	transcript	GCT>GAT	406515	14984691	53626
+Expressed genes	human	transcript	GCT>GTT	1589673	14984691	212452
+Expressed genes	human	transcript	GCT>GGT	664321	14984691	79865
+Expressed genes	human	transcript	GCC>GAC	630748	12958971	74201
+Expressed genes	human	transcript	GCC>GTC	1593969	12958971	198541
+Expressed genes	human	transcript	GCC>GGC	498290	12958971	61733
+Expressed genes	human	transcript	GCG>GAG	268691	2853632	40741
+Expressed genes	human	transcript	GCG>GTG	1648303	2853632	552248
+Expressed genes	human	transcript	GCG>GGG	168796	2853632	35168
+Expressed genes	human	transcript	GGA>GAA	1721750	15797127	244109
+Expressed genes	human	transcript	GGA>GTA	702227	15797127	87367
+Expressed genes	human	transcript	GGA>GCA	601511	15797127	67549
+Expressed genes	human	transcript	GGT>GAT	1950428	12636577	261888
+Expressed genes	human	transcript	GGT>GTT	1151951	12636577	158838
+Expressed genes	human	transcript	GGT>GCT	504390	12636577	60124
+Expressed genes	human	transcript	GGC>GAC	1712290	12877914	228809
+Expressed genes	human	transcript	GGC>GTC	870519	12877914	102428
+Expressed genes	human	transcript	GGC>GCC	472894	12877914	59950
+Expressed genes	human	transcript	GGG>GAG	1823544	14255654	251406
+Expressed genes	human	transcript	GGG>GTG	653657	14255654	99330
+Expressed genes	human	transcript	GGG>GCG	635137	14255654	85277
+RIHGs	human	transcript	AAA>ATA	70	5432	6
+RIHGs	human	transcript	AAA>ACA	124	5432	25
+RIHGs	human	transcript	AAA>AGA	322	5432	38
+RIHGs	human	transcript	AAT>ATT	65	3201	14
+RIHGs	human	transcript	AAT>ACT	71	3201	7
+RIHGs	human	transcript	AAT>AGT	445	3201	72
+RIHGs	human	transcript	AAC>ATC	34	2323	10
+RIHGs	human	transcript	AAC>ACC	50	2323	15
+RIHGs	human	transcript	AAC>AGC	205	2323	35
+RIHGs	human	transcript	AAG>ATG	38	3747	3
+RIHGs	human	transcript	AAG>ACG	97	3747	6
+RIHGs	human	transcript	AAG>AGG	304	3747	21
+RIHGs	human	transcript	ATA>AAA	40	2396	11
+RIHGs	human	transcript	ATA>ACA	304	2396	37
+RIHGs	human	transcript	ATA>AGA	41	2396	6
+RIHGs	human	transcript	ATT>AAT	52	3362	8
+RIHGs	human	transcript	ATT>ACT	317	3362	34
+RIHGs	human	transcript	ATT>AGT	78	3362	7
+RIHGs	human	transcript	ATC>AAC	59	2129	8
+RIHGs	human	transcript	ATC>ACC	139	2129	11
+RIHGs	human	transcript	ATC>AGC	41	2129	7
+RIHGs	human	transcript	ATG>AAG	96	2836	5
+RIHGs	human	transcript	ATG>ACG	361	2836	48
+RIHGs	human	transcript	ATG>AGG	93	2836	15
+RIHGs	human	transcript	ACA>AAA	112	3316	23
+RIHGs	human	transcript	ACA>ATA	483	3316	56
+RIHGs	human	transcript	ACA>AGA	132	3316	15
+RIHGs	human	transcript	ACT>AAT	63	2792	15
+RIHGs	human	transcript	ACT>ATT	338	2792	50
+RIHGs	human	transcript	ACT>AGT	158	2792	16
+RIHGs	human	transcript	ACC>AAC	129	2368	16
+RIHGs	human	transcript	ACC>ATC	359	2368	41
+RIHGs	human	transcript	ACC>AGC	87	2368	7
+RIHGs	human	transcript	ACG>AAG	38	589	2
+RIHGs	human	transcript	ACG>ATG	339	589	102
+RIHGs	human	transcript	ACG>AGG	34	589	0
+RIHGs	human	transcript	AGA>AAA	319	3938	50
+RIHGs	human	transcript	AGA>ATA	111	3938	15
+RIHGs	human	transcript	AGA>ACA	208	3938	12
+RIHGs	human	transcript	AGT>AAT	373	2970	45
+RIHGs	human	transcript	AGT>ATT	103	2970	15
+RIHGs	human	transcript	AGT>ACT	117	2970	15
+RIHGs	human	transcript	AGC>AAC	336	3184	30
+RIHGs	human	transcript	AGC>ATC	93	3184	13
+RIHGs	human	transcript	AGC>ACC	104	3184	20
+RIHGs	human	transcript	AGG>AAG	426	4240	60
+RIHGs	human	transcript	AGG>ATG	76	4240	10
+RIHGs	human	transcript	AGG>ACG	153	4240	17
+RIHGs	human	transcript	TAA>TTA	81	2945	19
+RIHGs	human	transcript	TAA>TCA	73	2945	9
+RIHGs	human	transcript	TAA>TGA	252	2945	21
+RIHGs	human	transcript	TAT>TTT	54	2318	17
+RIHGs	human	transcript	TAT>TCT	42	2318	5
+RIHGs	human	transcript	TAT>TGT	497	2318	59
+RIHGs	human	transcript	TAC>TTC	39	1739	8
+RIHGs	human	transcript	TAC>TCC	52	1739	7
+RIHGs	human	transcript	TAC>TGC	204	1739	24
+RIHGs	human	transcript	TAG>TTG	26	2148	8
+RIHGs	human	transcript	TAG>TCG	47	2148	4
+RIHGs	human	transcript	TAG>TGG	198	2148	22
+RIHGs	human	transcript	TTA>TAA	81	2894	18
+RIHGs	human	transcript	TTA>TCA	161	2894	11
+RIHGs	human	transcript	TTA>TGA	80	2894	7
+RIHGs	human	transcript	TTT>TAT	78	5933	9
+RIHGs	human	transcript	TTT>TCT	261	5933	30
+RIHGs	human	transcript	TTT>TGT	185	5933	18
+RIHGs	human	transcript	TTC>TAC	48	3198	5
+RIHGs	human	transcript	TTC>TCC	154	3198	24
+RIHGs	human	transcript	TTC>TGC	71	3198	9
+RIHGs	human	transcript	TTG>TAG	57	3474	4
+RIHGs	human	transcript	TTG>TCG	201	3474	31
+RIHGs	human	transcript	TTG>TGG	112	3474	19
+RIHGs	human	transcript	TCA>TAA	87	3246	21
+RIHGs	human	transcript	TCA>TTA	347	3246	43
+RIHGs	human	transcript	TCA>TGA	133	3246	14
+RIHGs	human	transcript	TCT>TAT	129	3580	10
+RIHGs	human	transcript	TCT>TTT	338	3580	52
+RIHGs	human	transcript	TCT>TGT	254	3580	37
+RIHGs	human	transcript	TCC>TAC	123	3108	14
+RIHGs	human	transcript	TCC>TTC	398	3108	50
+RIHGs	human	transcript	TCC>TGC	155	3108	13
+RIHGs	human	transcript	TCG>TAG	39	611	8
+RIHGs	human	transcript	TCG>TTG	310	611	50
+RIHGs	human	transcript	TCG>TGG	64	611	7
+RIHGs	human	transcript	TGA>TAA	280	3353	31
+RIHGs	human	transcript	TGA>TTA	89	3353	20
+RIHGs	human	transcript	TGA>TCA	120	3353	13
+RIHGs	human	transcript	TGT>TAT	531	3618	55
+RIHGs	human	transcript	TGT>TTT	149	3618	39
+RIHGs	human	transcript	TGT>TCT	134	3618	26
+RIHGs	human	transcript	TGC>TAC	333	3039	34
+RIHGs	human	transcript	TGC>TTC	150	3039	13
+RIHGs	human	transcript	TGC>TCC	96	3039	9
+RIHGs	human	transcript	TGG>TAG	434	4016	39
+RIHGs	human	transcript	TGG>TTG	112	4016	21
+RIHGs	human	transcript	TGG>TCG	109	4016	9
+RIHGs	human	transcript	CAA>CTA	36	2984	2
+RIHGs	human	transcript	CAA>CCA	93	2984	10
+RIHGs	human	transcript	CAA>CGA	196	2984	21
+RIHGs	human	transcript	CAT>CTT	110	3030	13
+RIHGs	human	transcript	CAT>CCT	101	3030	13
+RIHGs	human	transcript	CAT>CGT	588	3030	74
+RIHGs	human	transcript	CAC>CTC	59	3002	11
+RIHGs	human	transcript	CAC>CCC	91	3002	23
+RIHGs	human	transcript	CAC>CGC	262	3002	46
+RIHGs	human	transcript	CAG>CTG	99	4635	3
+RIHGs	human	transcript	CAG>CCG	150	4635	17
+RIHGs	human	transcript	CAG>CGG	451	4635	65
+RIHGs	human	transcript	CTA>CAA	39	2029	6
+RIHGs	human	transcript	CTA>CCA	154	2029	31
+RIHGs	human	transcript	CTA>CGA	23	2029	6
+RIHGs	human	transcript	CTT>CAT	46	3507	9
+RIHGs	human	transcript	CTT>CCT	191	3507	21
+RIHGs	human	transcript	CTT>CGT	111	3507	12
+RIHGs	human	transcript	CTC>CAC	51	3248	15
+RIHGs	human	transcript	CTC>CCC	193	3248	20
+RIHGs	human	transcript	CTC>CGC	92	3248	11
+RIHGs	human	transcript	CTG>CAG	70	4412	9
+RIHGs	human	transcript	CTG>CCG	306	4412	41
+RIHGs	human	transcript	CTG>CGG	118	4412	16
+RIHGs	human	transcript	CCA>CAA	95	3971	13
+RIHGs	human	transcript	CCA>CTA	478	3971	48
+RIHGs	human	transcript	CCA>CGA	124	3971	6
+RIHGs	human	transcript	CCT>CAT	74	3705	11
+RIHGs	human	transcript	CCT>CTT	502	3705	64
+RIHGs	human	transcript	CCT>CGT	193	3705	31
+RIHGs	human	transcript	CCC>CAC	129	3371	17
+RIHGs	human	transcript	CCC>CTC	470	3371	55
+RIHGs	human	transcript	CCC>CGC	208	3371	22
+RIHGs	human	transcript	CCG>CAG	72	1045	7
+RIHGs	human	transcript	CCG>CTG	507	1045	118
+RIHGs	human	transcript	CCG>CGG	118	1045	12
+RIHGs	human	transcript	CGA>CAA	302	635	76
+RIHGs	human	transcript	CGA>CTA	48	635	5
+RIHGs	human	transcript	CGA>CCA	51	635	2
+RIHGs	human	transcript	CGT>CAT	343	643	113
+RIHGs	human	transcript	CGT>CTT	64	643	5
+RIHGs	human	transcript	CGT>CCT	47	643	6
+RIHGs	human	transcript	CGC>CAC	361	933	105
+RIHGs	human	transcript	CGC>CTC	94	933	11
+RIHGs	human	transcript	CGC>CCC	61	933	13
+RIHGs	human	transcript	CGG>CAG	459	1041	138
+RIHGs	human	transcript	CGG>CTG	79	1041	8
+RIHGs	human	transcript	CGG>CCG	100	1041	15
+RIHGs	human	transcript	GAA>GTA	48	3337	14
+RIHGs	human	transcript	GAA>GCA	71	3337	3
+RIHGs	human	transcript	GAA>GGA	144	3337	22
+RIHGs	human	transcript	GAT>GTT	92	2180	14
+RIHGs	human	transcript	GAT>GCT	37	2180	3
+RIHGs	human	transcript	GAT>GGT	187	2180	22
+RIHGs	human	transcript	GAC>GTC	58	2004	7
+RIHGs	human	transcript	GAC>GCC	40	2004	3
+RIHGs	human	transcript	GAC>GGC	137	2004	9
+RIHGs	human	transcript	GAG>GTG	70	3797	23
+RIHGs	human	transcript	GAG>GCG	78	3797	5
+RIHGs	human	transcript	GAG>GGG	200	3797	33
+RIHGs	human	transcript	GTA>GAA	29	1825	4
+RIHGs	human	transcript	GTA>GCA	111	1825	9
+RIHGs	human	transcript	GTA>GGA	35	1825	8
+RIHGs	human	transcript	GTT>GAT	50	2700	4
+RIHGs	human	transcript	GTT>GCT	178	2700	25
+RIHGs	human	transcript	GTT>GGT	51	2700	25
+RIHGs	human	transcript	GTC>GAC	40	1967	8
+RIHGs	human	transcript	GTC>GCC	105	1967	14
+RIHGs	human	transcript	GTC>GGC	47	1967	8
+RIHGs	human	transcript	GTG>GAG	50	3301	9
+RIHGs	human	transcript	GTG>GCG	219	3301	34
+RIHGs	human	transcript	GTG>GGG	97	3301	55
+RIHGs	human	transcript	GCA>GAA	94	3118	17
+RIHGs	human	transcript	GCA>GTA	362	3118	47
+RIHGs	human	transcript	GCA>GGA	92	3118	8
+RIHGs	human	transcript	GCT>GAT	60	3126	5
+RIHGs	human	transcript	GCT>GTT	351	3126	41
+RIHGs	human	transcript	GCT>GGT	129	3126	18
+RIHGs	human	transcript	GCC>GAC	108	3244	10
+RIHGs	human	transcript	GCC>GTC	410	3244	45
+RIHGs	human	transcript	GCC>GGC	112	3244	10
+RIHGs	human	transcript	GCG>GAG	75	1009	4
+RIHGs	human	transcript	GCG>GTG	462	1009	94
+RIHGs	human	transcript	GCG>GGG	73	1009	9
+RIHGs	human	transcript	GGA>GAA	342	3391	35
+RIHGs	human	transcript	GGA>GTA	124	3391	16
+RIHGs	human	transcript	GGA>GCA	93	3391	11
+RIHGs	human	transcript	GGT>GAT	380	2565	38
+RIHGs	human	transcript	GGT>GTT	184	2565	23
+RIHGs	human	transcript	GGT>GCT	108	2565	10
+RIHGs	human	transcript	GGC>GAC	393	3346	43
+RIHGs	human	transcript	GGC>GTC	205	3346	18
+RIHGs	human	transcript	GGC>GCC	114	3346	11
+RIHGs	human	transcript	GGG>GAG	445	3596	54
+RIHGs	human	transcript	GGG>GTG	157	3596	17
+RIHGs	human	transcript	GGG>GCG	159	3596	22
+RDHGs	human	4dsite	AAA>ATA	0	0	0
+RDHGs	human	4dsite	AAA>ACA	0	0	0
+RDHGs	human	4dsite	AAA>AGA	0	0	0
+RDHGs	human	4dsite	AAT>ATT	0	0	0
+RDHGs	human	4dsite	AAT>ACT	0	0	0
+RDHGs	human	4dsite	AAT>AGT	0	0	0
+RDHGs	human	4dsite	AAC>ATC	0	0	0
+RDHGs	human	4dsite	AAC>ACC	0	0	0
+RDHGs	human	4dsite	AAC>AGC	0	0	0
+RDHGs	human	4dsite	AAG>ATG	0	0	0
+RDHGs	human	4dsite	AAG>ACG	0	0	0
+RDHGs	human	4dsite	AAG>AGG	0	0	0
+RDHGs	human	4dsite	ATA>AAA	0	0	0
+RDHGs	human	4dsite	ATA>ACA	0	0	0
+RDHGs	human	4dsite	ATA>AGA	0	0	0
+RDHGs	human	4dsite	ATT>AAT	0	0	0
+RDHGs	human	4dsite	ATT>ACT	0	0	0
+RDHGs	human	4dsite	ATT>AGT	0	0	0
+RDHGs	human	4dsite	ATC>AAC	0	0	0
+RDHGs	human	4dsite	ATC>ACC	0	0	0
+RDHGs	human	4dsite	ATC>AGC	0	0	0
+RDHGs	human	4dsite	ATG>AAG	0	0	0
+RDHGs	human	4dsite	ATG>ACG	0	0	0
+RDHGs	human	4dsite	ATG>AGG	0	0	0
+RDHGs	human	4dsite	ACA>AAA	0	0	0
+RDHGs	human	4dsite	ACA>ATA	0	0	0
+RDHGs	human	4dsite	ACA>AGA	0	0	0
+RDHGs	human	4dsite	ACT>AAT	0	0	0
+RDHGs	human	4dsite	ACT>ATT	0	0	0
+RDHGs	human	4dsite	ACT>AGT	0	0	0
+RDHGs	human	4dsite	ACC>AAC	0	0	0
+RDHGs	human	4dsite	ACC>ATC	0	0	0
+RDHGs	human	4dsite	ACC>AGC	0	0	0
+RDHGs	human	4dsite	ACG>AAG	0	0	0
+RDHGs	human	4dsite	ACG>ATG	0	0	0
+RDHGs	human	4dsite	ACG>AGG	0	0	0
+RDHGs	human	4dsite	AGA>AAA	0	0	0
+RDHGs	human	4dsite	AGA>ATA	0	0	0
+RDHGs	human	4dsite	AGA>ACA	0	0	0
+RDHGs	human	4dsite	AGT>AAT	0	0	0
+RDHGs	human	4dsite	AGT>ATT	0	0	0
+RDHGs	human	4dsite	AGT>ACT	0	0	0
+RDHGs	human	4dsite	AGC>AAC	0	0	0
+RDHGs	human	4dsite	AGC>ATC	0	0	0
+RDHGs	human	4dsite	AGC>ACC	0	0	0
+RDHGs	human	4dsite	AGG>AAG	0	0	0
+RDHGs	human	4dsite	AGG>ATG	0	0	0
+RDHGs	human	4dsite	AGG>ACG	0	0	0
+RDHGs	human	4dsite	TAA>TTA	0	22	1
+RDHGs	human	4dsite	TAA>TCA	2	22	0
+RDHGs	human	4dsite	TAA>TGA	3	22	2
+RDHGs	human	4dsite	TAT>TTT	0	11	3
+RDHGs	human	4dsite	TAT>TCT	0	11	0
+RDHGs	human	4dsite	TAT>TGT	1	11	3
+RDHGs	human	4dsite	TAC>TTC	0	19	0
+RDHGs	human	4dsite	TAC>TCC	2	19	0
+RDHGs	human	4dsite	TAC>TGC	5	19	4
+RDHGs	human	4dsite	TAG>TTG	1	18	0
+RDHGs	human	4dsite	TAG>TCG	0	18	0
+RDHGs	human	4dsite	TAG>TGG	3	18	0
+RDHGs	human	4dsite	TTA>TAA	2	32	0
+RDHGs	human	4dsite	TTA>TCA	4	32	0
+RDHGs	human	4dsite	TTA>TGA	2	32	0
+RDHGs	human	4dsite	TTT>TAT	0	23	0
+RDHGs	human	4dsite	TTT>TCT	3	23	0
+RDHGs	human	4dsite	TTT>TGT	2	23	0
+RDHGs	human	4dsite	TTC>TAC	1	32	0
+RDHGs	human	4dsite	TTC>TCC	5	32	0
+RDHGs	human	4dsite	TTC>TGC	4	32	1
+RDHGs	human	4dsite	TTG>TAG	1	27	0
+RDHGs	human	4dsite	TTG>TCG	2	27	0
+RDHGs	human	4dsite	TTG>TGG	4	27	0
+RDHGs	human	4dsite	TCA>TAA	6	109	0
+RDHGs	human	4dsite	TCA>TTA	30	109	3
+RDHGs	human	4dsite	TCA>TGA	18	109	2
+RDHGs	human	4dsite	TCT>TAT	3	24	0
+RDHGs	human	4dsite	TCT>TTT	6	24	3
+RDHGs	human	4dsite	TCT>TGT	4	24	0
+RDHGs	human	4dsite	TCC>TAC	4	57	0
+RDHGs	human	4dsite	TCC>TTC	20	57	1
+RDHGs	human	4dsite	TCC>TGC	8	57	3
+RDHGs	human	4dsite	TCG>TAG	5	21	0
+RDHGs	human	4dsite	TCG>TTG	6	21	3
+RDHGs	human	4dsite	TCG>TGG	1	21	2
+RDHGs	human	4dsite	TGA>TAA	29	120	2
+RDHGs	human	4dsite	TGA>TTA	4	120	2
+RDHGs	human	4dsite	TGA>TCA	8	120	5
+RDHGs	human	4dsite	TGT>TAT	27	90	4
+RDHGs	human	4dsite	TGT>TTT	8	90	0
+RDHGs	human	4dsite	TGT>TCT	13	90	1
+RDHGs	human	4dsite	TGC>TAC	50	216	6
+RDHGs	human	4dsite	TGC>TTC	17	216	2
+RDHGs	human	4dsite	TGC>TCC	17	216	5
+RDHGs	human	4dsite	TGG>TAG	55	194	6
+RDHGs	human	4dsite	TGG>TTG	15	194	0
+RDHGs	human	4dsite	TGG>TCG	16	194	2
+RDHGs	human	4dsite	CAA>CTA	0	52	1
+RDHGs	human	4dsite	CAA>CCA	10	52	0
+RDHGs	human	4dsite	CAA>CGA	9	52	2
+RDHGs	human	4dsite	CAT>CTT	1	18	0
+RDHGs	human	4dsite	CAT>CCT	3	18	1
+RDHGs	human	4dsite	CAT>CGT	1	18	2
+RDHGs	human	4dsite	CAC>CTC	1	28	0
+RDHGs	human	4dsite	CAC>CCC	4	28	2
+RDHGs	human	4dsite	CAC>CGC	6	28	3
+RDHGs	human	4dsite	CAG>CTG	9	121	2
+RDHGs	human	4dsite	CAG>CCG	10	121	3
+RDHGs	human	4dsite	CAG>CGG	27	121	5
+RDHGs	human	4dsite	CTA>CAA	8	155	1
+RDHGs	human	4dsite	CTA>CCA	32	155	5
+RDHGs	human	4dsite	CTA>CGA	7	155	1
+RDHGs	human	4dsite	CTT>CAT	0	60	0
+RDHGs	human	4dsite	CTT>CCT	6	60	0
+RDHGs	human	4dsite	CTT>CGT	2	60	1
+RDHGs	human	4dsite	CTC>CAC	10	139	1
+RDHGs	human	4dsite	CTC>CCC	20	139	1
+RDHGs	human	4dsite	CTC>CGC	8	139	2
+RDHGs	human	4dsite	CTG>CAG	17	225	1
+RDHGs	human	4dsite	CTG>CCG	55	225	6
+RDHGs	human	4dsite	CTG>CGG	18	225	3
+RDHGs	human	4dsite	CCA>CAA	23	434	4
+RDHGs	human	4dsite	CCA>CTA	155	434	27
+RDHGs	human	4dsite	CCA>CGA	39	434	7
+RDHGs	human	4dsite	CCT>CAT	5	78	1
+RDHGs	human	4dsite	CCT>CTT	31	78	6
+RDHGs	human	4dsite	CCT>CGT	8	78	2
+RDHGs	human	4dsite	CCC>CAC	8	128	0
+RDHGs	human	4dsite	CCC>CTC	61	128	7
+RDHGs	human	4dsite	CCC>CGC	16	128	1
+RDHGs	human	4dsite	CCG>CAG	32	294	5
+RDHGs	human	4dsite	CCG>CTG	134	294	33
+RDHGs	human	4dsite	CCG>CGG	68	294	7
+RDHGs	human	4dsite	CGA>CAA	32	80	5
+RDHGs	human	4dsite	CGA>CTA	8	80	2
+RDHGs	human	4dsite	CGA>CCA	14	80	2
+RDHGs	human	4dsite	CGT>CAT	13	32	3
+RDHGs	human	4dsite	CGT>CTT	2	32	2
+RDHGs	human	4dsite	CGT>CCT	7	32	1
+RDHGs	human	4dsite	CGC>CAC	39	121	2
+RDHGs	human	4dsite	CGC>CTC	22	121	2
+RDHGs	human	4dsite	CGC>CCC	9	121	2
+RDHGs	human	4dsite	CGG>CAG	85	205	10
+RDHGs	human	4dsite	CGG>CTG	21	205	5
+RDHGs	human	4dsite	CGG>CCG	29	205	9
+RDHGs	human	4dsite	GAA>GTA	2	23	0
+RDHGs	human	4dsite	GAA>GCA	2	23	0
+RDHGs	human	4dsite	GAA>GGA	8	23	1
+RDHGs	human	4dsite	GAT>GTT	0	0	0
+RDHGs	human	4dsite	GAT>GCT	0	0	0
+RDHGs	human	4dsite	GAT>GGT	0	0	0
+RDHGs	human	4dsite	GAC>GTC	2	29	0
+RDHGs	human	4dsite	GAC>GCC	2	29	0
+RDHGs	human	4dsite	GAC>GGC	4	29	2
+RDHGs	human	4dsite	GAG>GTG	3	65	1
+RDHGs	human	4dsite	GAG>GCG	6	65	0
+RDHGs	human	4dsite	GAG>GGG	9	65	3
+RDHGs	human	4dsite	GTA>GAA	9	70	0
+RDHGs	human	4dsite	GTA>GCA	15	70	4
+RDHGs	human	4dsite	GTA>GGA	4	70	0
+RDHGs	human	4dsite	GTT>GAT	2	31	0
+RDHGs	human	4dsite	GTT>GCT	6	31	1
+RDHGs	human	4dsite	GTT>GGT	3	31	0
+RDHGs	human	4dsite	GTC>GAC	2	50	0
+RDHGs	human	4dsite	GTC>GCC	7	50	3
+RDHGs	human	4dsite	GTC>GGC	3	50	1
+RDHGs	human	4dsite	GTG>GAG	4	100	2
+RDHGs	human	4dsite	GTG>GCG	8	100	6
+RDHGs	human	4dsite	GTG>GGG	11	100	2
+RDHGs	human	4dsite	GCA>GAA	17	337	0
+RDHGs	human	4dsite	GCA>GTA	101	337	19
+RDHGs	human	4dsite	GCA>GGA	24	337	2
+RDHGs	human	4dsite	GCT>GAT	2	102	3
+RDHGs	human	4dsite	GCT>GTT	38	102	9
+RDHGs	human	4dsite	GCT>GGT	13	102	1
+RDHGs	human	4dsite	GCC>GAC	1	128	1
+RDHGs	human	4dsite	GCC>GTC	42	128	4
+RDHGs	human	4dsite	GCC>GGC	7	128	4
+RDHGs	human	4dsite	GCG>GAG	13	196	2
+RDHGs	human	4dsite	GCG>GTG	74	196	24
+RDHGs	human	4dsite	GCG>GGG	20	196	3
+RDHGs	human	4dsite	GGA>GAA	10	28	2
+RDHGs	human	4dsite	GGA>GTA	2	28	2
+RDHGs	human	4dsite	GGA>GCA	3	28	3
+RDHGs	human	4dsite	GGT>GAT	1	3	0
+RDHGs	human	4dsite	GGT>GTT	0	3	1
+RDHGs	human	4dsite	GGT>GCT	0	3	0
+RDHGs	human	4dsite	GGC>GAC	8	38	2
+RDHGs	human	4dsite	GGC>GTC	9	38	0
+RDHGs	human	4dsite	GGC>GCC	5	38	1
+RDHGs	human	4dsite	GGG>GAG	27	78	1
+RDHGs	human	4dsite	GGG>GTG	5	78	2
+RDHGs	human	4dsite	GGG>GCG	12	78	2
+Expressed genes	human	4dsite	AAA>ATA	0	0	0
+Expressed genes	human	4dsite	AAA>ACA	0	0	0
+Expressed genes	human	4dsite	AAA>AGA	0	0	0
+Expressed genes	human	4dsite	AAT>ATT	0	1	0
+Expressed genes	human	4dsite	AAT>ACT	0	1	0
+Expressed genes	human	4dsite	AAT>AGT	0	1	0
+Expressed genes	human	4dsite	AAC>ATC	0	0	0
+Expressed genes	human	4dsite	AAC>ACC	0	0	0
+Expressed genes	human	4dsite	AAC>AGC	0	0	0
+Expressed genes	human	4dsite	AAG>ATG	0	0	0
+Expressed genes	human	4dsite	AAG>ACG	0	0	0
+Expressed genes	human	4dsite	AAG>AGG	0	0	0
+Expressed genes	human	4dsite	ATA>AAA	0	0	0
+Expressed genes	human	4dsite	ATA>ACA	0	0	0
+Expressed genes	human	4dsite	ATA>AGA	0	0	0
+Expressed genes	human	4dsite	ATT>AAT	0	0	0
+Expressed genes	human	4dsite	ATT>ACT	0	0	0
+Expressed genes	human	4dsite	ATT>AGT	0	0	0
+Expressed genes	human	4dsite	ATC>AAC	0	0	0
+Expressed genes	human	4dsite	ATC>ACC	0	0	0
+Expressed genes	human	4dsite	ATC>AGC	0	0	0
+Expressed genes	human	4dsite	ATG>AAG	0	0	0
+Expressed genes	human	4dsite	ATG>ACG	0	0	0
+Expressed genes	human	4dsite	ATG>AGG	0	0	0
+Expressed genes	human	4dsite	ACA>AAA	0	0	0
+Expressed genes	human	4dsite	ACA>ATA	0	0	0
+Expressed genes	human	4dsite	ACA>AGA	0	0	0
+Expressed genes	human	4dsite	ACT>AAT	0	0	0
+Expressed genes	human	4dsite	ACT>ATT	0	0	0
+Expressed genes	human	4dsite	ACT>AGT	0	0	0
+Expressed genes	human	4dsite	ACC>AAC	0	0	0
+Expressed genes	human	4dsite	ACC>ATC	0	0	0
+Expressed genes	human	4dsite	ACC>AGC	0	0	0
+Expressed genes	human	4dsite	ACG>AAG	0	0	0
+Expressed genes	human	4dsite	ACG>ATG	0	0	0
+Expressed genes	human	4dsite	ACG>AGG	0	0	0
+Expressed genes	human	4dsite	AGA>AAA	0	0	0
+Expressed genes	human	4dsite	AGA>ATA	0	0	0
+Expressed genes	human	4dsite	AGA>ACA	0	0	0
+Expressed genes	human	4dsite	AGT>AAT	0	0	0
+Expressed genes	human	4dsite	AGT>ATT	0	0	0
+Expressed genes	human	4dsite	AGT>ACT	0	0	0
+Expressed genes	human	4dsite	AGC>AAC	0	0	0
+Expressed genes	human	4dsite	AGC>ATC	0	0	0
+Expressed genes	human	4dsite	AGC>ACC	0	0	0
+Expressed genes	human	4dsite	AGG>AAG	0	0	0
+Expressed genes	human	4dsite	AGG>ATG	0	0	0
+Expressed genes	human	4dsite	AGG>ACG	0	0	0
+Expressed genes	human	4dsite	TAA>TTA	593	36820	64
+Expressed genes	human	4dsite	TAA>TCA	808	36820	101
+Expressed genes	human	4dsite	TAA>TGA	3918	36820	476
+Expressed genes	human	4dsite	TAT>TTT	593	19513	94
+Expressed genes	human	4dsite	TAT>TCT	515	19513	65
+Expressed genes	human	4dsite	TAT>TGT	5267	19513	846
+Expressed genes	human	4dsite	TAC>TTC	694	30578	77
+Expressed genes	human	4dsite	TAC>TCC	698	30578	137
+Expressed genes	human	4dsite	TAC>TGC	4806	30578	627
+Expressed genes	human	4dsite	TAG>TTG	661	45001	86
+Expressed genes	human	4dsite	TAG>TCG	770	45001	78
+Expressed genes	human	4dsite	TAG>TGG	5336	45001	703
+Expressed genes	human	4dsite	TTA>TAA	574	40872	50
+Expressed genes	human	4dsite	TTA>TCA	2101	40872	280
+Expressed genes	human	4dsite	TTA>TGA	828	40872	95
+Expressed genes	human	4dsite	TTT>TAT	412	44592	56
+Expressed genes	human	4dsite	TTT>TCT	1647	44592	220
+Expressed genes	human	4dsite	TTT>TGT	1086	44592	142
+Expressed genes	human	4dsite	TTC>TAC	866	65797	86
+Expressed genes	human	4dsite	TTC>TCC	2233	65797	284
+Expressed genes	human	4dsite	TTC>TGC	1410	65797	171
+Expressed genes	human	4dsite	TTG>TAG	881	74098	97
+Expressed genes	human	4dsite	TTG>TCG	3793	74098	493
+Expressed genes	human	4dsite	TTG>TGG	1996	74098	271
+Expressed genes	human	4dsite	TCA>TAA	2530	111454	225
+Expressed genes	human	4dsite	TCA>TTA	13914	111454	1436
+Expressed genes	human	4dsite	TCA>TGA	4790	111454	514
+Expressed genes	human	4dsite	TCT>TAT	1582	73155	166
+Expressed genes	human	4dsite	TCT>TTT	8363	73155	915
+Expressed genes	human	4dsite	TCT>TGT	5820	73155	610
+Expressed genes	human	4dsite	TCC>TAC	2871	81636	325
+Expressed genes	human	4dsite	TCC>TTC	11214	81636	1273
+Expressed genes	human	4dsite	TCC>TGC	4508	81636	526
+Expressed genes	human	4dsite	TCG>TAG	1503	25508	159
+Expressed genes	human	4dsite	TCG>TTG	14553	25508	3087
+Expressed genes	human	4dsite	TCG>TGG	2582	25508	290
+Expressed genes	human	4dsite	TGA>TAA	11607	130807	1179
+Expressed genes	human	4dsite	TGA>TTA	2702	130807	291
+Expressed genes	human	4dsite	TGA>TCA	4361	130807	464
+Expressed genes	human	4dsite	TGT>TAT	11425	77798	1231
+Expressed genes	human	4dsite	TGT>TTT	2817	77798	276
+Expressed genes	human	4dsite	TGT>TCT	3606	77798	386
+Expressed genes	human	4dsite	TGC>TAC	17806	159616	1853
+Expressed genes	human	4dsite	TGC>TTC	6837	159616	710
+Expressed genes	human	4dsite	TGC>TCC	4812	159616	544
+Expressed genes	human	4dsite	TGG>TAG	24857	234727	2565
+Expressed genes	human	4dsite	TGG>TTG	5365	234727	611
+Expressed genes	human	4dsite	TGG>TCG	6288	234727	694
+Expressed genes	human	4dsite	CAA>CTA	1538	118500	182
+Expressed genes	human	4dsite	CAA>CCA	3734	118500	467
+Expressed genes	human	4dsite	CAA>CGA	9042	118500	1148
+Expressed genes	human	4dsite	CAT>CTT	3053	80446	357
+Expressed genes	human	4dsite	CAT>CCT	2853	80446	440
+Expressed genes	human	4dsite	CAT>CGT	16238	80446	2059
+Expressed genes	human	4dsite	CAC>CTC	2634	114292	322
+Expressed genes	human	4dsite	CAC>CCC	4146	114292	1272
+Expressed genes	human	4dsite	CAC>CGC	11553	114292	1604
+Expressed genes	human	4dsite	CAG>CTG	4418	249719	580
+Expressed genes	human	4dsite	CAG>CCG	7385	249719	975
+Expressed genes	human	4dsite	CAG>CGG	25199	249719	3357
+Expressed genes	human	4dsite	CTA>CAA	1467	83370	161
+Expressed genes	human	4dsite	CTA>CCA	6517	83370	839
+Expressed genes	human	4dsite	CTA>CGA	1602	83370	183
+Expressed genes	human	4dsite	CTT>CAT	1584	101135	165
+Expressed genes	human	4dsite	CTT>CCT	5735	101135	805
+Expressed genes	human	4dsite	CTT>CGT	3023	101135	319
+Expressed genes	human	4dsite	CTC>CAC	2708	140495	441
+Expressed genes	human	4dsite	CTC>CCC	7879	140495	1275
+Expressed genes	human	4dsite	CTC>CGC	3400	140495	392
+Expressed genes	human	4dsite	CTG>CAG	4960	268618	645
+Expressed genes	human	4dsite	CTG>CCG	21777	268618	2983
+Expressed genes	human	4dsite	CTG>CGG	7382	268618	902
+Expressed genes	human	4dsite	CCA>CAA	6788	269760	772
+Expressed genes	human	4dsite	CCA>CTA	31044	269760	3322
+Expressed genes	human	4dsite	CCA>CGA	8924	269760	1053
+Expressed genes	human	4dsite	CCT>CAT	4055	170480	457
+Expressed genes	human	4dsite	CCT>CTT	24030	170480	2672
+Expressed genes	human	4dsite	CCT>CGT	9537	170480	994
+Expressed genes	human	4dsite	CCC>CAC	8417	206162	862
+Expressed genes	human	4dsite	CCC>CTC	29018	206162	3344
+Expressed genes	human	4dsite	CCC>CGC	11845	206162	1258
+Expressed genes	human	4dsite	CCG>CAG	7492	108520	859
+Expressed genes	human	4dsite	CCG>CTG	59046	108520	15150
+Expressed genes	human	4dsite	CCG>CGG	12209	108520	1475
+Expressed genes	human	4dsite	CGA>CAA	16205	28607	3527
+Expressed genes	human	4dsite	CGA>CTA	2256	28607	208
+Expressed genes	human	4dsite	CGA>CCA	2173	28607	325
+Expressed genes	human	4dsite	CGT>CAT	16742	29868	4986
+Expressed genes	human	4dsite	CGT>CTT	2891	29868	357
+Expressed genes	human	4dsite	CGT>CCT	2416	29868	341
+Expressed genes	human	4dsite	CGC>CAC	33158	73816	7503
+Expressed genes	human	4dsite	CGC>CTC	9359	73816	979
+Expressed genes	human	4dsite	CGC>CCC	4460	73816	715
+Expressed genes	human	4dsite	CGG>CAG	52293	101109	12496
+Expressed genes	human	4dsite	CGG>CTG	7496	101109	863
+Expressed genes	human	4dsite	CGG>CCG	9132	101109	1144
+Expressed genes	human	4dsite	GAA>GTA	848	60111	73
+Expressed genes	human	4dsite	GAA>GCA	1211	60111	149
+Expressed genes	human	4dsite	GAA>GGA	2910	60111	343
+Expressed genes	human	4dsite	GAT>GTT	1185	25935	111
+Expressed genes	human	4dsite	GAT>GCT	528	25935	68
+Expressed genes	human	4dsite	GAT>GGT	2162	25935	221
+Expressed genes	human	4dsite	GAC>GTC	1021	39106	111
+Expressed genes	human	4dsite	GAC>GCC	673	39106	165
+Expressed genes	human	4dsite	GAC>GGC	2794	39106	360
+Expressed genes	human	4dsite	GAG>GTG	1560	84188	189
+Expressed genes	human	4dsite	GAG>GCG	1966	84188	245
+Expressed genes	human	4dsite	GAG>GGG	4145	84188	595
+Expressed genes	human	4dsite	GTA>GAA	317	20302	46
+Expressed genes	human	4dsite	GTA>GCA	1359	20302	216
+Expressed genes	human	4dsite	GTA>GGA	327	20302	64
+Expressed genes	human	4dsite	GTT>GAT	394	24367	44
+Expressed genes	human	4dsite	GTT>GCT	1469	24367	195
+Expressed genes	human	4dsite	GTT>GGT	411	24367	106
+Expressed genes	human	4dsite	GTC>GAC	717	30546	82
+Expressed genes	human	4dsite	GTC>GCC	1590	30546	224
+Expressed genes	human	4dsite	GTC>GGC	670	30546	135
+Expressed genes	human	4dsite	GTG>GAG	1093	62697	138
+Expressed genes	human	4dsite	GTG>GCG	3781	62697	660
+Expressed genes	human	4dsite	GTG>GGG	1577	62697	487
+Expressed genes	human	4dsite	GCA>GAA	2790	88716	318
+Expressed genes	human	4dsite	GCA>GTA	10018	88716	1012
+Expressed genes	human	4dsite	GCA>GGA	2160	88716	253
+Expressed genes	human	4dsite	GCT>GAT	1898	72625	196
+Expressed genes	human	4dsite	GCT>GTT	8306	72625	920
+Expressed genes	human	4dsite	GCT>GGT	2635	72625	241
+Expressed genes	human	4dsite	GCC>GAC	3644	86966	340
+Expressed genes	human	4dsite	GCC>GTC	11490	86966	1241
+Expressed genes	human	4dsite	GCC>GGC	2693	86966	295
+Expressed genes	human	4dsite	GCG>GAG	3721	48741	403
+Expressed genes	human	4dsite	GCG>GTG	21127	48741	4623
+Expressed genes	human	4dsite	GCG>GGG	2564	48741	360
+Expressed genes	human	4dsite	GGA>GAA	7602	66487	884
+Expressed genes	human	4dsite	GGA>GTA	2923	66487	267
+Expressed genes	human	4dsite	GGA>GCA	2762	66487	296
+Expressed genes	human	4dsite	GGT>GAT	3484	23359	431
+Expressed genes	human	4dsite	GGT>GTT	1967	23359	210
+Expressed genes	human	4dsite	GGT>GCT	951	23359	114
+Expressed genes	human	4dsite	GGC>GAC	9756	74141	1079
+Expressed genes	human	4dsite	GGC>GTC	4600	74141	456
+Expressed genes	human	4dsite	GGC>GCC	2517	74141	286
+Expressed genes	human	4dsite	GGG>GAG	11933	91544	1383
+Expressed genes	human	4dsite	GGG>GTG	3929	91544	402
+Expressed genes	human	4dsite	GGG>GCG	3970	91544	441
+Unexpressed genes	human	4dsite	AAA>ATA	0	0	0
+Unexpressed genes	human	4dsite	AAA>ACA	0	0	0
+Unexpressed genes	human	4dsite	AAA>AGA	0	0	0
+Unexpressed genes	human	4dsite	AAT>ATT	0	0	0
+Unexpressed genes	human	4dsite	AAT>ACT	0	0	0
+Unexpressed genes	human	4dsite	AAT>AGT	0	0	0
+Unexpressed genes	human	4dsite	AAC>ATC	0	0	0
+Unexpressed genes	human	4dsite	AAC>ACC	0	0	0
+Unexpressed genes	human	4dsite	AAC>AGC	0	0	0
+Unexpressed genes	human	4dsite	AAG>ATG	0	0	0
+Unexpressed genes	human	4dsite	AAG>ACG	0	0	0
+Unexpressed genes	human	4dsite	AAG>AGG	0	0	0
+Unexpressed genes	human	4dsite	ATA>AAA	0	0	0
+Unexpressed genes	human	4dsite	ATA>ACA	0	0	0
+Unexpressed genes	human	4dsite	ATA>AGA	0	0	0
+Unexpressed genes	human	4dsite	ATT>AAT	0	0	0
+Unexpressed genes	human	4dsite	ATT>ACT	0	0	0
+Unexpressed genes	human	4dsite	ATT>AGT	0	0	0
+Unexpressed genes	human	4dsite	ATC>AAC	0	0	0
+Unexpressed genes	human	4dsite	ATC>ACC	0	0	0
+Unexpressed genes	human	4dsite	ATC>AGC	0	0	0
+Unexpressed genes	human	4dsite	ATG>AAG	0	0	0
+Unexpressed genes	human	4dsite	ATG>ACG	0	0	0
+Unexpressed genes	human	4dsite	ATG>AGG	0	0	0
+Unexpressed genes	human	4dsite	ACA>AAA	0	0	0
+Unexpressed genes	human	4dsite	ACA>ATA	0	0	0
+Unexpressed genes	human	4dsite	ACA>AGA	0	0	0
+Unexpressed genes	human	4dsite	ACT>AAT	0	0	0
+Unexpressed genes	human	4dsite	ACT>ATT	0	0	0
+Unexpressed genes	human	4dsite	ACT>AGT	0	0	0
+Unexpressed genes	human	4dsite	ACC>AAC	0	0	0
+Unexpressed genes	human	4dsite	ACC>ATC	0	0	0
+Unexpressed genes	human	4dsite	ACC>AGC	0	0	0
+Unexpressed genes	human	4dsite	ACG>AAG	0	0	0
+Unexpressed genes	human	4dsite	ACG>ATG	0	0	0
+Unexpressed genes	human	4dsite	ACG>AGG	0	0	0
+Unexpressed genes	human	4dsite	AGA>AAA	0	0	0
+Unexpressed genes	human	4dsite	AGA>ATA	0	0	0
+Unexpressed genes	human	4dsite	AGA>ACA	0	0	0
+Unexpressed genes	human	4dsite	AGT>AAT	0	0	0
+Unexpressed genes	human	4dsite	AGT>ATT	0	0	0
+Unexpressed genes	human	4dsite	AGT>ACT	0	0	0
+Unexpressed genes	human	4dsite	AGC>AAC	0	0	0
+Unexpressed genes	human	4dsite	AGC>ATC	0	0	0
+Unexpressed genes	human	4dsite	AGC>ACC	0	0	0
+Unexpressed genes	human	4dsite	AGG>AAG	0	0	0
+Unexpressed genes	human	4dsite	AGG>ATG	0	0	0
+Unexpressed genes	human	4dsite	AGG>ACG	0	0	0
+Unexpressed genes	human	4dsite	TAA>TTA	71	3429	6
+Unexpressed genes	human	4dsite	TAA>TCA	70	3429	11
+Unexpressed genes	human	4dsite	TAA>TGA	325	3429	44
+Unexpressed genes	human	4dsite	TAT>TTT	55	2075	4
+Unexpressed genes	human	4dsite	TAT>TCT	61	2075	16
+Unexpressed genes	human	4dsite	TAT>TGT	433	2075	72
+Unexpressed genes	human	4dsite	TAC>TTC	47	2793	6
+Unexpressed genes	human	4dsite	TAC>TCC	66	2793	24
+Unexpressed genes	human	4dsite	TAC>TGC	316	2793	62
+Unexpressed genes	human	4dsite	TAG>TTG	66	3998	12
+Unexpressed genes	human	4dsite	TAG>TCG	67	3998	11
+Unexpressed genes	human	4dsite	TAG>TGG	423	3998	92
+Unexpressed genes	human	4dsite	TTA>TAA	59	3403	9
+Unexpressed genes	human	4dsite	TTA>TCA	240	3403	33
+Unexpressed genes	human	4dsite	TTA>TGA	55	3403	14
+Unexpressed genes	human	4dsite	TTT>TAT	46	4338	3
+Unexpressed genes	human	4dsite	TTT>TCT	184	4338	32
+Unexpressed genes	human	4dsite	TTT>TGT	115	4338	14
+Unexpressed genes	human	4dsite	TTC>TAC	106	6129	11
+Unexpressed genes	human	4dsite	TTC>TCC	248	6129	35
+Unexpressed genes	human	4dsite	TTC>TGC	103	6129	20
+Unexpressed genes	human	4dsite	TTG>TAG	100	6578	9
+Unexpressed genes	human	4dsite	TTG>TCG	410	6578	76
+Unexpressed genes	human	4dsite	TTG>TGG	190	6578	35
+Unexpressed genes	human	4dsite	TCA>TAA	355	13682	56
+Unexpressed genes	human	4dsite	TCA>TTA	1532	13682	215
+Unexpressed genes	human	4dsite	TCA>TGA	432	13682	68
+Unexpressed genes	human	4dsite	TCT>TAT	283	10055	34
+Unexpressed genes	human	4dsite	TCT>TTT	1040	10055	128
+Unexpressed genes	human	4dsite	TCT>TGT	682	10055	84
+Unexpressed genes	human	4dsite	TCC>TAC	391	10336	54
+Unexpressed genes	human	4dsite	TCC>TTC	1336	10336	188
+Unexpressed genes	human	4dsite	TCC>TGC	489	10336	62
+Unexpressed genes	human	4dsite	TCG>TAG	208	2780	27
+Unexpressed genes	human	4dsite	TCG>TTG	1534	2780	321
+Unexpressed genes	human	4dsite	TCG>TGG	269	2780	40
+Unexpressed genes	human	4dsite	TGA>TAA	1419	14717	148
+Unexpressed genes	human	4dsite	TGA>TTA	334	14717	53
+Unexpressed genes	human	4dsite	TGA>TCA	488	14717	66
+Unexpressed genes	human	4dsite	TGT>TAT	1276	9294	172
+Unexpressed genes	human	4dsite	TGT>TTT	306	9294	55
+Unexpressed genes	human	4dsite	TGT>TCT	419	9294	45
+Unexpressed genes	human	4dsite	TGC>TAC	1930	17709	232
+Unexpressed genes	human	4dsite	TGC>TTC	784	17709	101
+Unexpressed genes	human	4dsite	TGC>TCC	517	17709	50
+Unexpressed genes	human	4dsite	TGG>TAG	2901	26269	340
+Unexpressed genes	human	4dsite	TGG>TTG	763	26269	82
+Unexpressed genes	human	4dsite	TGG>TCG	739	26269	104
+Unexpressed genes	human	4dsite	CAA>CTA	202	11087	43
+Unexpressed genes	human	4dsite	CAA>CCA	356	11087	101
+Unexpressed genes	human	4dsite	CAA>CGA	701	11087	137
+Unexpressed genes	human	4dsite	CAT>CTT	345	8010	46
+Unexpressed genes	human	4dsite	CAT>CCT	315	8010	63
+Unexpressed genes	human	4dsite	CAT>CGT	1279	8010	200
+Unexpressed genes	human	4dsite	CAC>CTC	293	10589	63
+Unexpressed genes	human	4dsite	CAC>CCC	361	10589	112
+Unexpressed genes	human	4dsite	CAC>CGC	961	10589	184
+Unexpressed genes	human	4dsite	CAG>CTG	486	22933	79
+Unexpressed genes	human	4dsite	CAG>CCG	694	22933	105
+Unexpressed genes	human	4dsite	CAG>CGG	2087	22933	359
+Unexpressed genes	human	4dsite	CTA>CAA	164	7961	37
+Unexpressed genes	human	4dsite	CTA>CCA	632	7961	187
+Unexpressed genes	human	4dsite	CTA>CGA	169	7961	18
+Unexpressed genes	human	4dsite	CTT>CAT	163	10171	24
+Unexpressed genes	human	4dsite	CTT>CCT	693	10171	129
+Unexpressed genes	human	4dsite	CTT>CGT	318	10171	37
+Unexpressed genes	human	4dsite	CTC>CAC	295	13997	71
+Unexpressed genes	human	4dsite	CTC>CCC	813	13997	202
+Unexpressed genes	human	4dsite	CTC>CGC	305	13997	57
+Unexpressed genes	human	4dsite	CTG>CAG	582	25716	97
+Unexpressed genes	human	4dsite	CTG>CCG	2301	25716	424
+Unexpressed genes	human	4dsite	CTG>CGG	748	25716	121
+Unexpressed genes	human	4dsite	CCA>CAA	1063	31822	180
+Unexpressed genes	human	4dsite	CCA>CTA	3442	31822	540
+Unexpressed genes	human	4dsite	CCA>CGA	914	31822	140
+Unexpressed genes	human	4dsite	CCT>CAT	685	21896	88
+Unexpressed genes	human	4dsite	CCT>CTT	2898	21896	394
+Unexpressed genes	human	4dsite	CCT>CGT	956	21896	109
+Unexpressed genes	human	4dsite	CCC>CAC	1036	22377	153
+Unexpressed genes	human	4dsite	CCC>CTC	3019	22377	451
+Unexpressed genes	human	4dsite	CCC>CGC	1138	22377	174
+Unexpressed genes	human	4dsite	CCG>CAG	858	10785	96
+Unexpressed genes	human	4dsite	CCG>CTG	5527	10785	1504
+Unexpressed genes	human	4dsite	CCG>CGG	1262	10785	168
+Unexpressed genes	human	4dsite	CGA>CAA	1566	2858	420
+Unexpressed genes	human	4dsite	CGA>CTA	256	2858	33
+Unexpressed genes	human	4dsite	CGA>CCA	267	2858	43
+Unexpressed genes	human	4dsite	CGT>CAT	1565	2999	503
+Unexpressed genes	human	4dsite	CGT>CTT	340	2999	38
+Unexpressed genes	human	4dsite	CGT>CCT	266	2999	50
+Unexpressed genes	human	4dsite	CGC>CAC	3073	7931	790
+Unexpressed genes	human	4dsite	CGC>CTC	1116	7931	135
+Unexpressed genes	human	4dsite	CGC>CCC	547	7931	96
+Unexpressed genes	human	4dsite	CGG>CAG	4887	9784	1322
+Unexpressed genes	human	4dsite	CGG>CTG	867	9784	113
+Unexpressed genes	human	4dsite	CGG>CCG	1071	9784	173
+Unexpressed genes	human	4dsite	GAA>GTA	92	5130	6
+Unexpressed genes	human	4dsite	GAA>GCA	119	5130	17
+Unexpressed genes	human	4dsite	GAA>GGA	226	5130	45
+Unexpressed genes	human	4dsite	GAT>GTT	154	2637	18
+Unexpressed genes	human	4dsite	GAT>GCT	48	2637	12
+Unexpressed genes	human	4dsite	GAT>GGT	184	2637	34
+Unexpressed genes	human	4dsite	GAC>GTC	109	3537	13
+Unexpressed genes	human	4dsite	GAC>GCC	57	3537	23
+Unexpressed genes	human	4dsite	GAC>GGC	294	3537	47
+Unexpressed genes	human	4dsite	GAG>GTG	137	7348	30
+Unexpressed genes	human	4dsite	GAG>GCG	168	7348	26
+Unexpressed genes	human	4dsite	GAG>GGG	379	7348	82
+Unexpressed genes	human	4dsite	GTA>GAA	34	1710	9
+Unexpressed genes	human	4dsite	GTA>GCA	165	1710	21
+Unexpressed genes	human	4dsite	GTA>GGA	35	1710	9
+Unexpressed genes	human	4dsite	GTT>GAT	61	2281	6
+Unexpressed genes	human	4dsite	GTT>GCT	193	2281	51
+Unexpressed genes	human	4dsite	GTT>GGT	34	2281	16
+Unexpressed genes	human	4dsite	GTC>GAC	87	2943	13
+Unexpressed genes	human	4dsite	GTC>GCC	212	2943	60
+Unexpressed genes	human	4dsite	GTC>GGC	62	2943	17
+Unexpressed genes	human	4dsite	GTG>GAG	128	5600	22
+Unexpressed genes	human	4dsite	GTG>GCG	421	5600	107
+Unexpressed genes	human	4dsite	GTG>GGG	116	5600	58
+Unexpressed genes	human	4dsite	GCA>GAA	431	9082	45
+Unexpressed genes	human	4dsite	GCA>GTA	948	9082	120
+Unexpressed genes	human	4dsite	GCA>GGA	195	9082	27
+Unexpressed genes	human	4dsite	GCT>GAT	318	8904	39
+Unexpressed genes	human	4dsite	GCT>GTT	1089	8904	149
+Unexpressed genes	human	4dsite	GCT>GGT	256	8904	32
+Unexpressed genes	human	4dsite	GCC>GAC	500	9123	60
+Unexpressed genes	human	4dsite	GCC>GTC	1298	9123	164
+Unexpressed genes	human	4dsite	GCC>GGC	288	9123	32
+Unexpressed genes	human	4dsite	GCG>GAG	601	4984	73
+Unexpressed genes	human	4dsite	GCG>GTG	1864	4984	453
+Unexpressed genes	human	4dsite	GCG>GGG	298	4984	50
+Unexpressed genes	human	4dsite	GGA>GAA	750	6359	115
+Unexpressed genes	human	4dsite	GGA>GTA	271	6359	35
+Unexpressed genes	human	4dsite	GGA>GCA	331	6359	34
+Unexpressed genes	human	4dsite	GGT>GAT	399	2587	63
+Unexpressed genes	human	4dsite	GGT>GTT	277	2587	35
+Unexpressed genes	human	4dsite	GGT>GCT	123	2587	17
+Unexpressed genes	human	4dsite	GGC>GAC	1039	6895	135
+Unexpressed genes	human	4dsite	GGC>GTC	457	6895	49
+Unexpressed genes	human	4dsite	GGC>GCC	260	6895	19
+Unexpressed genes	human	4dsite	GGG>GAG	1343	8534	173
+Unexpressed genes	human	4dsite	GGG>GTG	371	8534	40
+Unexpressed genes	human	4dsite	GGG>GCG	411	8534	50
+RIHGs	human	4dsite	AAA>ATA	0	0	0
+RIHGs	human	4dsite	AAA>ACA	0	0	0
+RIHGs	human	4dsite	AAA>AGA	0	0	0
+RIHGs	human	4dsite	AAT>ATT	0	0	0
+RIHGs	human	4dsite	AAT>ACT	0	0	0
+RIHGs	human	4dsite	AAT>AGT	0	0	0
+RIHGs	human	4dsite	AAC>ATC	0	0	0
+RIHGs	human	4dsite	AAC>ACC	0	0	0
+RIHGs	human	4dsite	AAC>AGC	0	0	0
+RIHGs	human	4dsite	AAG>ATG	0	0	0
+RIHGs	human	4dsite	AAG>ACG	0	0	0
+RIHGs	human	4dsite	AAG>AGG	0	0	0
+RIHGs	human	4dsite	ATA>AAA	0	0	0
+RIHGs	human	4dsite	ATA>ACA	0	0	0
+RIHGs	human	4dsite	ATA>AGA	0	0	0
+RIHGs	human	4dsite	ATT>AAT	0	0	0
+RIHGs	human	4dsite	ATT>ACT	0	0	0
+RIHGs	human	4dsite	ATT>AGT	0	0	0
+RIHGs	human	4dsite	ATC>AAC	0	0	0
+RIHGs	human	4dsite	ATC>ACC	0	0	0
+RIHGs	human	4dsite	ATC>AGC	0	0	0
+RIHGs	human	4dsite	ATG>AAG	0	0	0
+RIHGs	human	4dsite	ATG>ACG	0	0	0
+RIHGs	human	4dsite	ATG>AGG	0	0	0
+RIHGs	human	4dsite	ACA>AAA	0	0	0
+RIHGs	human	4dsite	ACA>ATA	0	0	0
+RIHGs	human	4dsite	ACA>AGA	0	0	0
+RIHGs	human	4dsite	ACT>AAT	0	0	0
+RIHGs	human	4dsite	ACT>ATT	0	0	0
+RIHGs	human	4dsite	ACT>AGT	0	0	0
+RIHGs	human	4dsite	ACC>AAC	0	0	0
+RIHGs	human	4dsite	ACC>ATC	0	0	0
+RIHGs	human	4dsite	ACC>AGC	0	0	0
+RIHGs	human	4dsite	ACG>AAG	0	0	0
+RIHGs	human	4dsite	ACG>ATG	0	0	0
+RIHGs	human	4dsite	ACG>AGG	0	0	0
+RIHGs	human	4dsite	AGA>AAA	0	0	0
+RIHGs	human	4dsite	AGA>ATA	0	0	0
+RIHGs	human	4dsite	AGA>ACA	0	0	0
+RIHGs	human	4dsite	AGT>AAT	0	0	0
+RIHGs	human	4dsite	AGT>ATT	0	0	0
+RIHGs	human	4dsite	AGT>ACT	0	0	0
+RIHGs	human	4dsite	AGC>AAC	0	0	0
+RIHGs	human	4dsite	AGC>ATC	0	0	0
+RIHGs	human	4dsite	AGC>ACC	0	0	0
+RIHGs	human	4dsite	AGG>AAG	0	0	0
+RIHGs	human	4dsite	AGG>ATG	0	0	0
+RIHGs	human	4dsite	AGG>ACG	0	0	0
+RIHGs	human	4dsite	TAA>TTA	0	10	0
+RIHGs	human	4dsite	TAA>TCA	0	10	0
+RIHGs	human	4dsite	TAA>TGA	1	10	0
+RIHGs	human	4dsite	TAT>TTT	0	3	0
+RIHGs	human	4dsite	TAT>TCT	0	3	0
+RIHGs	human	4dsite	TAT>TGT	0	3	0
+RIHGs	human	4dsite	TAC>TTC	0	6	0
+RIHGs	human	4dsite	TAC>TCC	0	6	0
+RIHGs	human	4dsite	TAC>TGC	0	6	0
+RIHGs	human	4dsite	TAG>TTG	0	8	0
+RIHGs	human	4dsite	TAG>TCG	0	8	0
+RIHGs	human	4dsite	TAG>TGG	0	8	0
+RIHGs	human	4dsite	TTA>TAA	0	6	0
+RIHGs	human	4dsite	TTA>TCA	0	6	0
+RIHGs	human	4dsite	TTA>TGA	0	6	0
+RIHGs	human	4dsite	TTT>TAT	0	3	0
+RIHGs	human	4dsite	TTT>TCT	1	3	0
+RIHGs	human	4dsite	TTT>TGT	0	3	0
+RIHGs	human	4dsite	TTC>TAC	0	14	0
+RIHGs	human	4dsite	TTC>TCC	0	14	0
+RIHGs	human	4dsite	TTC>TGC	0	14	0
+RIHGs	human	4dsite	TTG>TAG	0	10	0
+RIHGs	human	4dsite	TTG>TCG	0	10	0
+RIHGs	human	4dsite	TTG>TGG	0	10	0
+RIHGs	human	4dsite	TCA>TAA	3	42	1
+RIHGs	human	4dsite	TCA>TTA	7	42	0
+RIHGs	human	4dsite	TCA>TGA	0	42	0
+RIHGs	human	4dsite	TCT>TAT	1	14	0
+RIHGs	human	4dsite	TCT>TTT	3	14	0
+RIHGs	human	4dsite	TCT>TGT	2	14	0
+RIHGs	human	4dsite	TCC>TAC	1	28	0
+RIHGs	human	4dsite	TCC>TTC	4	28	1
+RIHGs	human	4dsite	TCC>TGC	0	28	1
+RIHGs	human	4dsite	TCG>TAG	1	10	0
+RIHGs	human	4dsite	TCG>TTG	7	10	0
+RIHGs	human	4dsite	TCG>TGG	0	10	0
+RIHGs	human	4dsite	TGA>TAA	4	39	0
+RIHGs	human	4dsite	TGA>TTA	1	39	0
+RIHGs	human	4dsite	TGA>TCA	1	39	2
+RIHGs	human	4dsite	TGT>TAT	5	28	2
+RIHGs	human	4dsite	TGT>TTT	0	28	0
+RIHGs	human	4dsite	TGT>TCT	2	28	1
+RIHGs	human	4dsite	TGC>TAC	6	81	1
+RIHGs	human	4dsite	TGC>TTC	4	81	0
+RIHGs	human	4dsite	TGC>TCC	4	81	0
+RIHGs	human	4dsite	TGG>TAG	7	98	1
+RIHGs	human	4dsite	TGG>TTG	3	98	0
+RIHGs	human	4dsite	TGG>TCG	7	98	0
+RIHGs	human	4dsite	CAA>CTA	0	31	0
+RIHGs	human	4dsite	CAA>CCA	1	31	0
+RIHGs	human	4dsite	CAA>CGA	1	31	0
+RIHGs	human	4dsite	CAT>CTT	1	13	0
+RIHGs	human	4dsite	CAT>CCT	0	13	0
+RIHGs	human	4dsite	CAT>CGT	1	13	0
+RIHGs	human	4dsite	CAC>CTC	0	19	0
+RIHGs	human	4dsite	CAC>CCC	0	19	0
+RIHGs	human	4dsite	CAC>CGC	1	19	1
+RIHGs	human	4dsite	CAG>CTG	2	72	0
+RIHGs	human	4dsite	CAG>CCG	1	72	2
+RIHGs	human	4dsite	CAG>CGG	6	72	0
+RIHGs	human	4dsite	CTA>CAA	1	31	0
+RIHGs	human	4dsite	CTA>CCA	1	31	3
+RIHGs	human	4dsite	CTA>CGA	0	31	1
+RIHGs	human	4dsite	CTT>CAT	0	17	0
+RIHGs	human	4dsite	CTT>CCT	2	17	0
+RIHGs	human	4dsite	CTT>CGT	0	17	0
+RIHGs	human	4dsite	CTC>CAC	0	41	0
+RIHGs	human	4dsite	CTC>CCC	1	41	2
+RIHGs	human	4dsite	CTC>CGC	0	41	0
+RIHGs	human	4dsite	CTG>CAG	2	86	0
+RIHGs	human	4dsite	CTG>CCG	10	86	3
+RIHGs	human	4dsite	CTG>CGG	0	86	0
+RIHGs	human	4dsite	CCA>CAA	5	241	0
+RIHGs	human	4dsite	CCA>CTA	32	241	2
+RIHGs	human	4dsite	CCA>CGA	9	241	1
+RIHGs	human	4dsite	CCT>CAT	0	46	0
+RIHGs	human	4dsite	CCT>CTT	12	46	0
+RIHGs	human	4dsite	CCT>CGT	4	46	0
+RIHGs	human	4dsite	CCC>CAC	6	91	0
+RIHGs	human	4dsite	CCC>CTC	20	91	2
+RIHGs	human	4dsite	CCC>CGC	6	91	1
+RIHGs	human	4dsite	CCG>CAG	5	83	0
+RIHGs	human	4dsite	CCG>CTG	35	83	13
+RIHGs	human	4dsite	CCG>CGG	10	83	2
+RIHGs	human	4dsite	CGA>CAA	14	40	4
+RIHGs	human	4dsite	CGA>CTA	5	40	0
+RIHGs	human	4dsite	CGA>CCA	3	40	0
+RIHGs	human	4dsite	CGT>CAT	8	18	2
+RIHGs	human	4dsite	CGT>CTT	0	18	0
+RIHGs	human	4dsite	CGT>CCT	4	18	0
+RIHGs	human	4dsite	CGC>CAC	17	50	0
+RIHGs	human	4dsite	CGC>CTC	3	50	0
+RIHGs	human	4dsite	CGC>CCC	6	50	0
+RIHGs	human	4dsite	CGG>CAG	23	63	9
+RIHGs	human	4dsite	CGG>CTG	7	63	0
+RIHGs	human	4dsite	CGG>CCG	7	63	4
+RIHGs	human	4dsite	GAA>GTA	1	20	0
+RIHGs	human	4dsite	GAA>GCA	0	20	0
+RIHGs	human	4dsite	GAA>GGA	1	20	0
+RIHGs	human	4dsite	GAT>GTT	1	3	0
+RIHGs	human	4dsite	GAT>GCT	0	3	0
+RIHGs	human	4dsite	GAT>GGT	1	3	0
+RIHGs	human	4dsite	GAC>GTC	3	14	0
+RIHGs	human	4dsite	GAC>GCC	0	14	0
+RIHGs	human	4dsite	GAC>GGC	2	14	0
+RIHGs	human	4dsite	GAG>GTG	1	36	0
+RIHGs	human	4dsite	GAG>GCG	0	36	1
+RIHGs	human	4dsite	GAG>GGG	3	36	1
+RIHGs	human	4dsite	GTA>GAA	0	12	0
+RIHGs	human	4dsite	GTA>GCA	1	12	0
+RIHGs	human	4dsite	GTA>GGA	2	12	1
+RIHGs	human	4dsite	GTT>GAT	0	9	0
+RIHGs	human	4dsite	GTT>GCT	0	9	0
+RIHGs	human	4dsite	GTT>GGT	0	9	0
+RIHGs	human	4dsite	GTC>GAC	0	12	0
+RIHGs	human	4dsite	GTC>GCC	0	12	1
+RIHGs	human	4dsite	GTC>GGC	0	12	0
+RIHGs	human	4dsite	GTG>GAG	0	42	0
+RIHGs	human	4dsite	GTG>GCG	7	42	3
+RIHGs	human	4dsite	GTG>GGG	1	42	0
+RIHGs	human	4dsite	GCA>GAA	2	71	0
+RIHGs	human	4dsite	GCA>GTA	9	71	1
+RIHGs	human	4dsite	GCA>GGA	5	71	1
+RIHGs	human	4dsite	GCT>GAT	0	28	0
+RIHGs	human	4dsite	GCT>GTT	4	28	1
+RIHGs	human	4dsite	GCT>GGT	2	28	0
+RIHGs	human	4dsite	GCC>GAC	3	51	1
+RIHGs	human	4dsite	GCC>GTC	3	51	1
+RIHGs	human	4dsite	GCC>GGC	2	51	0
+RIHGs	human	4dsite	GCG>GAG	1	52	0
+RIHGs	human	4dsite	GCG>GTG	23	52	3
+RIHGs	human	4dsite	GCG>GGG	1	52	1
+RIHGs	human	4dsite	GGA>GAA	2	41	1
+RIHGs	human	4dsite	GGA>GTA	2	41	0
+RIHGs	human	4dsite	GGA>GCA	1	41	0
+RIHGs	human	4dsite	GGT>GAT	1	4	0
+RIHGs	human	4dsite	GGT>GTT	0	4	0
+RIHGs	human	4dsite	GGT>GCT	0	4	0
+RIHGs	human	4dsite	GGC>GAC	4	25	0
+RIHGs	human	4dsite	GGC>GTC	0	25	0
+RIHGs	human	4dsite	GGC>GCC	1	25	0
+RIHGs	human	4dsite	GGG>GAG	6	36	0
+RIHGs	human	4dsite	GGG>GTG	1	36	0
+RIHGs	human	4dsite	GGG>GCG	2	36	0
+RDHGs	human	UTR	AAA>ATA	1	23	1
+RDHGs	human	UTR	AAA>ACA	1	23	0
+RDHGs	human	UTR	AAA>AGA	6	23	1
+RDHGs	human	UTR	AAT>ATT	2	14	0
+RDHGs	human	UTR	AAT>ACT	1	14	0
+RDHGs	human	UTR	AAT>AGT	6	14	4
+RDHGs	human	UTR	AAC>ATC	2	24	0
+RDHGs	human	UTR	AAC>ACC	3	24	0
+RDHGs	human	UTR	AAC>AGC	14	24	0
+RDHGs	human	UTR	AAG>ATG	2	33	0
+RDHGs	human	UTR	AAG>ACG	3	33	0
+RDHGs	human	UTR	AAG>AGG	8	33	1
+RDHGs	human	UTR	ATA>AAA	0	14	1
+RDHGs	human	UTR	ATA>ACA	5	14	0
+RDHGs	human	UTR	ATA>AGA	2	14	0
+RDHGs	human	UTR	ATT>AAT	5	64	0
+RDHGs	human	UTR	ATT>ACT	19	64	1
+RDHGs	human	UTR	ATT>AGT	4	64	0
+RDHGs	human	UTR	ATC>AAC	2	16	0
+RDHGs	human	UTR	ATC>ACC	7	16	0
+RDHGs	human	UTR	ATC>AGC	0	16	0
+RDHGs	human	UTR	ATG>AAG	0	4	0
+RDHGs	human	UTR	ATG>ACG	1	4	0
+RDHGs	human	UTR	ATG>AGG	1	4	0
+RDHGs	human	UTR	ACA>AAA	4	33	0
+RDHGs	human	UTR	ACA>ATA	14	33	7
+RDHGs	human	UTR	ACA>AGA	11	33	1
+RDHGs	human	UTR	ACT>AAT	5	44	0
+RDHGs	human	UTR	ACT>ATT	23	44	6
+RDHGs	human	UTR	ACT>AGT	8	44	3
+RDHGs	human	UTR	ACC>AAC	4	22	0
+RDHGs	human	UTR	ACC>ATC	12	22	4
+RDHGs	human	UTR	ACC>AGC	5	22	1
+RDHGs	human	UTR	ACG>AAG	1	12	0
+RDHGs	human	UTR	ACG>ATG	5	12	0
+RDHGs	human	UTR	ACG>AGG	3	12	0
+RDHGs	human	UTR	AGA>AAA	20	37	4
+RDHGs	human	UTR	AGA>ATA	6	37	0
+RDHGs	human	UTR	AGA>ACA	6	37	2
+RDHGs	human	UTR	AGT>AAT	14	56	4
+RDHGs	human	UTR	AGT>ATT	7	56	1
+RDHGs	human	UTR	AGT>ACT	13	56	0
+RDHGs	human	UTR	AGC>AAC	16	36	2
+RDHGs	human	UTR	AGC>ATC	3	36	1
+RDHGs	human	UTR	AGC>ACC	6	36	1
+RDHGs	human	UTR	AGG>AAG	12	24	2
+RDHGs	human	UTR	AGG>ATG	3	24	0
+RDHGs	human	UTR	AGG>ACG	4	24	0
+RDHGs	human	UTR	TAA>TTA	4	26	0
+RDHGs	human	UTR	TAA>TCA	3	26	0
+RDHGs	human	UTR	TAA>TGA	9	26	0
+RDHGs	human	UTR	TAT>TTT	4	27	0
+RDHGs	human	UTR	TAT>TCT	4	27	0
+RDHGs	human	UTR	TAT>TGT	11	27	3
+RDHGs	human	UTR	TAC>TTC	3	31	1
+RDHGs	human	UTR	TAC>TCC	4	31	1
+RDHGs	human	UTR	TAC>TGC	16	31	2
+RDHGs	human	UTR	TAG>TTG	5	43	0
+RDHGs	human	UTR	TAG>TCG	3	43	1
+RDHGs	human	UTR	TAG>TGG	13	43	2
+RDHGs	human	UTR	TTA>TAA	1	65	1
+RDHGs	human	UTR	TTA>TCA	14	65	2
+RDHGs	human	UTR	TTA>TGA	5	65	0
+RDHGs	human	UTR	TTT>TAT	11	185	3
+RDHGs	human	UTR	TTT>TCT	31	185	2
+RDHGs	human	UTR	TTT>TGT	20	185	2
+RDHGs	human	UTR	TTC>TAC	8	93	1
+RDHGs	human	UTR	TTC>TCC	13	93	2
+RDHGs	human	UTR	TTC>TGC	4	93	0
+RDHGs	human	UTR	TTG>TAG	6	91	0
+RDHGs	human	UTR	TTG>TCG	23	91	0
+RDHGs	human	UTR	TTG>TGG	6	91	0
+RDHGs	human	UTR	TCA>TAA	6	50	0
+RDHGs	human	UTR	TCA>TTA	29	50	4
+RDHGs	human	UTR	TCA>TGA	11	50	1
+RDHGs	human	UTR	TCT>TAT	7	86	1
+RDHGs	human	UTR	TCT>TTT	46	86	15
+RDHGs	human	UTR	TCT>TGT	28	86	4
+RDHGs	human	UTR	TCC>TAC	2	25	0
+RDHGs	human	UTR	TCC>TTC	13	25	1
+RDHGs	human	UTR	TCC>TGC	4	25	0
+RDHGs	human	UTR	TCG>TAG	4	31	1
+RDHGs	human	UTR	TCG>TTG	20	31	5
+RDHGs	human	UTR	TCG>TGG	8	31	1
+RDHGs	human	UTR	TGA>TAA	15	41	2
+RDHGs	human	UTR	TGA>TTA	2	41	0
+RDHGs	human	UTR	TGA>TCA	10	41	3
+RDHGs	human	UTR	TGT>TAT	26	84	1
+RDHGs	human	UTR	TGT>TTT	9	84	2
+RDHGs	human	UTR	TGT>TCT	12	84	0
+RDHGs	human	UTR	TGC>TAC	23	54	0
+RDHGs	human	UTR	TGC>TTC	9	54	3
+RDHGs	human	UTR	TGC>TCC	5	54	0
+RDHGs	human	UTR	TGG>TAG	16	36	1
+RDHGs	human	UTR	TGG>TTG	8	36	2
+RDHGs	human	UTR	TGG>TCG	3	36	2
+RDHGs	human	UTR	CAA>CTA	2	26	0
+RDHGs	human	UTR	CAA>CCA	3	26	1
+RDHGs	human	UTR	CAA>CGA	6	26	0
+RDHGs	human	UTR	CAT>CTT	9	32	0
+RDHGs	human	UTR	CAT>CCT	5	32	1
+RDHGs	human	UTR	CAT>CGT	12	32	4
+RDHGs	human	UTR	CAC>CTC	4	32	0
+RDHGs	human	UTR	CAC>CCC	8	32	0
+RDHGs	human	UTR	CAC>CGC	10	32	2
+RDHGs	human	UTR	CAG>CTG	6	48	0
+RDHGs	human	UTR	CAG>CCG	4	48	1
+RDHGs	human	UTR	CAG>CGG	15	48	2
+RDHGs	human	UTR	CTA>CAA	4	22	1
+RDHGs	human	UTR	CTA>CCA	7	22	0
+RDHGs	human	UTR	CTA>CGA	0	22	0
+RDHGs	human	UTR	CTT>CAT	5	88	2
+RDHGs	human	UTR	CTT>CCT	20	88	1
+RDHGs	human	UTR	CTT>CGT	4	88	0
+RDHGs	human	UTR	CTC>CAC	7	45	0
+RDHGs	human	UTR	CTC>CCC	10	45	0
+RDHGs	human	UTR	CTC>CGC	3	45	1
+RDHGs	human	UTR	CTG>CAG	4	60	0
+RDHGs	human	UTR	CTG>CCG	13	60	1
+RDHGs	human	UTR	CTG>CGG	7	60	0
+RDHGs	human	UTR	CCA>CAA	1	27	0
+RDHGs	human	UTR	CCA>CTA	8	27	4
+RDHGs	human	UTR	CCA>CGA	3	27	0
+RDHGs	human	UTR	CCT>CAT	1	23	1
+RDHGs	human	UTR	CCT>CTT	12	23	2
+RDHGs	human	UTR	CCT>CGT	6	23	0
+RDHGs	human	UTR	CCC>CAC	1	8	2
+RDHGs	human	UTR	CCC>CTC	4	8	1
+RDHGs	human	UTR	CCC>CGC	1	8	0
+RDHGs	human	UTR	CCG>CAG	4	18	0
+RDHGs	human	UTR	CCG>CTG	7	18	5
+RDHGs	human	UTR	CCG>CGG	6	18	1
+RDHGs	human	UTR	CGA>CAA	8	15	1
+RDHGs	human	UTR	CGA>CTA	3	15	0
+RDHGs	human	UTR	CGA>CCA	5	15	1
+RDHGs	human	UTR	CGT>CAT	17	35	2
+RDHGs	human	UTR	CGT>CTT	7	35	3
+RDHGs	human	UTR	CGT>CCT	5	35	2
+RDHGs	human	UTR	CGC>CAC	14	24	4
+RDHGs	human	UTR	CGC>CTC	7	24	0
+RDHGs	human	UTR	CGC>CCC	7	24	3
+RDHGs	human	UTR	CGG>CAG	6	14	1
+RDHGs	human	UTR	CGG>CTG	6	14	0
+RDHGs	human	UTR	CGG>CCG	4	14	0
+RDHGs	human	UTR	GAA>GTA	1	30	0
+RDHGs	human	UTR	GAA>GCA	0	30	0
+RDHGs	human	UTR	GAA>GGA	7	30	1
+RDHGs	human	UTR	GAT>GTT	5	24	1
+RDHGs	human	UTR	GAT>GCT	3	24	1
+RDHGs	human	UTR	GAT>GGT	14	24	2
+RDHGs	human	UTR	GAC>GTC	1	25	0
+RDHGs	human	UTR	GAC>GCC	2	25	0
+RDHGs	human	UTR	GAC>GGC	6	25	1
+RDHGs	human	UTR	GAG>GTG	2	29	0
+RDHGs	human	UTR	GAG>GCG	2	29	0
+RDHGs	human	UTR	GAG>GGG	4	29	1
+RDHGs	human	UTR	GTA>GAA	2	30	0
+RDHGs	human	UTR	GTA>GCA	10	30	0
+RDHGs	human	UTR	GTA>GGA	3	30	0
+RDHGs	human	UTR	GTT>GAT	3	98	3
+RDHGs	human	UTR	GTT>GCT	21	98	6
+RDHGs	human	UTR	GTT>GGT	8	98	1
+RDHGs	human	UTR	GTC>GAC	4	34	0
+RDHGs	human	UTR	GTC>GCC	4	34	1
+RDHGs	human	UTR	GTC>GGC	3	34	0
+RDHGs	human	UTR	GTG>GAG	1	48	2
+RDHGs	human	UTR	GTG>GCG	16	48	2
+RDHGs	human	UTR	GTG>GGG	10	48	1
+RDHGs	human	UTR	GCA>GAA	4	32	0
+RDHGs	human	UTR	GCA>GTA	14	32	2
+RDHGs	human	UTR	GCA>GGA	0	32	1
+RDHGs	human	UTR	GCT>GAT	5	62	0
+RDHGs	human	UTR	GCT>GTT	34	62	8
+RDHGs	human	UTR	GCT>GGT	17	62	1
+RDHGs	human	UTR	GCC>GAC	1	20	0
+RDHGs	human	UTR	GCC>GTC	10	20	5
+RDHGs	human	UTR	GCC>GGC	6	20	0
+RDHGs	human	UTR	GCG>GAG	3	21	0
+RDHGs	human	UTR	GCG>GTG	12	21	6
+RDHGs	human	UTR	GCG>GGG	3	21	1
+RDHGs	human	UTR	GGA>GAA	8	18	2
+RDHGs	human	UTR	GGA>GTA	4	18	2
+RDHGs	human	UTR	GGA>GCA	6	18	0
+RDHGs	human	UTR	GGT>GAT	10	35	4
+RDHGs	human	UTR	GGT>GTT	9	35	3
+RDHGs	human	UTR	GGT>GCT	8	35	3
+RDHGs	human	UTR	GGC>GAC	5	22	2
+RDHGs	human	UTR	GGC>GTC	4	22	0
+RDHGs	human	UTR	GGC>GCC	5	22	2
+RDHGs	human	UTR	GGG>GAG	6	10	0
+RDHGs	human	UTR	GGG>GTG	2	10	0
+RDHGs	human	UTR	GGG>GCG	2	10	1
+Unexpressed genes	human	UTR	AAA>ATA	92	7429	18
+Unexpressed genes	human	UTR	AAA>ACA	178	7429	18
+Unexpressed genes	human	UTR	AAA>AGA	367	7429	39
+Unexpressed genes	human	UTR	AAT>ATT	92	4090	17
+Unexpressed genes	human	UTR	AAT>ACT	98	4090	10
+Unexpressed genes	human	UTR	AAT>AGT	451	4090	71
+Unexpressed genes	human	UTR	AAC>ATC	103	4606	9
+Unexpressed genes	human	UTR	AAC>ACC	96	4606	29
+Unexpressed genes	human	UTR	AAC>AGC	453	4606	50
+Unexpressed genes	human	UTR	AAG>ATG	113	7418	10
+Unexpressed genes	human	UTR	AAG>ACG	214	7418	15
+Unexpressed genes	human	UTR	AAG>AGG	519	7418	66
+Unexpressed genes	human	UTR	ATA>AAA	106	2940	12
+Unexpressed genes	human	UTR	ATA>ACA	518	2940	69
+Unexpressed genes	human	UTR	ATA>AGA	61	2940	13
+Unexpressed genes	human	UTR	ATT>AAT	88	4380	13
+Unexpressed genes	human	UTR	ATT>ACT	523	4380	87
+Unexpressed genes	human	UTR	ATT>AGT	89	4380	14
+Unexpressed genes	human	UTR	ATC>AAC	197	4231	26
+Unexpressed genes	human	UTR	ATC>ACC	354	4231	54
+Unexpressed genes	human	UTR	ATC>AGC	84	4231	16
+Unexpressed genes	human	UTR	ATG>AAG	139	3266	26
+Unexpressed genes	human	UTR	ATG>ACG	550	3266	88
+Unexpressed genes	human	UTR	ATG>AGG	116	3266	14
+Unexpressed genes	human	UTR	ACA>AAA	309	6194	40
+Unexpressed genes	human	UTR	ACA>ATA	826	6194	128
+Unexpressed genes	human	UTR	ACA>AGA	265	6194	28
+Unexpressed genes	human	UTR	ACT>AAT	199	5215	21
+Unexpressed genes	human	UTR	ACT>ATT	656	5215	78
+Unexpressed genes	human	UTR	ACT>AGT	287	5215	36
+Unexpressed genes	human	UTR	ACC>AAC	484	5636	51
+Unexpressed genes	human	UTR	ACC>ATC	899	5636	100
+Unexpressed genes	human	UTR	ACC>AGC	241	5636	24
+Unexpressed genes	human	UTR	ACG>AAG	210	1776	29
+Unexpressed genes	human	UTR	ACG>ATG	847	1776	241
+Unexpressed genes	human	UTR	ACG>AGG	180	1776	16
+Unexpressed genes	human	UTR	AGA>AAA	909	9121	122
+Unexpressed genes	human	UTR	AGA>ATA	321	9121	30
+Unexpressed genes	human	UTR	AGA>ACA	532	9121	51
+Unexpressed genes	human	UTR	AGT>AAT	589	4629	78
+Unexpressed genes	human	UTR	AGT>ATT	169	4629	19
+Unexpressed genes	human	UTR	AGT>ACT	234	4629	39
+Unexpressed genes	human	UTR	AGC>AAC	1024	8315	133
+Unexpressed genes	human	UTR	AGC>ATC	326	8315	45
+Unexpressed genes	human	UTR	AGC>ACC	332	8315	42
+Unexpressed genes	human	UTR	AGG>AAG	1210	9041	134
+Unexpressed genes	human	UTR	AGG>ATG	255	9041	23
+Unexpressed genes	human	UTR	AGG>ACG	448	9041	44
+Unexpressed genes	human	UTR	TAA>TTA	59	3517	12
+Unexpressed genes	human	UTR	TAA>TCA	85	3517	9
+Unexpressed genes	human	UTR	TAA>TGA	251	3517	44
+Unexpressed genes	human	UTR	TAT>TTT	94	2652	21
+Unexpressed genes	human	UTR	TAT>TCT	70	2652	8
+Unexpressed genes	human	UTR	TAT>TGT	457	2652	64
+Unexpressed genes	human	UTR	TAC>TTC	46	2489	6
+Unexpressed genes	human	UTR	TAC>TCC	47	2489	20
+Unexpressed genes	human	UTR	TAC>TGC	254	2489	45
+Unexpressed genes	human	UTR	TAG>TTG	55	2968	9
+Unexpressed genes	human	UTR	TAG>TCG	62	2968	13
+Unexpressed genes	human	UTR	TAG>TGG	312	2968	28
+Unexpressed genes	human	UTR	TTA>TAA	67	3171	16
+Unexpressed genes	human	UTR	TTA>TCA	234	3171	31
+Unexpressed genes	human	UTR	TTA>TGA	75	3171	11
+Unexpressed genes	human	UTR	TTT>TAT	107	6476	15
+Unexpressed genes	human	UTR	TTT>TCT	340	6476	56
+Unexpressed genes	human	UTR	TTT>TGT	151	6476	17
+Unexpressed genes	human	UTR	TTC>TAC	96	6157	10
+Unexpressed genes	human	UTR	TTC>TCC	292	6157	51
+Unexpressed genes	human	UTR	TTC>TGC	112	6157	16
+Unexpressed genes	human	UTR	TTG>TAG	81	4882	6
+Unexpressed genes	human	UTR	TTG>TCG	326	4882	61
+Unexpressed genes	human	UTR	TTG>TGG	182	4882	33
+Unexpressed genes	human	UTR	TCA>TAA	186	6129	21
+Unexpressed genes	human	UTR	TCA>TTA	609	6129	78
+Unexpressed genes	human	UTR	TCA>TGA	246	6129	34
+Unexpressed genes	human	UTR	TCT>TAT	253	7649	20
+Unexpressed genes	human	UTR	TCT>TTT	727	7649	108
+Unexpressed genes	human	UTR	TCT>TGT	513	7649	51
+Unexpressed genes	human	UTR	TCC>TAC	383	7916	44
+Unexpressed genes	human	UTR	TCC>TTC	1049	7916	152
+Unexpressed genes	human	UTR	TCC>TGC	447	7916	39
+Unexpressed genes	human	UTR	TCG>TAG	178	1827	21
+Unexpressed genes	human	UTR	TCG>TTG	779	1827	168
+Unexpressed genes	human	UTR	TCG>TGG	209	1827	18
+Unexpressed genes	human	UTR	TGA>TAA	588	6259	77
+Unexpressed genes	human	UTR	TGA>TTA	166	6259	27
+Unexpressed genes	human	UTR	TGA>TCA	240	6259	26
+Unexpressed genes	human	UTR	TGT>TAT	606	4749	86
+Unexpressed genes	human	UTR	TGT>TTT	200	4749	34
+Unexpressed genes	human	UTR	TGT>TCT	197	4749	30
+Unexpressed genes	human	UTR	TGC>TAC	710	6309	77
+Unexpressed genes	human	UTR	TGC>TTC	333	6309	39
+Unexpressed genes	human	UTR	TGC>TCC	190	6309	24
+Unexpressed genes	human	UTR	TGG>TAG	813	7244	92
+Unexpressed genes	human	UTR	TGG>TTG	225	7244	41
+Unexpressed genes	human	UTR	TGG>TCG	214	7244	26
+Unexpressed genes	human	UTR	CAA>CTA	106	5623	6
+Unexpressed genes	human	UTR	CAA>CCA	160	5623	25
+Unexpressed genes	human	UTR	CAA>CGA	349	5623	40
+Unexpressed genes	human	UTR	CAT>CTT	219	4411	23
+Unexpressed genes	human	UTR	CAT>CCT	171	4411	34
+Unexpressed genes	human	UTR	CAT>CGT	780	4411	91
+Unexpressed genes	human	UTR	CAC>CTC	165	6549	21
+Unexpressed genes	human	UTR	CAC>CCC	246	6549	108
+Unexpressed genes	human	UTR	CAC>CGC	560	6549	72
+Unexpressed genes	human	UTR	CAG>CTG	259	11476	29
+Unexpressed genes	human	UTR	CAG>CCG	357	11476	59
+Unexpressed genes	human	UTR	CAG>CGG	1061	11476	140
+Unexpressed genes	human	UTR	CTA>CAA	57	3232	8
+Unexpressed genes	human	UTR	CTA>CCA	326	3232	47
+Unexpressed genes	human	UTR	CTA>CGA	61	3232	6
+Unexpressed genes	human	UTR	CTT>CAT	101	6222	11
+Unexpressed genes	human	UTR	CTT>CCT	416	6222	67
+Unexpressed genes	human	UTR	CTT>CGT	188	6222	20
+Unexpressed genes	human	UTR	CTC>CAC	211	8888	36
+Unexpressed genes	human	UTR	CTC>CCC	499	8888	84
+Unexpressed genes	human	UTR	CTC>CGC	238	8888	36
+Unexpressed genes	human	UTR	CTG>CAG	262	10580	20
+Unexpressed genes	human	UTR	CTG>CCG	976	10580	146
+Unexpressed genes	human	UTR	CTG>CGG	334	10580	47
+Unexpressed genes	human	UTR	CCA>CAA	302	9033	36
+Unexpressed genes	human	UTR	CCA>CTA	990	9033	105
+Unexpressed genes	human	UTR	CCA>CGA	272	9033	41
+Unexpressed genes	human	UTR	CCT>CAT	243	8811	21
+Unexpressed genes	human	UTR	CCT>CTT	1201	8811	153
+Unexpressed genes	human	UTR	CCT>CGT	437	8811	48
+Unexpressed genes	human	UTR	CCC>CAC	444	9346	56
+Unexpressed genes	human	UTR	CCC>CTC	1304	9346	170
+Unexpressed genes	human	UTR	CCC>CGC	566	9346	63
+Unexpressed genes	human	UTR	CCG>CAG	473	4583	63
+Unexpressed genes	human	UTR	CCG>CTG	1810	4583	398
+Unexpressed genes	human	UTR	CCG>CGG	623	4583	82
+Unexpressed genes	human	UTR	CGA>CAA	812	1929	187
+Unexpressed genes	human	UTR	CGA>CTA	203	1929	29
+Unexpressed genes	human	UTR	CGA>CCA	238	1929	30
+Unexpressed genes	human	UTR	CGT>CAT	812	1682	232
+Unexpressed genes	human	UTR	CGT>CTT	179	1682	16
+Unexpressed genes	human	UTR	CGT>CCT	174	1682	31
+Unexpressed genes	human	UTR	CGC>CAC	1360	4339	276
+Unexpressed genes	human	UTR	CGC>CTC	610	4339	66
+Unexpressed genes	human	UTR	CGC>CCC	315	4339	47
+Unexpressed genes	human	UTR	CGG>CAG	1731	4383	417
+Unexpressed genes	human	UTR	CGG>CTG	501	4383	53
+Unexpressed genes	human	UTR	CGG>CCG	618	4383	97
+Unexpressed genes	human	UTR	GAA>GTA	129	7398	11
+Unexpressed genes	human	UTR	GAA>GCA	177	7398	25
+Unexpressed genes	human	UTR	GAA>GGA	352	7398	54
+Unexpressed genes	human	UTR	GAT>GTT	167	3641	21
+Unexpressed genes	human	UTR	GAT>GCT	94	3641	9
+Unexpressed genes	human	UTR	GAT>GGT	300	3641	34
+Unexpressed genes	human	UTR	GAC>GTC	185	5139	25
+Unexpressed genes	human	UTR	GAC>GCC	96	5139	28
+Unexpressed genes	human	UTR	GAC>GGC	346	5139	52
+Unexpressed genes	human	UTR	GAG>GTG	192	9195	32
+Unexpressed genes	human	UTR	GAG>GCG	213	9195	30
+Unexpressed genes	human	UTR	GAG>GGG	580	9195	68
+Unexpressed genes	human	UTR	GTA>GAA	48	2217	11
+Unexpressed genes	human	UTR	GTA>GCA	248	2217	26
+Unexpressed genes	human	UTR	GTA>GGA	45	2217	7
+Unexpressed genes	human	UTR	GTT>GAT	86	3576	14
+Unexpressed genes	human	UTR	GTT>GCT	343	3576	47
+Unexpressed genes	human	UTR	GTT>GGT	83	3576	16
+Unexpressed genes	human	UTR	GTC>GAC	135	4132	21
+Unexpressed genes	human	UTR	GTC>GCC	285	4132	47
+Unexpressed genes	human	UTR	GTC>GGC	101	4132	24
+Unexpressed genes	human	UTR	GTG>GAG	148	5597	26
+Unexpressed genes	human	UTR	GTG>GCG	495	5597	72
+Unexpressed genes	human	UTR	GTG>GGG	198	5597	68
+Unexpressed genes	human	UTR	GCA>GAA	331	6880	47
+Unexpressed genes	human	UTR	GCA>GTA	714	6880	73
+Unexpressed genes	human	UTR	GCA>GGA	210	6880	30
+Unexpressed genes	human	UTR	GCT>GAT	263	7225	32
+Unexpressed genes	human	UTR	GCT>GTT	905	7225	118
+Unexpressed genes	human	UTR	GCT>GGT	318	7225	32
+Unexpressed genes	human	UTR	GCC>GAC	581	8783	65
+Unexpressed genes	human	UTR	GCC>GTC	1195	8783	151
+Unexpressed genes	human	UTR	GCC>GGC	348	8783	41
+Unexpressed genes	human	UTR	GCG>GAG	584	4032	58
+Unexpressed genes	human	UTR	GCG>GTG	1337	4032	260
+Unexpressed genes	human	UTR	GCG>GGG	298	4032	44
+Unexpressed genes	human	UTR	GGA>GAA	1067	8289	146
+Unexpressed genes	human	UTR	GGA>GTA	371	8289	36
+Unexpressed genes	human	UTR	GGA>GCA	414	8289	55
+Unexpressed genes	human	UTR	GGT>GAT	645	4320	79
+Unexpressed genes	human	UTR	GGT>GTT	355	4320	39
+Unexpressed genes	human	UTR	GGT>GCT	193	4320	18
+Unexpressed genes	human	UTR	GGC>GAC	1135	7758	112
+Unexpressed genes	human	UTR	GGC>GTC	517	7758	61
+Unexpressed genes	human	UTR	GGC>GCC	327	7758	33
+Unexpressed genes	human	UTR	GGG>GAG	1134	7848	126
+Unexpressed genes	human	UTR	GGG>GTG	379	7848	41
+Unexpressed genes	human	UTR	GGG>GCG	425	7848	51
+Expressed genes	human	UTR	AAA>ATA	549	36091	75
+Expressed genes	human	UTR	AAA>ACA	1033	36091	144
+Expressed genes	human	UTR	AAA>AGA	2457	36091	291
+Expressed genes	human	UTR	AAT>ATT	386	17337	70
+Expressed genes	human	UTR	AAT>ACT	458	17337	110
+Expressed genes	human	UTR	AAT>AGT	2528	17337	370
+Expressed genes	human	UTR	AAC>ATC	619	24146	91
+Expressed genes	human	UTR	AAC>ACC	724	24146	337
+Expressed genes	human	UTR	AAC>AGC	2850	24146	348
+Expressed genes	human	UTR	AAG>ATG	662	42854	66
+Expressed genes	human	UTR	AAG>ACG	1385	42854	209
+Expressed genes	human	UTR	AAG>AGG	3951	42854	480
+Expressed genes	human	UTR	ATA>AAA	352	11593	71
+Expressed genes	human	UTR	ATA>ACA	1643	11593	195
+Expressed genes	human	UTR	ATA>AGA	327	11593	58
+Expressed genes	human	UTR	ATT>AAT	405	21366	51
+Expressed genes	human	UTR	ATT>ACT	2436	21366	329
+Expressed genes	human	UTR	ATT>AGT	607	21366	159
+Expressed genes	human	UTR	ATC>AAC	850	21138	124
+Expressed genes	human	UTR	ATC>ACC	1548	21138	178
+Expressed genes	human	UTR	ATC>AGC	622	21138	110
+Expressed genes	human	UTR	ATG>AAG	743	16916	61
+Expressed genes	human	UTR	ATG>ACG	2493	16916	250
+Expressed genes	human	UTR	ATG>AGG	838	16916	140
+Expressed genes	human	UTR	ACA>AAA	1056	29127	154
+Expressed genes	human	UTR	ACA>ATA	4180	29127	467
+Expressed genes	human	UTR	ACA>AGA	1685	29127	184
+Expressed genes	human	UTR	ACT>AAT	899	28723	100
+Expressed genes	human	UTR	ACT>ATT	4142	28723	441
+Expressed genes	human	UTR	ACT>AGT	2359	28723	237
+Expressed genes	human	UTR	ACC>AAC	2868	39581	296
+Expressed genes	human	UTR	ACC>ATC	7203	39581	766
+Expressed genes	human	UTR	ACC>AGC	2702	39581	280
+Expressed genes	human	UTR	ACG>AAG	2450	21635	271
+Expressed genes	human	UTR	ACG>ATG	6458	21635	853
+Expressed genes	human	UTR	ACG>AGG	2492	21635	305
+Expressed genes	human	UTR	AGA>AAA	5786	51320	621
+Expressed genes	human	UTR	AGA>ATA	1906	51320	173
+Expressed genes	human	UTR	AGA>ACA	3750	51320	379
+Expressed genes	human	UTR	AGT>AAT	3864	30684	369
+Expressed genes	human	UTR	AGT>ATT	1156	30684	131
+Expressed genes	human	UTR	AGT>ACT	1979	30684	195
+Expressed genes	human	UTR	AGC>AAC	10430	73784	1140
+Expressed genes	human	UTR	AGC>ATC	4034	73784	499
+Expressed genes	human	UTR	AGC>ACC	4409	73784	474
+Expressed genes	human	UTR	AGG>AAG	11081	70900	1187
+Expressed genes	human	UTR	AGG>ATG	1704	70900	147
+Expressed genes	human	UTR	AGG>ACG	4261	70900	420
+Expressed genes	human	UTR	TAA>TTA	401	15838	114
+Expressed genes	human	UTR	TAA>TCA	437	15838	53
+Expressed genes	human	UTR	TAA>TGA	1552	15838	162
+Expressed genes	human	UTR	TAT>TTT	464	11297	120
+Expressed genes	human	UTR	TAT>TCT	367	11297	68
+Expressed genes	human	UTR	TAT>TGT	2590	11297	348
+Expressed genes	human	UTR	TAC>TTC	385	13287	73
+Expressed genes	human	UTR	TAC>TCC	406	13287	165
+Expressed genes	human	UTR	TAC>TGC	1937	13287	233
+Expressed genes	human	UTR	TAG>TTG	509	18479	65
+Expressed genes	human	UTR	TAG>TCG	547	18479	85
+Expressed genes	human	UTR	TAG>TGG	2440	18479	276
+Expressed genes	human	UTR	TTA>TAA	404	15669	78
+Expressed genes	human	UTR	TTA>TCA	1151	15669	141
+Expressed genes	human	UTR	TTA>TGA	432	15669	45
+Expressed genes	human	UTR	TTT>TAT	702	41575	93
+Expressed genes	human	UTR	TTT>TCT	2385	41575	283
+Expressed genes	human	UTR	TTT>TGT	1348	41575	193
+Expressed genes	human	UTR	TTC>TAC	850	40138	89
+Expressed genes	human	UTR	TTC>TCC	2106	40138	383
+Expressed genes	human	UTR	TTC>TGC	1259	40138	188
+Expressed genes	human	UTR	TTG>TAG	815	33306	90
+Expressed genes	human	UTR	TTG>TCG	2450	33306	272
+Expressed genes	human	UTR	TTG>TGG	1514	33306	251
+Expressed genes	human	UTR	TCA>TAA	967	29212	127
+Expressed genes	human	UTR	TCA>TTA	3866	29212	463
+Expressed genes	human	UTR	TCA>TGA	1627	29212	159
+Expressed genes	human	UTR	TCT>TAT	1636	45632	174
+Expressed genes	human	UTR	TCT>TTT	7468	45632	1036
+Expressed genes	human	UTR	TCT>TGT	4710	45632	488
+Expressed genes	human	UTR	TCC>TAC	4072	65899	412
+Expressed genes	human	UTR	TCC>TTC	12542	65899	1543
+Expressed genes	human	UTR	TCC>TGC	5673	65899	549
+Expressed genes	human	UTR	TCG>TAG	3371	31394	330
+Expressed genes	human	UTR	TCG>TTG	10162	31394	1423
+Expressed genes	human	UTR	TCG>TGG	4242	31394	446
+Expressed genes	human	UTR	TGA>TAA	3681	36372	345
+Expressed genes	human	UTR	TGA>TTA	1103	36372	143
+Expressed genes	human	UTR	TGA>TCA	1659	36372	153
+Expressed genes	human	UTR	TGT>TAT	4012	31898	356
+Expressed genes	human	UTR	TGT>TTT	1459	31898	234
+Expressed genes	human	UTR	TGT>TCT	1778	31898	191
+Expressed genes	human	UTR	TGC>TAC	6727	54099	710
+Expressed genes	human	UTR	TGC>TTC	3525	54099	418
+Expressed genes	human	UTR	TGC>TCC	2501	54099	274
+Expressed genes	human	UTR	TGG>TAG	6972	57127	744
+Expressed genes	human	UTR	TGG>TTG	2016	57127	266
+Expressed genes	human	UTR	TGG>TCG	2496	57127	262
+Expressed genes	human	UTR	CAA>CTA	641	26978	70
+Expressed genes	human	UTR	CAA>CCA	1246	26978	212
+Expressed genes	human	UTR	CAA>CGA	2532	26978	293
+Expressed genes	human	UTR	CAT>CTT	1212	21148	156
+Expressed genes	human	UTR	CAT>CCT	1141	21148	256
+Expressed genes	human	UTR	CAT>CGT	4596	21148	499
+Expressed genes	human	UTR	CAC>CTC	1395	40012	194
+Expressed genes	human	UTR	CAC>CCC	2215	40012	972
+Expressed genes	human	UTR	CAC>CGC	4834	40012	607
+Expressed genes	human	UTR	CAG>CTG	2985	78619	346
+Expressed genes	human	UTR	CAG>CCG	4464	78619	752
+Expressed genes	human	UTR	CAG>CGG	11017	78619	1309
+Expressed genes	human	UTR	CTA>CAA	441	17659	55
+Expressed genes	human	UTR	CTA>CCA	1821	17659	235
+Expressed genes	human	UTR	CTA>CGA	475	17659	83
+Expressed genes	human	UTR	CTT>CAT	833	40938	99
+Expressed genes	human	UTR	CTT>CCT	3325	40938	480
+Expressed genes	human	UTR	CTT>CGT	1506	40938	261
+Expressed genes	human	UTR	CTC>CAC	2032	71446	379
+Expressed genes	human	UTR	CTC>CCC	5305	71446	1149
+Expressed genes	human	UTR	CTC>CGC	2674	71446	419
+Expressed genes	human	UTR	CTG>CAG	2797	79936	326
+Expressed genes	human	UTR	CTG>CCG	8292	79936	1069
+Expressed genes	human	UTR	CTG>CGG	3749	79936	551
+Expressed genes	human	UTR	CCA>CAA	2096	57010	245
+Expressed genes	human	UTR	CCA>CTA	8557	57010	924
+Expressed genes	human	UTR	CCA>CGA	2551	57010	275
+Expressed genes	human	UTR	CCT>CAT	2045	68341	185
+Expressed genes	human	UTR	CCT>CTT	14460	68341	1673
+Expressed genes	human	UTR	CCT>CGT	5682	68341	564
+Expressed genes	human	UTR	CCC>CAC	6455	107679	722
+Expressed genes	human	UTR	CCC>CTC	20831	107679	2403
+Expressed genes	human	UTR	CCC>CGC	8872	107679	1007
+Expressed genes	human	UTR	CCG>CAG	10613	95903	1140
+Expressed genes	human	UTR	CCG>CTG	31818	95903	4299
+Expressed genes	human	UTR	CCG>CGG	15298	95903	1788
+Expressed genes	human	UTR	CGA>CAA	8221	31032	1146
+Expressed genes	human	UTR	CGA>CTA	3425	31032	353
+Expressed genes	human	UTR	CGA>CCA	3677	31032	421
+Expressed genes	human	UTR	CGT>CAT	6424	24357	1015
+Expressed genes	human	UTR	CGT>CTT	2855	24357	319
+Expressed genes	human	UTR	CGT>CCT	2426	24357	283
+Expressed genes	human	UTR	CGC>CAC	19280	96504	2408
+Expressed genes	human	UTR	CGC>CTC	11233	96504	1200
+Expressed genes	human	UTR	CGC>CCC	7091	96504	1053
+Expressed genes	human	UTR	CGG>CAG	27310	102086	3543
+Expressed genes	human	UTR	CGG>CTG	11064	102086	1077
+Expressed genes	human	UTR	CGG>CCG	15118	102086	1740
+Expressed genes	human	UTR	GAA>GTA	824	43833	82
+Expressed genes	human	UTR	GAA>GCA	1201	43833	160
+Expressed genes	human	UTR	GAA>GGA	2701	43833	416
+Expressed genes	human	UTR	GAT>GTT	1135	21175	133
+Expressed genes	human	UTR	GAT>GCT	644	21175	100
+Expressed genes	human	UTR	GAT>GGT	2229	21175	246
+Expressed genes	human	UTR	GAC>GTC	1618	41247	184
+Expressed genes	human	UTR	GAC>GCC	1283	41247	501
+Expressed genes	human	UTR	GAC>GGC	3717	41247	489
+Expressed genes	human	UTR	GAG>GTG	2423	86636	354
+Expressed genes	human	UTR	GAG>GCG	3168	86636	502
+Expressed genes	human	UTR	GAG>GGG	6824	86636	1116
+Expressed genes	human	UTR	GTA>GAA	398	13905	41
+Expressed genes	human	UTR	GTA>GCA	1494	13905	165
+Expressed genes	human	UTR	GTA>GGA	424	13905	158
+Expressed genes	human	UTR	GTT>GAT	588	26750	77
+Expressed genes	human	UTR	GTT>GCT	2488	26750	294
+Expressed genes	human	UTR	GTT>GGT	943	26750	394
+Expressed genes	human	UTR	GTC>GAC	1369	38294	167
+Expressed genes	human	UTR	GTC>GCC	2945	38294	398
+Expressed genes	human	UTR	GTC>GGC	1620	38294	504
+Expressed genes	human	UTR	GTG>GAG	1524	47357	190
+Expressed genes	human	UTR	GTG>GCG	4353	47357	573
+Expressed genes	human	UTR	GTG>GGG	2560	47357	929
+Expressed genes	human	UTR	GCA>GAA	2348	53241	278
+Expressed genes	human	UTR	GCA>GTA	7603	53241	795
+Expressed genes	human	UTR	GCA>GGA	2411	53241	231
+Expressed genes	human	UTR	GCT>GAT	2279	67952	205
+Expressed genes	human	UTR	GCT>GTT	10997	67952	1218
+Expressed genes	human	UTR	GCT>GGT	4787	67952	487
+Expressed genes	human	UTR	GCC>GAC	6357	115074	565
+Expressed genes	human	UTR	GCC>GTC	20993	115074	2251
+Expressed genes	human	UTR	GCC>GGC	6019	115074	627
+Expressed genes	human	UTR	GCG>GAG	10121	102343	1025
+Expressed genes	human	UTR	GCG>GTG	26150	102343	3174
+Expressed genes	human	UTR	GCG>GGG	8292	102343	946
+Expressed genes	human	UTR	GGA>GAA	11283	76157	1222
+Expressed genes	human	UTR	GGA>GTA	4491	76157	435
+Expressed genes	human	UTR	GGA>GCA	5256	76157	487
+Expressed genes	human	UTR	GGT>GAT	5792	38807	604
+Expressed genes	human	UTR	GGT>GTT	3411	38807	370
+Expressed genes	human	UTR	GGT>GCT	2376	38807	259
+Expressed genes	human	UTR	GGC>GAC	16356	112981	1674
+Expressed genes	human	UTR	GGC>GTC	7666	112981	740
+Expressed genes	human	UTR	GGC>GCC	5570	112981	605
+Expressed genes	human	UTR	GGG>GAG	16355	101771	1785
+Expressed genes	human	UTR	GGG>GTG	6092	101771	662
+Expressed genes	human	UTR	GGG>GCG	7310	101771	867
+RIHGs	human	UTR	AAA>ATA	1	41	0
+RIHGs	human	UTR	AAA>ACA	0	41	1
+RIHGs	human	UTR	AAA>AGA	4	41	0
+RIHGs	human	UTR	AAT>ATT	0	10	0
+RIHGs	human	UTR	AAT>ACT	1	10	1
+RIHGs	human	UTR	AAT>AGT	2	10	1
+RIHGs	human	UTR	AAC>ATC	0	20	0
+RIHGs	human	UTR	AAC>ACC	0	20	2
+RIHGs	human	UTR	AAC>AGC	3	20	0
+RIHGs	human	UTR	AAG>ATG	2	55	0
+RIHGs	human	UTR	AAG>ACG	3	55	0
+RIHGs	human	UTR	AAG>AGG	3	55	1
+RIHGs	human	UTR	ATA>AAA	1	8	0
+RIHGs	human	UTR	ATA>ACA	2	8	0
+RIHGs	human	UTR	ATA>AGA	1	8	0
+RIHGs	human	UTR	ATT>AAT	1	18	0
+RIHGs	human	UTR	ATT>ACT	5	18	0
+RIHGs	human	UTR	ATT>AGT	2	18	0
+RIHGs	human	UTR	ATC>AAC	1	16	0
+RIHGs	human	UTR	ATC>ACC	1	16	1
+RIHGs	human	UTR	ATC>AGC	1	16	0
+RIHGs	human	UTR	ATG>AAG	1	9	0
+RIHGs	human	UTR	ATG>ACG	0	9	2
+RIHGs	human	UTR	ATG>AGG	2	9	0
+RIHGs	human	UTR	ACA>AAA	2	33	0
+RIHGs	human	UTR	ACA>ATA	1	33	1
+RIHGs	human	UTR	ACA>AGA	1	33	0
+RIHGs	human	UTR	ACT>AAT	1	32	0
+RIHGs	human	UTR	ACT>ATT	4	32	1
+RIHGs	human	UTR	ACT>AGT	5	32	0
+RIHGs	human	UTR	ACC>AAC	2	52	0
+RIHGs	human	UTR	ACC>ATC	4	52	3
+RIHGs	human	UTR	ACC>AGC	2	52	0
+RIHGs	human	UTR	ACG>AAG	0	13	1
+RIHGs	human	UTR	ACG>ATG	8	13	1
+RIHGs	human	UTR	ACG>AGG	1	13	0
+RIHGs	human	UTR	AGA>AAA	12	75	0
+RIHGs	human	UTR	AGA>ATA	1	75	0
+RIHGs	human	UTR	AGA>ACA	8	75	0
+RIHGs	human	UTR	AGT>AAT	5	33	0
+RIHGs	human	UTR	AGT>ATT	5	33	0
+RIHGs	human	UTR	AGT>ACT	3	33	0
+RIHGs	human	UTR	AGC>AAC	12	87	1
+RIHGs	human	UTR	AGC>ATC	6	87	1
+RIHGs	human	UTR	AGC>ACC	2	87	1
+RIHGs	human	UTR	AGG>AAG	19	82	4
+RIHGs	human	UTR	AGG>ATG	1	82	0
+RIHGs	human	UTR	AGG>ACG	6	82	0
+RIHGs	human	UTR	TAA>TTA	1	16	0
+RIHGs	human	UTR	TAA>TCA	1	16	0
+RIHGs	human	UTR	TAA>TGA	2	16	0
+RIHGs	human	UTR	TAT>TTT	0	6	0
+RIHGs	human	UTR	TAT>TCT	0	6	0
+RIHGs	human	UTR	TAT>TGT	2	6	0
+RIHGs	human	UTR	TAC>TTC	0	10	0
+RIHGs	human	UTR	TAC>TCC	1	10	1
+RIHGs	human	UTR	TAC>TGC	3	10	1
+RIHGs	human	UTR	TAG>TTG	0	21	0
+RIHGs	human	UTR	TAG>TCG	1	21	0
+RIHGs	human	UTR	TAG>TGG	3	21	0
+RIHGs	human	UTR	TTA>TAA	0	11	0
+RIHGs	human	UTR	TTA>TCA	0	11	0
+RIHGs	human	UTR	TTA>TGA	0	11	0
+RIHGs	human	UTR	TTT>TAT	2	24	0
+RIHGs	human	UTR	TTT>TCT	2	24	0
+RIHGs	human	UTR	TTT>TGT	3	24	0
+RIHGs	human	UTR	TTC>TAC	2	34	0
+RIHGs	human	UTR	TTC>TCC	3	34	0
+RIHGs	human	UTR	TTC>TGC	4	34	0
+RIHGs	human	UTR	TTG>TAG	1	39	0
+RIHGs	human	UTR	TTG>TCG	5	39	0
+RIHGs	human	UTR	TTG>TGG	2	39	0
+RIHGs	human	UTR	TCA>TAA	0	31	1
+RIHGs	human	UTR	TCA>TTA	7	31	0
+RIHGs	human	UTR	TCA>TGA	3	31	0
+RIHGs	human	UTR	TCT>TAT	3	47	0
+RIHGs	human	UTR	TCT>TTT	9	47	2
+RIHGs	human	UTR	TCT>TGT	6	47	0
+RIHGs	human	UTR	TCC>TAC	7	52	0
+RIHGs	human	UTR	TCC>TTC	13	52	1
+RIHGs	human	UTR	TCC>TGC	8	52	0
+RIHGs	human	UTR	TCG>TAG	8	48	1
+RIHGs	human	UTR	TCG>TTG	16	48	1
+RIHGs	human	UTR	TCG>TGG	8	48	0
+RIHGs	human	UTR	TGA>TAA	2	32	0
+RIHGs	human	UTR	TGA>TTA	0	32	0
+RIHGs	human	UTR	TGA>TCA	2	32	0
+RIHGs	human	UTR	TGT>TAT	6	33	0
+RIHGs	human	UTR	TGT>TTT	3	33	1
+RIHGs	human	UTR	TGT>TCT	2	33	1
+RIHGs	human	UTR	TGC>TAC	8	50	0
+RIHGs	human	UTR	TGC>TTC	2	50	0
+RIHGs	human	UTR	TGC>TCC	6	50	1
+RIHGs	human	UTR	TGG>TAG	12	56	2
+RIHGs	human	UTR	TGG>TTG	4	56	1
+RIHGs	human	UTR	TGG>TCG	4	56	0
+RIHGs	human	UTR	CAA>CTA	1	26	0
+RIHGs	human	UTR	CAA>CCA	1	26	1
+RIHGs	human	UTR	CAA>CGA	1	26	0
+RIHGs	human	UTR	CAT>CTT	0	13	0
+RIHGs	human	UTR	CAT>CCT	1	13	1
+RIHGs	human	UTR	CAT>CGT	5	13	1
+RIHGs	human	UTR	CAC>CTC	0	48	0
+RIHGs	human	UTR	CAC>CCC	1	48	4
+RIHGs	human	UTR	CAC>CGC	6	48	1
+RIHGs	human	UTR	CAG>CTG	9	100	0
+RIHGs	human	UTR	CAG>CCG	6	100	2
+RIHGs	human	UTR	CAG>CGG	17	100	7
+RIHGs	human	UTR	CTA>CAA	1	19	0
+RIHGs	human	UTR	CTA>CCA	1	19	1
+RIHGs	human	UTR	CTA>CGA	2	19	0
+RIHGs	human	UTR	CTT>CAT	0	31	0
+RIHGs	human	UTR	CTT>CCT	2	31	0
+RIHGs	human	UTR	CTT>CGT	1	31	2
+RIHGs	human	UTR	CTC>CAC	2	83	0
+RIHGs	human	UTR	CTC>CCC	8	83	2
+RIHGs	human	UTR	CTC>CGC	2	83	3
+RIHGs	human	UTR	CTG>CAG	2	69	1
+RIHGs	human	UTR	CTG>CCG	8	69	2
+RIHGs	human	UTR	CTG>CGG	0	69	0
+RIHGs	human	UTR	CCA>CAA	1	69	0
+RIHGs	human	UTR	CCA>CTA	12	69	2
+RIHGs	human	UTR	CCA>CGA	5	69	0
+RIHGs	human	UTR	CCT>CAT	3	61	0
+RIHGs	human	UTR	CCT>CTT	13	61	2
+RIHGs	human	UTR	CCT>CGT	5	61	0
+RIHGs	human	UTR	CCC>CAC	5	100	3
+RIHGs	human	UTR	CCC>CTC	16	100	6
+RIHGs	human	UTR	CCC>CGC	14	100	4
+RIHGs	human	UTR	CCG>CAG	12	92	0
+RIHGs	human	UTR	CCG>CTG	36	92	2
+RIHGs	human	UTR	CCG>CGG	13	92	2
+RIHGs	human	UTR	CGA>CAA	14	37	3
+RIHGs	human	UTR	CGA>CTA	3	37	0
+RIHGs	human	UTR	CGA>CCA	7	37	0
+RIHGs	human	UTR	CGT>CAT	5	21	1
+RIHGs	human	UTR	CGT>CTT	4	21	0
+RIHGs	human	UTR	CGT>CCT	4	21	3
+RIHGs	human	UTR	CGC>CAC	28	92	0
+RIHGs	human	UTR	CGC>CTC	13	92	2
+RIHGs	human	UTR	CGC>CCC	8	92	1
+RIHGs	human	UTR	CGG>CAG	35	110	5
+RIHGs	human	UTR	CGG>CTG	8	110	1
+RIHGs	human	UTR	CGG>CCG	16	110	2
+RIHGs	human	UTR	GAA>GTA	3	45	0
+RIHGs	human	UTR	GAA>GCA	2	45	0
+RIHGs	human	UTR	GAA>GGA	3	45	0
+RIHGs	human	UTR	GAT>GTT	2	22	0
+RIHGs	human	UTR	GAT>GCT	1	22	0
+RIHGs	human	UTR	GAT>GGT	1	22	1
+RIHGs	human	UTR	GAC>GTC	2	50	0
+RIHGs	human	UTR	GAC>GCC	1	50	0
+RIHGs	human	UTR	GAC>GGC	4	50	1
+RIHGs	human	UTR	GAG>GTG	5	99	0
+RIHGs	human	UTR	GAG>GCG	5	99	0
+RIHGs	human	UTR	GAG>GGG	13	99	0
+RIHGs	human	UTR	GTA>GAA	2	16	0
+RIHGs	human	UTR	GTA>GCA	2	16	1
+RIHGs	human	UTR	GTA>GGA	2	16	0
+RIHGs	human	UTR	GTT>GAT	1	34	0
+RIHGs	human	UTR	GTT>GCT	8	34	2
+RIHGs	human	UTR	GTT>GGT	4	34	1
+RIHGs	human	UTR	GTC>GAC	3	40	1
+RIHGs	human	UTR	GTC>GCC	4	40	1
+RIHGs	human	UTR	GTC>GGC	4	40	0
+RIHGs	human	UTR	GTG>GAG	1	52	0
+RIHGs	human	UTR	GTG>GCG	4	52	1
+RIHGs	human	UTR	GTG>GGG	2	52	4
+RIHGs	human	UTR	GCA>GAA	6	63	0
+RIHGs	human	UTR	GCA>GTA	15	63	1
+RIHGs	human	UTR	GCA>GGA	2	63	0
+RIHGs	human	UTR	GCT>GAT	2	66	0
+RIHGs	human	UTR	GCT>GTT	13	66	2
+RIHGs	human	UTR	GCT>GGT	7	66	1
+RIHGs	human	UTR	GCC>GAC	4	118	0
+RIHGs	human	UTR	GCC>GTC	25	118	4
+RIHGs	human	UTR	GCC>GGC	7	118	0
+RIHGs	human	UTR	GCG>GAG	8	109	2
+RIHGs	human	UTR	GCG>GTG	39	109	5
+RIHGs	human	UTR	GCG>GGG	10	109	3
+RIHGs	human	UTR	GGA>GAA	14	73	0
+RIHGs	human	UTR	GGA>GTA	3	73	0
+RIHGs	human	UTR	GGA>GCA	0	73	0
+RIHGs	human	UTR	GGT>GAT	6	54	0
+RIHGs	human	UTR	GGT>GTT	5	54	1
+RIHGs	human	UTR	GGT>GCT	6	54	1
+RIHGs	human	UTR	GGC>GAC	15	123	4
+RIHGs	human	UTR	GGC>GTC	11	123	1
+RIHGs	human	UTR	GGC>GCC	9	123	0
+RIHGs	human	UTR	GGG>GAG	20	90	2
+RIHGs	human	UTR	GGG>GTG	3	90	1
+RIHGs	human	UTR	GGG>GCG	9	90	2

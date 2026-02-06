@@ -31,6 +31,10 @@ This table reports rare-variant densities for each human gene across various gen
 2. Apply coverage and mappability filters (for `4dsite_snv`, additionally filter 4-fold degenerate sites), then convert the result to a bigWig track.
 3. Produce this table with `scripts/calcu_transcript_feature.py`.
 
+### Data sources
+
+1. gnomAD variant database: [https://gnomad.broadinstitute.org/data#v4](https://gnomad.broadinstitute.org/data#v4).
+2. human GENCODE V44 annotation: [https://www.gencodegenes.org/human/release_44.html](https://www.gencodegenes.org/human/release_44.html).
 
 ## `human.ortholog_mouse_monkey.dnds_similarity.tsv`
 
@@ -38,8 +42,8 @@ This file provides inter-species metrics comparing human to mouse and human to m
 
 ### How to generate
 
-1. Identify orthologs using OrthoFinder and standardized histone gene names.
-2. Compute dN and dS with `kaks_calculator`. For sequence similarity we directly compare aligned peptide pairs:
+1. Identify orthologs using [OrthoFinder](https://github.com/davidemms/OrthoFinder) and standardized histone gene names.
+2. Compute dN and dS with [kaks_calculator](https://ngdc.cncb.ac.cn/biocode/tools/BT000001). For sequence similarity we directly compare aligned peptide pairs:
 ```
 def calculate_similarity(pep1, pep2):
     assert len(pep1) == len(pep2), "Peptide lengths do not match."
