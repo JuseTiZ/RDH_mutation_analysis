@@ -26,6 +26,10 @@ def get_args():
     params_parser.add_argument("--no_singleton", action='store_true')
     params_parser.add_argument("--contain_strand", action='store_true',
                         help="Use to combine strand information.")
+    params_parser.add_argument("--AC_tag", default='AC',
+                        help="The AC tag in VCF file.")
+    params_parser.add_argument("--AN_tag", default='AN',
+                        help="The AN tag in VCF file.")
     
     output_parser = parser.add_argument_group("Output parameters")
     output_parser.add_argument("--output_path", default='.',
@@ -142,7 +146,7 @@ def main():
                     pos = record.POS
                     ref, alt = record.REF, record.ALT[0]
                     try:
-                        ac, an = record.INFO['AC'], record.INFO['AN']
+                        ac, an = record.INFO[args.AC_tag], record.INFO[args.AN_tag]
                         af = ac / an
                         if args.no_singleton and ac == 1:
                             continue
