@@ -54,4 +54,4 @@ Data were integrated from the following sources:
 
 ## `ukb.RDH_burden.WBnR.association.continu.MSA-MTR_0.649_AF0.001.tsv`
 
-This table summarizes the association between cognitive phenotypes and coding variant burden in RDH genes. It corresponds to **Supplementary Table 7** in the paper.
+This table summarizes the association between cognitive phenotypes and coding variant burden in core RDH genes. It corresponds to **Supplementary Table 7** in the paper.
