@@ -8,6 +8,9 @@ If you have any questions, please feel free to contact me via **[e-mail](mailto:
   - [`cRDH.secondary_structure_anno.json`](#crdhsecondary_structure_annojson)
   - [`gene.variant_record.gnomad_RGCME.csv`](#genevariant_recordgnomad_rgcmecsv)
 
+**Abbreviation:**
+- cRDH —— core RDH
+
 ## `Bagert_histone_mut.benchmark.tsv`
 
 This file corresponds to **Supplementary Table 2**. It serves as a benchmark dataset linking missense substitutions in cRDHs to experimentally measured phenotypic effects.
@@ -16,7 +19,7 @@ This file corresponds to **Supplementary Table 2**. It serves as a benchmark dat
 
 A reproducible workflow follows the methods described in the original paper. Briefly:
 
-1. **Enumerate all possible SNVs** across cRDHG coding sequences to produce a comprehensive VCF.
+1. **Enumerate all possible SNVs** across core RDH coding sequences to produce a comprehensive VCF.
 2. **Annotate functional consequence** using **ANNOVAR**.
 3. For each missense SNV, **compute functional scores** (REVEL, AlphaMissense, MSA-MTR, MPC, ProSST, ESM-1v, etc.) using either VEP plugins or in-house Python parsing.
 4. **Retrieve quantitative phenotypic effects** from
