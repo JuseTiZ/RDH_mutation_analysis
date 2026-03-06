@@ -1,6 +1,6 @@
 # Overview
 
-If you have any questions, please feel free to contact me via **[e-mail](mailto:jiangzj6@mail2.sysu.edu.cn)** or open an **[issue on GitHub](https://github.com/JuseTiZ/RDHGs_mutation_analysis/issues)**.
+If you have any questions, please feel free to contact us via **[e-mail](mailto:jiangzj6@mail2.sysu.edu.cn)** or open an **[issue on GitHub](https://github.com/JuseTiZ/RDHGs_mutation_analysis/issues)**.
 
 - [`ASD-related_gene.lst`](#asd-related_genelst)
 - [`DD_denovo.RDH_distribution.tsv`](#dd_denovordh_distributiontsv)

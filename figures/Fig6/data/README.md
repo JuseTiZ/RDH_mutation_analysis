@@ -1,6 +1,6 @@
 # Overview
 
-If you have any questions, please feel free to contact me via **[e-mail](mailto:jiangzj6@mail2.sysu.edu.cn)** or open an **[issue on GitHub](https://github.com/JuseTiZ/RDHGs_mutation_analysis/issues)**.
+If you have any questions, please feel free to contact us via **[e-mail](mailto:jiangzj6@mail2.sysu.edu.cn)** or open an **[issue on GitHub](https://github.com/JuseTiZ/RDHGs_mutation_analysis/issues)**.
 
 - [Folder `nonsyn_SFSs_DFEs`](#folder-nonsyn_sfss_dfes)
 - [`1KG_sanders.trio_TRD_analysis.tsv`](#1kg_sanderstrio_trd_analysistsv)
