@@ -97,8 +97,8 @@ Columns:
 
 The full procedure for DFE inference is described in detail in the paper. Briefly:
 
-1. Infer the demographic model using the **synonymous SFS of the whole CDS**.
-2. Generate SFSs under different levels of selection.
+1. Infer the demographic model using the **synonymous SFS of the whole CDS** (`scripts/demography_perturb_opt.py`).
+2. Generate SFSs under different levels of selection (`scripts/DFE_cache.py`).
 3. For each gene group:
 
    * Estimate θ<sub>s</sub> using the demographic model and synonymous SFS.
