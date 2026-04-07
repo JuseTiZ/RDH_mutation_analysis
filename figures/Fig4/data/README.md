@@ -55,11 +55,6 @@ Data were integrated from the following sources:
 - DNMs from DD patients (as described above)
 - Functional annotation performed using **ANNOVAR**
 
-## `human_cRDH_gene.gencodev44.lst`
-
-This file contains gene symbols of core RDH genes in the human genome annotation (GENCODE v44).  
-Pseudohistone genes are those with the letter “P” in the gene symbol.
-
 ## `RDH_all_possible_mis_syn_mutation_annotated.tsv`
 
 This table provides detailed annotations for all possible missense and synonymous SNVs in core RDH genes.
