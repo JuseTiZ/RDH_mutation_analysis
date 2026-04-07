@@ -4,8 +4,8 @@ If you have any questions, please feel free to contact us via **[e-mail](mailto:
 
 - [Folder `nonsyn_SFSs_DFEs`](#folder-nonsyn_sfss_dfes)
 - [`1KG_sanders.trio_TRD_analysis.tsv`](#1kg_sanderstrio_trd_analysistsv)
-- [`Neville2024_sperm_mutation.tsv`](#neville2024_sperm_mutationtsv)
-
+- [`Neville2025_*`](#neville2025_)
+  
 ## Folder `nonsyn_SFSs_DFEs`
 
 This folder contains **site frequency spectra (SFSs)** and the **estimated parameters of the distribution of fitness effects (DFEs)** for different gene groups.
@@ -133,17 +133,23 @@ This file contains **filtered variant records for trios** from the 1KG and Sande
 * **gnomAD SNV allele frequencies:**
   [https://gnomad.broadinstitute.org/data#v4](https://gnomad.broadinstitute.org/data#v4)
 
-## `Neville2024_sperm_mutation.tsv`
+## `Neville2025_*`
 
-This file originates from **Supplementary Table 5** in the study by [Neville et al.](https://doi.org/10.1038/s41586-025-09448-3).
+### `Neville2025_SupTable7_SpermExomeTargVars.hg38.vcf`
 
-We added three additional columns:
+Variants (hg19 coordinates) were obtained from **“Supplementary Table 7 | Sperm Exome and Targeted NanoSeq Variants”** in the study by [Neville et al.](https://doi.org/10.1038/s41586-025-09448-3). Coordinates were lifted over to hg38 using **CrossMap**.
 
-| Column      | Description                                                        |
-| ----------- | ------------------------------------------------------------------ |
-| `non_nsite` | Sum of mutation rates for all possible nonsense SNVs in the gene   |
-| `mis_nsite` | Sum of mutation rates for all possible missense SNVs in the gene   |
+### `Neville2025_SupTable7_SpermExomeTargVars.hg38.refGene.exonic_variant_function`
+
+ANNOVAR annotation results (GENCODE v44) for `Neville2025_SupTable7_SpermExomeTargVars.hg38.vcf`.
+
+### `Neville2025_sperm_mutation_count.with_site.tsv`
+
+Gene-level mutation count summary derived from  
+`Neville2025_SupTable7_SpermExomeTargVars.hg38.refGene.exonic_variant_function`, with additional gene-group annotations and three columns calculated from [MuRaL](https://github.com/CaiLiLab/MuRaL)-predicted mutation rates:
+
+| Column      | Description                                                      |
+|-------------|------------------------------------------------------------------|
+| `non_nsite` | Sum of mutation rates for all possible nonsense SNVs in the gene |
+| `mis_nsite` | Sum of mutation rates for all possible missense SNVs in the gene |
 | `ssite`     | Sum of mutation rates for all possible synonymous SNVs in the gene |
-
-All mutation rates were predicted using **MuRaL**:
-[https://github.com/CaiLiLab/MuRaL](https://github.com/CaiLiLab/MuRaL)

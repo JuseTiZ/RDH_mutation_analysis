@@ -2,18 +2,18 @@
 
 If you have any questions, please feel free to contact us via **[e-mail](mailto:jiangzj6@mail2.sysu.edu.cn)** or open an **[issue on GitHub](https://github.com/JuseTiZ/RDHGs_mutation_analysis/issues)**.
 
-  - [`Bagert_histone_mut.benchmark.tsv`](#bagert_histone_mutbenchmarktsv)
-  - [`cRDH.MSA_MTR.obs_RGC.pred_MuRaL.csv`](#crdhmsa_mtrobs_rgcpred_muralcsv)
-  - [`cRDH.PTM.intra_interaction.summary.pkl`](#crdhptmintra_interactionsummarypkl)
-  - [`cRDH.secondary_structure_anno.json`](#crdhsecondary_structure_annojson)
-  - [`gene.variant_record.gnomad_RGCME.csv`](#genevariant_recordgnomad_rgcmecsv)
+- [`Bagert_histone_mut.benchmark.tsv`](#bagert_histone_mutbenchmarktsv)
+- [`cRDH.HistMTR.obs_RGC.pred_MuRaL.tsv`](#crdhhistmtrobs_rgcpred_muraltsv)
+- [`cRDH.PTM.intra_interaction.summary.pkl`](#crdhptmintra_interactionsummarypkl)
+- [`cRDH.secondary_structure_anno.json`](#crdhsecondary_structure_annojson)
+- [`gene.variant_record.gnomad_RGCME.csv`](#genevariant_recordgnomad_rgcmecsv)
 
 **Abbreviation:**
 - cRDH —— core RDH
 
 ## `Bagert_histone_mut.benchmark.tsv`
 
-This file corresponds to **Supplementary Table 2**. It serves as a benchmark dataset linking missense substitutions in cRDHs to experimentally measured phenotypic effects.
+This file corresponds to **Supplementary Table 3**. It serves as a benchmark dataset linking missense substitutions in cRDHs to experimentally measured phenotypic effects.
 
 ### How this file was generated
 
@@ -21,7 +21,7 @@ A reproducible workflow follows the methods described in the original paper. Bri
 
 1. **Enumerate all possible SNVs** across core RDH coding sequences to produce a comprehensive VCF.
 2. **Annotate functional consequence** using **ANNOVAR**.
-3. For each missense SNV, **compute functional scores** (REVEL, AlphaMissense, MSA-MTR, MPC, ProSST, ESM-1v, etc.) using either VEP plugins or in-house Python parsing.
+3. For each missense SNV, **compute functional scores** (REVEL, AlphaMissense, HistMTR, MPC, ProSST, ESM-1v, etc.) using either VEP plugins or in-house Python parsing.
 4. **Retrieve quantitative phenotypic effects** from
    *Bagert et al., Nat. Chem. Biol., 2021*
    DOI: [https://doi.org/10.1038/s41589-021-00738-1](https://doi.org/10.1038/s41589-021-00738-1)
@@ -29,7 +29,7 @@ A reproducible workflow follows the methods described in the original paper. Bri
 
 ### Resources for functional metrics
 
-* **MSA-MTR**
+* **HistMTR**
 
   * Population-observed variants: **RGC-ME**
     [https://rgc-research.regeneron.com/me/home](https://rgc-research.regeneron.com/me/home)
@@ -50,9 +50,6 @@ A reproducible workflow follows the methods described in the original paper. Bri
           --plugin REVEL,file=[path]/new_tabbed_revel_grch38.tsv.gz,no_match=1
   ```
 
-* **phyloP100way conservation**
-  [https://hgdownload.cse.ucsc.edu/goldenpath/hg38/phyloP100way/](https://hgdownload.cse.ucsc.edu/goldenpath/hg38/phyloP100way/)
-
 * **RGC-MTR**
   [https://doi.org/10.6084/m9.figshare.24587328](https://doi.org/10.6084/m9.figshare.24587328)
 
@@ -70,9 +67,9 @@ A reproducible workflow follows the methods described in the original paper. Bri
 * **ESM-1v functional prediction**
   Pipeline from: [https://github.com/ntranoslab/esm-variants](https://github.com/ntranoslab/esm-variants)
 
-## `cRDH.MSA_MTR.obs_RGC.pred_MuRaL.csv`
+## `cRDH.HistMTR.obs_RGC.pred_MuRaL.tsv`
 
-This file reports **MSA-MTR** values for every position across cRDHs. It corresponds to **Supplementary Table 4**.
+This file reports **HistMTR** values for every position across cRDHs. It corresponds to **Supplementary Table 5**.
 
 Values are derived from:
 

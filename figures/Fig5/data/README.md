@@ -18,4 +18,4 @@ This table contains rare variant densities and PhyloP 100-way conservation score
 
 ## `ukb.stemloop_burden.WBnR.aggregate_mutation_association.binary.tsv`
 
-This table summarizes the association between reproductive phenotypes and regulatory variant burden in RDH genes. It corresponds to **Supplementary Table 9** in the paper.
+This table summarizes the association between reproductive phenotypes and regulatory variant burden in RDH genes. It corresponds to **Supplementary Table 11** in the paper.

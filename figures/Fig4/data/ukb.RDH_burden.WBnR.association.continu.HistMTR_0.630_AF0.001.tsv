@@ -1,0 +1,10 @@
+variable	phenotype	#indivi	#indivi_with_variant	p_value	p_bonferroni	beta	beta_ci_lower	beta_ci_upper	sex
+missense	Fluid intelligence score	107786	1343	0.000804	0.007236	-0.191762	-0.304	-0.08	both
+missense	Reaction time (IN)	332138	4011	0.008866	0.079794	0.038405	0.01	0.067	both
+missense	Years of education	331077	3992	0.163679	1	-0.109607	-0.264	0.045	both
+pLoF	Fluid intelligence score	107786	2514	0.741035	1	0.013899	-0.069	0.096	both
+pLoF	Reaction time (IN)	332138	7667	0.376911	1	-0.009432	-0.03	0.011	both
+pLoF	Years of education	331077	7650	0.051094	0.459846	0.111531	-0.001	0.224	both
+synonymous	Fluid intelligence score	107786	15070	0.064436	0.579924	-0.033847	-0.07	0.002	both
+synonymous	Reaction time (IN)	332138	45921	0.680796	1	-0.00191	-0.011	0.007	both
+synonymous	Years of education	331077	45835	0.395834	1	-0.021119	-0.07	0.028	both
