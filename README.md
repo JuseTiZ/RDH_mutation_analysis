@@ -7,7 +7,7 @@
 
 ## 1. Introduction
 
-This repository contains the main datasets and scripts used in the analyses described in  **"Markedly elevated mutation burden in ultraconserved histone genes"**.
+This repository contains the main datasets and scripts used in the analyses described in  **"Hypermutability of ultraconserved histone genes and its contribution to human disease"**.
 
 ## 2. Repository Structure
 
