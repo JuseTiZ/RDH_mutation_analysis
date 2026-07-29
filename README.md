@@ -34,6 +34,15 @@ conda activate rdhgs-mutation-analysis
 
 The environment contains the dependencies used by all Python scripts and figure notebooks in this repository. `figures/Fig2/fig2_c_d.ipynb` additionally refers to external BigWig, GTF, and deepTools matrix files through machine-specific paths; replace those paths when running the notebook on another system.
 
+### Expected runtime
+
+On the Linux server used to validate this repository:
+
+- Creating the Conda environment takes approximately **8–12 minutes**, including dependency solving and about 410 MB of package downloads. The actual time depends on network speed and whether the Conda package cache is warm.
+- Running all 19 figure notebooks and smoke-loading all 7 command-line scripts takes approximately **3–5 minutes** in total, provided that the external files required by `fig2_c_d.ipynb` are available.
+
+The second estimate covers complete notebook execution and dependency/CLI checks for the command-line scripts. Full production runs of the command-line scripts are not included because they require user-supplied FASTA, VCF, GTF, and BigWig files, and their runtime can range from minutes to hours or longer depending on input size, CPU count, and analysis parameters.
+
 The MuSiCal dependency used by `figures/Fig2/fig2_e_f.ipynb` is distributed under its own academic and non-commercial research license. The MIT license of this repository does not replace the licenses of third-party dependencies or datasets.
 
 ## 4. Citation
