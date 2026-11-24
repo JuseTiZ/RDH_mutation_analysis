@@ -82,16 +82,17 @@ For VCF files **with genotype information** (e.g., 1KG), `dadi.Misc.make_data_di
 
 ### `gnomadv4.nfe.folded.NS2000.*_1d_dfe_fits.result`
 
-These files contain **estimated parameters of the DFE**, assuming a **gamma distribution of 2Ns**.
+These tab-separated files contain Gamma DFE fits for the four gene groups in filtered gnomAD NFE data under the bottleneck–plateau–growth (BPG) demographic model. The Gamma distribution is fitted to scaled deleterious selection-coefficient magnitudes.
 
-Columns:
+| Column | Description |
+| ------ | ----------- |
+| `ll` | Log-likelihood |
+| `alpha` | Gamma shape parameter |
+| `beta` | Gamma scale parameter |
+| `theta` | Nonsynonymous θ used in `dadi.Inference.opt` |
+| `replicate` | `-1` for a full-data optimisation start, or `0`–`99` for a gene-bootstrap replicate |
 
-| Column | Description                                 |
-| ------ | ------------------------------------------- |
-| 1      | Log-likelihood                              |
-| 2      | Gamma shape parameter (α)                   |
-| 3      | Gamma scale parameter (β)                   |
-| 4      | θ<sub>ns</sub> used in `dadi.Inference.opt` |
+Each file has a header and 200 data rows. The 100 full-data rows contain fits from different optimisation starts. The fit with the highest log-likelihood gives the point estimates plotted in Fig. 6. Each bootstrap row contains the best valid fit for that resampled dataset. A failed replicate retains its number and has blank values in the other four columns.
 
 #### How to generate these files
 
@@ -103,7 +104,8 @@ The full procedure for DFE inference is described in detail in the paper. Briefl
 
    * Estimate θ<sub>s</sub> using the demographic model and synonymous SFS.
    * Scale θ<sub>s</sub> to θ<sub>ns</sub> using the site-count ratio calculated from **MuRaL-derived mutation rates**.
-4. Assume a **gamma probability density function for 2Ns** and infer the parameters.
+4. Fit the Gamma DFE from multiple optimisation starts and select the valid fit with the highest log-likelihood.
+5. Resample genes and repeat the DFE fit for each bootstrap replicate, keeping the BPG demographic parameters and ancestral effective population size fixed and adjusting nonsynonymous θ using the resampled synonymous SFS.
 
 Following the `basic_workflow` in the `dadi` repository is recommended as a starting point.
 

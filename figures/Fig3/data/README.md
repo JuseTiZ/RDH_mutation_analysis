@@ -13,7 +13,7 @@ If you have any questions, please feel free to contact us via **[e-mail](mailto:
 
 ## `Bagert_histone_mut.benchmark.tsv`
 
-This file corresponds to **Supplementary Table 3**. It serves as a benchmark dataset linking missense substitutions in cRDHs to experimentally measured phenotypic effects.
+This file corresponds to **Supplementary Table 5**. It serves as a benchmark dataset linking missense substitutions in cRDHs to experimentally measured phenotypic effects.
 
 ### How this file was generated
 
@@ -69,7 +69,7 @@ A reproducible workflow follows the methods described in the original paper. Bri
 
 ## `cRDH.HistMTR.obs_RGC.pred_MuRaL.tsv`
 
-This file reports **HistMTR** values for every position across cRDHs. It corresponds to **Supplementary Table 5**.
+This file reports **HistMTR** values for every position across cRDHs. It corresponds to **Supplementary Table 7**.
 
 Values are derived from:
 

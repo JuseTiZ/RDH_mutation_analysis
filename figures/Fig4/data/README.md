@@ -6,7 +6,7 @@ If you have any questions, please feel free to contact us via **[e-mail](mailto:
 - [`DD_denovo.RDH_distribution.tsv`](#dd_denovordh_distributiontsv)
 - [`denovoWEST_DD-related_gene.lst`](#denovowest_dd-related_genelst)
 - [`Fu2022_Nature_autism_denovo_snv-indel.ST7.per-gene_case-control-count.csv`](#fu2022_nature_autism_denovo_snv-indelst7per-gene_case-control-countcsv)
-- [`gencodev44_DD_gnomADnfe_integration.tsv`](#gencodev44_dd_gnomadnfe_integrationtsv)
+- [`gencodev44.DD_DNM_gnomADnfe_rare.filter_cov_mappa.integration.tsv`](#gencodev44dd_dnm_gnomadnfe_rarefilter_cov_mappaintegrationtsv)
 - [`human_cRDH_gene.gencodev44.lst`](#human_crdh_genegencodev44lst)
 - [`RDH_all_possible_mis_syn_mutation_annotated.tsv`](#rdh_all_possible_mis_syn_mutation_annotatedtsv)
 - [`ukb.RDH_burden.WBnR.association.continu.HistMTR_0.630_AF0.001.tsv`](#ukbrdh_burdenwbnrassociationcontinuhistmtr_0630_af0001tsv)
@@ -18,7 +18,7 @@ This file lists autism spectrum disorder (ASD)–associated genes identified usi
 
 ## `DD_denovo.RDH_distribution.tsv`
 
-This file summarizes the distribution of de novo mutations (DNMs) from developmental disorder (DD) patients in core RDH genes, together with relevant annotations from the DECIPHER database. This table corresponds to **Supplementary Table 8** in the paper.
+This file summarizes the distribution of de novo mutations (DNMs) from developmental disorder (DD) patients in core RDH genes, together with relevant annotations from the DECIPHER database. This table corresponds to **Supplementary Table 10** in the paper.
 
 **Data sources:**
 
@@ -36,9 +36,9 @@ This file was obtained from ***Supplementary Table 7*** of [Fu et al.](https://d
 
 The definition of each column can be found in the original supplementary table.
 
-## `gencodev44_DD_gnomADnfe_integration.tsv`
+## `gencodev44.DD_DNM_gnomADnfe_rare.filter_cov_mappa.integration.tsv`
 
-This table summarizes **gene-level variant counts** based on gnomAD SNPs (NFE subset) and DNMs from DD patients.
+This table summarizes **gene-level variant counts** for DNMs from DD patients and rare variants from the gnomAD NFE subset. The control set consists of variants with an allele frequency of 0.0001 or lower within the NFE subset. Counts for both datasets are restricted to regions that pass the mappability (GenMap score) and coverage (gnomAD coverage) filters.
 
 ### Columns
 
@@ -71,7 +71,8 @@ This table provides detailed annotations for all possible missense and synonymou
 | `HistMTR` | HistMTR value for this amino-acid position |
 | `DD DNM count` | Occurrence count in DNMs from DD patients |
 | `is in gnomAD NFE` | Whether the variant is present in the gnomAD NFE subset |
+| `is_in_whitelist` | Boolean flag indicating whether the variant lies in a region that passes both the mappability (GenMap score) and coverage (gnomAD coverage) filters |
 
 ## `ukb.RDH_burden.WBnR.association.continu.HistMTR_0.630_AF0.001.tsv`
 
-This table summarizes the association between cognitive phenotypes and coding variant burden in core RDH genes. It corresponds to **Supplementary Table 9** in the paper.
+This table summarizes the association between cognitive phenotypes and coding variant burden in core RDH genes. It corresponds to **Supplementary Table 12** in the paper.

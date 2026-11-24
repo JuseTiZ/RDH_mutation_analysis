@@ -66,4 +66,4 @@ This file summarizes variant counts on 4-fold degenerate sites for RDH genes and
 | `total site`    | Number of considered sites                                               |
 | `total mask`    | Number of masked sites (used to compute corrected rare-variant density)  |
 
-Sources for the data used to compute these statistics are referenced in the paper’s supplementary tables.
+Sources for the data used to compute these statistics are listed in **Supplementary Table 20** of the paper.
