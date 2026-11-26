@@ -98,14 +98,16 @@ Each file has a header and 200 data rows. The 100 full-data rows contain fits fr
 
 The full procedure for DFE inference is described in detail in the paper. Briefly:
 
-1. Infer the demographic model using the **synonymous SFS of the whole CDS** (`scripts/demography_perturb_opt.py`).
-2. Generate SFSs under different levels of selection (`scripts/DFE_cache.py`).
+1. Fit the BPG model to the **projected synonymous SFS of the whole CDS** with `scripts/demography_perturb_opt.py`. Use `--fs` to supply the projected spectrum and `--model bpg --seed 42 --starts 100` to reproduce the optimisation settings.
+2. Generate the selection cache with `scripts/DFE_cache.py` using the same projected sample size and the best-fit BPG parameters. Pass the demographic `.result` table or the saved `demography.json` as `--opt_result`. The cache uses 300 points spanning scaled selection-coefficient magnitudes from 0.0001 to 7,500.
 3. For each gene group:
 
    * Estimate θ<sub>s</sub> using the demographic model and synonymous SFS.
    * Scale θ<sub>s</sub> to θ<sub>ns</sub> using the site-count ratio calculated from **MuRaL-derived mutation rates**.
 4. Fit the Gamma DFE from multiple optimisation starts and select the valid fit with the highest log-likelihood.
 5. Resample genes and repeat the DFE fit for each bootstrap replicate, keeping the BPG demographic parameters and ancestral effective population size fixed and adjusting nonsynonymous θ using the resampled synonymous SFS.
+
+Command-line examples are available in the [scripts README](../../../scripts/README.md#demography_perturb_optpy).
 
 Following the `basic_workflow` in the `dadi` repository is recommended as a starting point.
 
